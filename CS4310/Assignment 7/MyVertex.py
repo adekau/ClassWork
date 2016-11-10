@@ -21,4 +21,6 @@ class MyVertex:
 
 	def add_edge(self, edge):
 		self.E[edge.getUid()] = edge
-		
+
+	def remove_edge(self, edge):
+		del self.E[edge.getUid()]
