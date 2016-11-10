@@ -1,9 +1,10 @@
 class MyEdge:
 	counter = 0 
 
-	def __init__(self, label=None, value=None):
+	def __init__(self, label=None, value=None, directed=0):
 		self.label = label
 		self.value = value
+		self.directed = directed
 		self.uid = MyEdge.counter 
 		MyEdge.counter = MyEdge.counter + 1
 
@@ -15,3 +16,6 @@ class MyEdge:
 
 	def getValue(self):
 		return self.value
+
+	def is_directed(self):
+		return directed == 1

@@ -7,6 +7,9 @@ class MyVertex:
 		self.uid = MyVertex.counter 
 		MyVertex.counter = MyVertex.counter + 1
 
+		# Edges that belong to this vertex.
+		self.E = {}
+
 	def getUid(self):
 		return self.uid
 
@@ -15,3 +18,7 @@ class MyVertex:
 
 	def getValue(self):
 		return self.value
+
+	def add_edge(self, edge):
+		self.E[edge.getUid()] = edge
+		
