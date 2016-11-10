@@ -1,1 +1,0 @@
-cmd_/home/adekau/ClassWork/CS4540/kernelmod/kermod.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/adekau/ClassWork/CS4540/kernelmod/kermod.ko /home/adekau/ClassWork/CS4540/kernelmod/kermod.o /home/adekau/ClassWork/CS4540/kernelmod/kermod.mod.o

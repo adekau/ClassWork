@@ -1,5 +1,6 @@
 #include <linux/kernel.h>
 #include <linux/module.h>
+#include <linux/init.h>
 
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Alex Dekau");
