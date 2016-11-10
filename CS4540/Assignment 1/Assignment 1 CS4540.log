@@ -1,0 +1,168 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.9.6)  13 SEP 2016 08:53
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**"Assignment 1 CS4540.tex"
+(./Assignment 1 CS4540.tex
+LaTeX2e <2016/03/31>
+Babel <3.9r> and hyphenation patterns for 22 language(s) loaded.
+(/usr/local/texlive/2016basic/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2016basic/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2016basic/texmf-dist/tex/latex/listings/listings.sty
+(/usr/local/texlive/2016basic/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+\lst@mode=\count87
+\lst@gtempboxa=\box26
+\lst@token=\toks15
+\lst@length=\count88
+\lst@currlwidth=\dimen103
+\lst@column=\count89
+\lst@pos=\count90
+\lst@lostspace=\dimen104
+\lst@width=\dimen105
+\lst@newlines=\count91
+\lst@lineno=\count92
+\lst@maxwidth=\dimen106
+
+(/usr/local/texlive/2016basic/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+\c@lstnumber=\count93
+\lst@skipnumbers=\count94
+\lst@framebox=\box27
+)
+(/usr/local/texlive/2016basic/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2015/06/04 1.6 listings configuration
+))
+Package: listings 2015/06/04 1.6 (Carsten Heinz)
+
+(./Assignment 1 CS4540.aux)
+\openout1 = `"Assignment 1 CS4540.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+\c@lstlisting=\count95
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 8.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 8.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 8.
+ [1
+
+{/usr/local/texlive/2016basic/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2
+]
+Underfull \hbox (badness 10000) in paragraph at lines 54--56
+[]\OT1/cmr/m/n/10.95 https://technet.microsoft.com/en-us/library/cc776371(v=ws.
+10).aspx
+ []
+
+
+Overfull \hbox (18.04916pt too wide) in paragraph at lines 58--60
+[]\OT1/cmr/m/n/10.95 https://msdn.microsoft.com/en-us/windows/hardware/drivers/
+install/how-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--64
+[]\OT1/cmr/m/n/10.95 http://www.techrepublic.com/blog/it-security/defend-agains
+t-kernel-
+ []
+
+
+Overfull \hbox (70.67017pt too wide) in paragraph at lines 66--68
+[]\OT1/cmr/m/n/10.95 https://msdn.microsoft.com/en-us/library/windows/hardware/
+ff554836(v=vs.85).aspx
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--72
+[]\OT1/cmr/m/n/10.95 http://www.howtogeek.com/167723/how-to-disable-driver-sign
+ature-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--72
+\OT1/cmr/m/n/10.95 verification-on-64-bit-windows-8.1-so-that-you-can-install-u
+nsigned-
+ []
+
+[3]
+Overfull \hbox (70.67017pt too wide) in paragraph at lines 74--76
+[]\OT1/cmr/m/n/10.95 https://msdn.microsoft.com/en-us/library/windows/hardware/
+ff554811(v=vs.85).aspx
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--80
+[]\OT1/cmr/m/n/10.95 http://www.infoworld.com/article/2988096/mac-os-x/sorry-un
+ix-fans-
+ []
+
+
+Overfull \hbox (17.24326pt too wide) in paragraph at lines 82--84
+[]\OT1/cmr/m/n/10.95 https://developer.apple.com/library/mac/referencelibrary/G
+ettingStarted/ 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--89
+[]\OT1/cmr/m/n/10.95 http://stackoverflow.com/questions/1565323/linux-kernel-mo
+dules-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 91--93
+[]\OT1/cmr/m/n/10.95 http://www.tldp.org/LDP/lkmpg/2.6/html/lkmpg.html#AEN121
+ []
+
+[4] (./Assignment 1 CS4540.aux) ) 
+Here is how much of TeX's memory you used:
+ 1455 strings out of 494447
+ 20737 string characters out of 6166767
+ 73352 words of memory out of 5000000
+ 4849 multiletter control sequences out of 15000+600000
+ 8233 words of font info for 29 fonts, out of 8000000 for 9000
+ 319 hyphenation exceptions out of 8191
+ 26i,6n,32p,670b,219s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2016basic/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2016basic/texmf-dist/f
+onts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2016basic/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2016basic/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2016basic/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2016basic/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on "Assignment 1 CS4540.pdf" (4 pages, 85777 bytes).
+PDF statistics:
+ 41 PDF objects out of 1000 (max. 8388607)
+ 28 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

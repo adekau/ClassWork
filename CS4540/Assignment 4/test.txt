@@ -1,0 +1,7 @@
+// Using sem_timedwait here because if there's a deadlock (1 process has
+// stdin and another has stdout) then those processes that hold those two
+// semaphores would infinitely wait on the next sem_wait because both
+// semaphores are taken. Sem_timedwait will cancel the wait if it goes past
+// whatever is defined in a timespec struct. This will allow the breaking of
+// the deadlock later in the code.
+

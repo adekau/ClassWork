@@ -1,0 +1,48 @@
+#include <stdlib.h>
+#include <stdint.h>
+#include <stdio.h>
+#include "process.h"
+#include "lib3.h"
+/* -bounded_rand--------------------------------------------------------------------
+ * Generates a random number (inclusive) between an upper & lower bound.
+ * -PARAMS:
+ *   lb : Lower bound number.
+ *   ub : Upper bound number.
+ *   num: A pointer to an integer that the random number will be stored in.
+ * --------------------------------------------------------------------------------*/
+void bounded_rand(int lb, int ub, int *num) {
+  uint16_t randnum = 0;
+  rdrand16_step(&randnum);
+  *num = lb + (randnum % (ub - lb));
+}
+/* -rdrand16_step-------------------------------------------------------------------
+ * Uses hardware instructions on intel sandy bridge+ cpus to generate a random num.
+ * -PARAMS:
+ *   rand: Pointer to an unsigned int (16-bit) to store the result in.
+ * --------------------------------------------------------------------------------*/
+int rdrand16_step (uint16_t *rand) {
+    unsigned char ok; 
+    __asm__ __volatile__("rdrand %0; setc %1"
+        : "=r" (*rand), "=qm" (ok));
+    return (int) ok;
+}
+
+
+/* -sort----------------------------------------------------------------------------
+ * Uses the bubble sort algorithm to sort a process list.
+ * -PARAMS:
+ *   proc_arr: The process list.
+ *   len     : The length of the process list (number of processes).
+ * --------------------------------------------------------------------------------*/
+void sort (_process *proc_arr, int len) {
+  int i, j;
+  for (j = 0; j < len - 1; j++) {
+    for (i = 0; i < len - 1; i++) {
+      if (proc_arr[i].priority < proc_arr[i+1].priority) {
+        _process tmp = proc_arr[i];
+        proc_arr[i] = proc_arr[i+1];
+        proc_arr[i+1] = tmp;
+      }
+    }
+  }
+}

@@ -1,0 +1,21 @@
+Script started on Mon Oct 10 11:03:37 2016
+[1m[7m%[27m[1m[0m                                                                                                                                                                                     ]2;Alex@Alexs-MacBook-Pro: ~/Documents/CS4310/Assignment 4]1;../Assignment 4[0m[27m[24m[J[01;32m➜  [36mAssignment 4[00m [K[?1h=ppython assgn4.py[1m [0m[0m [?1l>
+]2;python assgn4.py]1;pythonResults
+-------------------------------------------------------------------
+1 of item 5
+        -> at value 50.0 per amount, benefit equals: 50.0
+        -> used 1 of available 1
+2 of item 3
+        -> at value 20.0 per amount, benefit equals: 40.0
+        -> used 2 of available 2
+6 of item 4
+        -> at value 5.0 per amount, benefit equals: 30.0
+        -> used 6 of available 6
+1 of item 2
+        -> at value 4.0 per amount, benefit equals: 4.0
+        -> used 1 of available 8
+Knapsack Weight: 10 Knapsack Benefit: 124.0
+-------------------------------------------------------------------
+[1m[7m%[27m[1m[0m                                                                                                                                                                                     ]2;Alex@Alexs-MacBook-Pro: ~/Documents/CS4310/Assignment 4]1;../Assignment 4[0m[27m[24m[J[01;32m➜  [36mAssignment 4[00m [K[?1h=eexit[?1l>
+]2;exit]1;exit
+Script done on Mon Oct 10 11:03:43 2016

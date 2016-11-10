@@ -1,0 +1,23 @@
+#include <stdio.h> 
+#include <stdlib.h>
+#include <fcntl.h>
+#include <assert.h>
+#include <sys/types.h>
+#include <unistd.h>
+
+int readLine(int fd, int start, char * line) {
+  int len;
+  int i = 0;
+  if(lseek(fd, start, SEEK_SET) < 0) {
+    err_sys("Failed to seek to position in file.");
+  } 
+  len = read(fd, line, 1000);
+  if(len < 0) {
+    err_sys("Failed to read countries file.\n");
+  }
+
+  while(line[i++] != '\n');
+  line[i] = '\0';
+  
+  return start + i;
+}

@@ -1,0 +1,36 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+\margl1440\margr1440\vieww14260\viewh13480\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 Alex Dekau\
+Assignment 2\
+CS4540\
+9/29/2016\
+\
+9.7\
+a. There are three pages total, two can be used for the array since one is reserved for the program execution. Every other loop will trigger a page fault because the inner loop is incrementing the first array which has to fetch a new page every other loop. That means since there are 10000 loops being done, there are 5000 page faults happening.\
+b. There is a page fault happening every 200 loops through the array because it visits each member of each array in sequence instead of the other way. This will happen every other array, since the page size is 200. 10000/200 = 50\
+\
+9.15\
+a. Yes the thread state will change. It will become blocked.\
+b. No, the thread state will not change.\
+c. No, it will just continue to run because it\'92s doing what it\'92s supposed to.\
+\
+9.18\
+Because the virtual memory space has 32 bits available to describe a memory location and the physical memory only has 22 bits available, obviously there needs to be a way to translate between the virtual and the physical. Since the page size (4096) is 2^12, the last 12 bits on the virtual address will be an offset and the first 20 will be an address to the page in physical memory.\
+\
+9.24\
+The LFU algorithm performs best when the least frequently used pages that are being replaced do not need to be put back into memory. It will generate a page fault only when the function or code is needed, then is eventually replaced and is needed again. So as long as the code is not needed again or is not needed again frequently it will produce less page faults than the LRU algorithm.\
+\
+The LRU algorithm will perform best when the least recently used page is used frequently but is no longer needed. That way it stays in memory for awhile before no longer needing to be used.\
+\
+9.27\
+a. It will not because the demand-paging system is most dependent on I/O speed. The paging disk has 97.7% disk utilization so increasing the speed at which instructions execute will not speed anything up because it\'92s waiting for the disk I/O to complete fetching the new page.\
+b. Increasing the size of the paging disk will increase the CPU utilization because it will take more processing power to utilize more of the paging disk.\
+c. Will decrease CPU utilization because it needs to increase the number of pages which it does not have the space for on the paging disk. This will create a bottleneck.\
+d. Will increase CPU utilization because it will decrease the number of pages which will remove the bottle neck on the paging disk allowing the processor to be more free.\
+e. Will increase CPU utilization because there will be less pages on the paging disk and instead in main memory which will free up the CPU more.\
+g. Will not change the CPU utilization because it\'92s just doing what it was going to be doing anyways in the future. It\'92s just getting it ready before it\'92s needed.\
+h. Might lower CPU utilization because it would have to do less paging in general if it can pull two pages in one go.}

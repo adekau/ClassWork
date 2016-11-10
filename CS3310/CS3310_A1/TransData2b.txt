@@ -1,0 +1,53 @@
+% TransData2b.txt file for Asgn 2 - test D and I requests
+%	(and then test S and A after those changed the file to see
+%		if D's and I's worked right)
+% SUCCESSFUL:  first, last, middle-ish records in DataStorage file
+D 20
+D 39
+D 3
+% UNSUCCESSFUL:  within good record range
+D 5
+D 11
+% UNSUCCESSFUL:  odd cases
+D 0
+% ***** CORRECTION 10/8/15 (Previous ID was too big for a short)
+D 32767
+D 40
+% showAll data in file in physical order ("empty" locations NOT show)
+%	so you can use it to check whether above DELETES worked)
+A
+% SUCCESSFUL:  These INSERT's are in empty RRNs
+I ARG,41,ARGENTINA,South America,2780400,37032000,75.1
+I JAM,1,JAMAICA AND SOME MORE TO MAKE IT LONG,North America I guess,10990,2583000,75.2
+I CUB,43,CUBA WITH A REALLY LONG NAME,North America or somewhere,110861,11201000,76.2
+I KAZ,5,KAZAKSTAN,Asia,2724900,16223000,63.2
+%
+% SUCCESSFUL:  Find countries just inserted
+S 41
+S 1
+S 43
+S 5
+%
+% ***** CORRECTION 10/8/15  (Previously said they were UNsuccessful)
+% SUCCESSFUL:  Insert into PREVIOUSLY DELETED locations
+I AUT,20,Austria,Europe,83859,8091800,77.7
+I BWA,39,Botswana,Africa,581730,1622000,39.3
+%
+% ***** CORRECTION 10/8/15  (Previously said Poland/Antarctica would be found)
+% SUCCESSFUL:  These find NEW countries Austria and Botswana
+%              NOT Poland and Antarctica which were deleted
+S 39
+S 20
+%
+% ***** CORRECTION 10/8/15 (These next 2 inserts are NEW)
+% UNSUCCESSFUL:  These INSERT's are in RRNs ALREADY OCCUPIED by USA & RUS
+I XXX,8,Somewhere,Europe,1,2,33.3
+I YYY,6,SomewhereElse,Asia,4,5,66.6
+%
+% UNSUCCESSFUL odd cases again (61 & 32000 are > REASONABLE_ID, which is 60)
+I WMU,0,Western,North America,10,1903,24987
+% ***** CORRECTION 10/8/15 (Previous ID was too big for a short)
+I CSI,32000,Computer Science major in CEAS,North America,1,1978,250,90.2
+I AZO,61,Kalamazoo,North America ish,40,1848,85000,75.9
+% SUCCESSFUL:  ShowAll to see that Inserted records appear
+A

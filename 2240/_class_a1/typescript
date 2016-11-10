@@ -1,0 +1,1104 @@
+Script started on Wed Jan 20 18:05:25 2016
+[1m[7m%[27m[1m[0m                                                                                    ]2;Alex@Alexs-MacBook-Pro: ~/ClassWork/2240/a1]1;..sWork/2240/a1[0m[27m[24m[J[01;32m➜ [01;32m [36ma1 [01;34m[01;34m [00m[K[?1h=script./countries all[?1l>
+]2;./countries all]1;./countriesCode: DZA, Name: Algeria, Population: 31471000, Life Expectancy: 69.70
+Code: AGO, Name: Angola, Population: 12878000, Life Expectancy: 38.30
+Code: BEN, Name: Benin, Population: 6097000, Life Expectancy: 50.20
+Code: BWA, Name: Botswana, Population: 1622000, Life Expectancy: 39.30
+Code: IOT, Name: British Indian Ocean Territory, Population: 0, Life Expectancy: 0.00
+Code: BFA, Name: Burkina Faso, Population: 11937000, Life Expectancy: 46.70
+Code: BDI, Name: Burundi, Population: 6695000, Life Expectancy: 46.20
+Code: CMR, Name: Cameroon, Population: 15085000, Life Expectancy: 54.80
+Code: CPV, Name: Cape Verde, Population: 428000, Life Expectancy: 68.90
+Code: CAF, Name: Central African Republic, Population: 3615000, Life Expectancy: 44.00
+Code: TCD, Name: Chad, Population: 7651000, Life Expectancy: 50.50
+Code: COM, Name: Comoros, Population: 578000, Life Expectancy: 60.00
+Code: COG, Name: Congo, Population: 2943000, Life Expectancy: 47.40
+Code: COD, Name: Congo; The Democratic Republic of the, Population: 51654000, Life Expectancy: 48.80
+Code: CIV, Name: Cote d�Ivoire, Population: 14786000, Life Expectancy: 45.20
+Code: DJI, Name: Djibouti, Population: 638000, Life Expectancy: 50.80
+Code: EGY, Name: Egypt, Population: 68470000, Life Expectancy: 63.30
+Code: GNQ, Name: Equatorial Guinea, Population: 453000, Life Expectancy: 53.60
+Code: ERI, Name: Eritrea, Population: 3850000, Life Expectancy: 55.80
+Code: ETH, Name: Ethiopia, Population: 62565000, Life Expectancy: 45.20
+Code: GAB, Name: Gabon, Population: 1226000, Life Expectancy: 50.10
+Code: GMB, Name: Gambia, Population: 1305000, Life Expectancy: 53.20
+Code: GHA, Name: Ghana, Population: 20212000, Life Expectancy: 57.40
+Code: GIN, Name: Guinea, Population: 7430000, Life Expectancy: 45.60
+Code: GNB, Name: Guinea-Bissau, Population: 1213000, Life Expectancy: 49.00
+Code: KEN, Name: Kenya, Population: 30080000, Life Expectancy: 48.00
+Code: LSO, Name: Lesotho, Population: 2153000, Life Expectancy: 50.80
+Code: LBR, Name: Liberia, Population: 3154000, Life Expectancy: 51.00
+Code: LBY, Name: Libyan Arab Jamahiriya, Population: 5605000, Life Expectancy: 75.50
+Code: MDG, Name: Madagascar, Population: 15942000, Life Expectancy: 55.00
+Code: MWI, Name: Malawi, Population: 10925000, Life Expectancy: 37.60
+Code: MLI, Name: Mali, Population: 11234000, Life Expectancy: 46.70
+Code: MRT, Name: Mauritania, Population: 2670000, Life Expectancy: 50.80
+Code: MUS, Name: Mauritius, Population: 1158000, Life Expectancy: 71.00
+Code: MYT, Name: Mayotte, Population: 149000, Life Expectancy: 59.50
+Code: MAR, Name: Morocco, Population: 28351000, Life Expectancy: 69.10
+Code: MOZ, Name: Mozambique, Population: 19680000, Life Expectancy: 37.50
+Code: NAM, Name: Namibia, Population: 1726000, Life Expectancy: 42.50
+Code: NER, Name: Niger, Population: 10730000, Life Expectancy: 41.30
+Code: NGA, Name: Nigeria, Population: 111506000, Life Expectancy: 51.60
+Code: REU, Name: R�union, Population: 699000, Life Expectancy: 72.70
+Code: RWA, Name: Rwanda, Population: 7733000, Life Expectancy: 39.30
+Code: SHN, Name: Saint Helena, Population: 6000, Life Expectancy: 76.80
+Code: STP, Name: Sao Tome and Principe, Population: 147000, Life Expectancy: 65.30
+Code: SEN, Name: Senegal, Population: 9481000, Life Expectancy: 62.20
+Code: SYC, Name: Seychelles, Population: 77000, Life Expectancy: 70.40
+Code: SLE, Name: Sierra Leone, Population: 4854000, Life Expectancy: 45.30
+Code: SOM, Name: Somalia, Population: 10097000, Life Expectancy: 46.20
+Code: ZAF, Name: South Africa, Population: 40377000, Life Expectancy: 51.10
+Code: SDN, Name: Sudan, Population: 29490000, Life Expectancy: 56.60
+Code: SWZ, Name: Swaziland, Population: 1008000, Life Expectancy: 40.40
+Code: TZA, Name: Tanzania, Population: 33517000, Life Expectancy: 52.30
+Code: TGO, Name: Togo, Population: 4629000, Life Expectancy: 54.70
+Code: TUN, Name: Tunisia, Population: 9586000, Life Expectancy: 73.70
+Code: UGA, Name: Uganda, Population: 21778000, Life Expectancy: 42.90
+Code: ESH, Name: Western Sahara, Population: 293000, Life Expectancy: 49.80
+Code: ZMB, Name: Zambia, Population: 9169000, Life Expectancy: 37.20
+Code: ZWE, Name: Zimbabwe, Population: 11669000, Life Expectancy: 37.80
+Code: ATA, Name: Antarctica, Population: 0, Life Expectancy: 0.00
+Code: BVT, Name: Bouvet Island, Population: 0, Life Expectancy: 0.00
+Code: ATF, Name: French Southern territories, Population: 0, Life Expectancy: 0.00
+Code: HMD, Name: Heard Island and McDonald Islands, Population: 0, Life Expectancy: 0.00
+Code: SGS, Name: South Georgia and the South Sandwich Islands, Population: 0, Life Expectancy: 0.00
+Code: AFG, Name: Afghanistan, Population: 22720000, Life Expectancy: 45.90
+Code: ARM, Name: Armenia, Population: 3520000, Life Expectancy: 66.40
+Code: AZE, Name: Azerbaijan, Population: 7734000, Life Expectancy: 62.90
+Code: BHR, Name: Bahrain, Population: 617000, Life Expectancy: 73.00
+Code: BGD, Name: Bangladesh, Population: 129155000, Life Expectancy: 60.20
+Code: BTN, Name: Bhutan, Population: 2124000, Life Expectancy: 52.40
+Code: BRN, Name: Brunei, Population: 328000, Life Expectancy: 73.60
+Code: KHM, Name: Cambodia, Population: 11168000, Life Expectancy: 56.50
+Code: CHN, Name: China, Population: 1277558000, Life Expectancy: 71.40
+Code: CYP, Name: Cyprus, Population: 754700, Life Expectancy: 76.70
+Code: TMP, Name: East Timor, Population: 885000, Life Expectancy: 46.00
+Code: GEO, Name: Georgia, Population: 4968000, Life Expectancy: 64.50
+Code: HKG, Name: Hong Kong, Population: 6782000, Life Expectancy: 79.50
+Code: IND, Name: India, Population: 1013662000, Life Expectancy: 62.50
+Code: IDN, Name: Indonesia, Population: 212107000, Life Expectancy: 68.00
+Code: IRN, Name: Iran, Population: 67702000, Life Expectancy: 69.70
+Code: IRQ, Name: Iraq, Population: 23115000, Life Expectancy: 66.50
+Code: ISR, Name: Israel, Population: 6217000, Life Expectancy: 78.60
+Code: JPN, Name: Japan, Population: 126714000, Life Expectancy: 80.70
+Code: JOR, Name: Jordan, Population: 5083000, Life Expectancy: 77.40
+Code: KAZ, Name: Kazakstan, Population: 16223000, Life Expectancy: 63.20
+Code: KWT, Name: Kuwait, Population: 1972000, Life Expectancy: 76.10
+Code: KGZ, Name: Kyrgyzstan, Population: 4699000, Life Expectancy: 63.40
+Code: LAO, Name: Laos, Population: 5433000, Life Expectancy: 53.10
+Code: LBN, Name: Lebanon, Population: 3282000, Life Expectancy: 71.30
+Code: MAC, Name: Macao, Population: 473000, Life Expectancy: 81.60
+Code: MYS, Name: Malaysia, Population: 22244000, Life Expectancy: 70.80
+Code: MDV, Name: Maldives, Population: 286000, Life Expectancy: 62.20
+Code: MNG, Name: Mongolia, Population: 2662000, Life Expectancy: 67.30
+Code: MMR, Name: Myanmar, Population: 45611000, Life Expectancy: 54.90
+Code: NPL, Name: Nepal, Population: 23930000, Life Expectancy: 57.80
+Code: PRK, Name: North Korea, Population: 24039000, Life Expectancy: 70.70
+Code: OMN, Name: Oman, Population: 2542000, Life Expectancy: 71.80
+Code: PAK, Name: Pakistan, Population: 156483000, Life Expectancy: 61.10
+Code: PSE, Name: Palestine, Population: 3101000, Life Expectancy: 71.40
+Code: PHL, Name: Philippines, Population: 75967000, Life Expectancy: 67.50
+Code: QAT, Name: Qatar, Population: 599000, Life Expectancy: 72.40
+Code: SAU, Name: Saudi Arabia, Population: 21607000, Life Expectancy: 67.80
+Code: SGP, Name: Singapore, Population: 3567000, Life Expectancy: 80.10
+Code: KOR, Name: South Korea, Population: 46844000, Life Expectancy: 74.40
+Code: LKA, Name: Sri Lanka, Population: 18827000, Life Expectancy: 71.80
+Code: SYR, Name: Syria, Population: 16125000, Life Expectancy: 68.50
+Code: TWN, Name: Taiwan, Population: 22256000, Life Expectancy: 76.40
+Code: TJK, Name: Tajikistan, Population: 6188000, Life Expectancy: 64.10
+Code: THA, Name: Thailand, Population: 61399000, Life Expectancy: 68.60
+Code: TUR, Name: Turkey, Population: 66591000, Life Expectancy: 71.00
+Code: TKM, Name: Turkmenistan, Population: 4459000, Life Expectancy: 60.90
+Code: ARE, Name: United Arab Emirates, Population: 2441000, Life Expectancy: 74.10
+Code: UZB, Name: Uzbekistan, Population: 24318000, Life Expectancy: 63.70
+Code: VNM, Name: Vietnam, Population: 79832000, Life Expectancy: 69.30
+Code: YEM, Name: Yemen, Population: 18112000, Life Expectancy: 59.80
+Code: ALB, Name: Albania, Population: 3401200, Life Expectancy: 71.60
+Code: AND, Name: Andorra, Population: 78000, Life Expectancy: 83.50
+Code: AUT, Name: Austria, Population: 8091800, Life Expectancy: 77.70
+Code: BLR, Name: Belarus, Population: 10236000, Life Expectancy: 68.00
+Code: BEL, Name: Belgium, Population: 10239000, Life Expectancy: 77.80
+Code: BIH, Name: Bosnia and Herzegovina, Population: 3972000, Life Expectancy: 71.50
+Code: BGR, Name: Bulgaria, Population: 8190900, Life Expectancy: 70.90
+Code: HRV, Name: Croatia, Population: 4473000, Life Expectancy: 73.70
+Code: CZE, Name: Czech Republic, Population: 10278100, Life Expectancy: 74.50
+Code: DNK, Name: Denmark, Population: 5330000, Life Expectancy: 76.50
+Code: EST, Name: Estonia, Population: 1439200, Life Expectancy: 69.50
+Code: FRO, Name: Faroe Islands, Population: 43000, Life Expectancy: 78.40
+Code: FIN, Name: Finland, Population: 5171300, Life Expectancy: 77.40
+Code: FRA, Name: France, Population: 59225700, Life Expectancy: 78.80
+Code: DEU, Name: Germany, Population: 82164700, Life Expectancy: 77.40
+Code: GIB, Name: Gibraltar, Population: 25000, Life Expectancy: 79.00
+Code: GRC, Name: Greece, Population: 10545700, Life Expectancy: 78.40
+Code: VAT, Name: Holy See (Vatican City State), Population: 1000, Life Expectancy: 0.00
+Code: HUN, Name: Hungary, Population: 10043200, Life Expectancy: 71.40
+Code: ISL, Name: Iceland, Population: 279000, Life Expectancy: 79.40
+Code: IRL, Name: Ireland, Population: 3775100, Life Expectancy: 76.80
+Code: ITA, Name: Italy, Population: 57680000, Life Expectancy: 79.00
+Code: LVA, Name: Latvia, Population: 2424200, Life Expectancy: 68.40
+Code: LIE, Name: Liechtenstein, Population: 32300, Life Expectancy: 78.80
+Code: LTU, Name: Lithuania, Population: 3698500, Life Expectancy: 69.10
+Code: LUX, Name: Luxembourg, Population: 435700, Life Expectancy: 77.10
+Code: MKD, Name: Macedonia, Population: 2024000, Life Expectancy: 73.80
+Code: MLT, Name: Malta, Population: 380200, Life Expectancy: 77.90
+Code: MDA, Name: Moldova, Population: 4380000, Life Expectancy: 64.50
+Code: MCO, Name: Monaco, Population: 34000, Life Expectancy: 78.80
+Code: NLD, Name: Netherlands, Population: 15864000, Life Expectancy: 78.30
+Code: NOR, Name: Norway, Population: 4478500, Life Expectancy: 78.70
+Code: POL, Name: Poland, Population: 38653600, Life Expectancy: 73.20
+Code: PRT, Name: Portugal, Population: 9997600, Life Expectancy: 75.80
+Code: ROM, Name: Romania, Population: 22455500, Life Expectancy: 69.90
+Code: RUS, Name: Russian Federation, Population: 146934000, Life Expectancy: 67.20
+Code: SMR, Name: San Marino, Population: 27000, Life Expectancy: 81.10
+Code: SVK, Name: Slovakia, Population: 5398700, Life Expectancy: 73.70
+Code: SVN, Name: Slovenia, Population: 1987800, Life Expectancy: 74.90
+Code: ESP, Name: Spain, Population: 39441700, Life Expectancy: 78.80
+Code: SJM, Name: Svalbard and Jan Mayen, Population: 3200, Life Expectancy: 0.00
+Code: SWE, Name: Sweden, Population: 8861400, Life Expectancy: 79.60
+Code: CHE, Name: Switzerland, Population: 7160400, Life Expectancy: 79.60
+Code: UKR, Name: Ukraine, Population: 50456000, Life Expectancy: 66.00
+Code: GBR, Name: United Kingdom, Population: 59623400, Life Expectancy: 77.70
+Code: YUG, Name: Yugoslavia, Population: 10640000, Life Expectancy: 72.40
+Code: AIA, Name: Anguilla, Population: 8000, Life Expectancy: 76.10
+Code: ATG, Name: Antigua and Barbuda, Population: 68000, Life Expectancy: 70.50
+Code: ABW, Name: Aruba, Population: 103000, Life Expectancy: 78.40
+Code: BHS, Name: Bahamas, Population: 307000, Life Expectancy: 71.10
+Code: BRB, Name: Barbados, Population: 270000, Life Expectancy: 73.00
+Code: BLZ, Name: Belize, Population: 241000, Life Expectancy: 70.90
+Code: BMU, Name: Bermuda, Population: 65000, Life Expectancy: 76.90
+Code: CAN, Name: Canada, Population: 31147000, Life Expectancy: 79.40
+Code: CYM, Name: Cayman Islands, Population: 38000, Life Expectancy: 78.90
+Code: CRI, Name: Costa Rica, Population: 4023000, Life Expectancy: 75.80
+Code: CUB, Name: Cuba, Population: 11201000, Life Expectancy: 76.20
+Code: DMA, Name: Dominica, Population: 71000, Life Expectancy: 73.40
+Code: DOM, Name: Dominican Republic, Population: 8495000, Life Expectancy: 73.20
+Code: SLV, Name: El Salvador, Population: 6276000, Life Expectancy: 69.70
+Code: GRL, Name: Greenland, Population: 56000, Life Expectancy: 68.10
+Code: GRD, Name: Grenada, Population: 94000, Life Expectancy: 64.50
+Code: GLP, Name: Guadeloupe, Population: 456000, Life Expectancy: 77.00
+Code: GTM, Name: Guatemala, Population: 11385000, Life Expectancy: 66.20
+Code: HTI, Name: Haiti, Population: 8222000, Life Expectancy: 49.20
+Code: HND, Name: Honduras, Population: 6485000, Life Expectancy: 69.90
+Code: JAM, Name: Jamaica, Population: 2583000, Life Expectancy: 75.20
+Code: MTQ, Name: Martinique, Population: 395000, Life Expectancy: 78.30
+Code: MEX, Name: Mexico, Population: 98881000, Life Expectancy: 71.50
+Code: MSR, Name: Montserrat, Population: 11000, Life Expectancy: 78.00
+Code: ANT, Name: Netherlands Antilles, Population: 217000, Life Expectancy: 74.70
+Code: NIC, Name: Nicaragua, Population: 5074000, Life Expectancy: 68.70
+Code: PAN, Name: Panama, Population: 2856000, Life Expectancy: 75.50
+Code: PRI, Name: Puerto Rico, Population: 3869000, Life Expectancy: 75.60
+Code: KNA, Name: Saint Kitts and Nevis, Population: 38000, Life Expectancy: 70.70
+Code: LCA, Name: Saint Lucia, Population: 154000, Life Expectancy: 72.30
+Code: SPM, Name: Saint Pierre and Miquelon, Population: 7000, Life Expectancy: 77.60
+Code: VCT, Name: Saint Vincent and the Grenadines, Population: 114000, Life Expectancy: 72.30
+Code: TTO, Name: Trinidad and Tobago, Population: 1295000, Life Expectancy: 68.00
+Code: TCA, Name: Turks and Caicos Islands, Population: 17000, Life Expectancy: 73.30
+Code: USA, Name: United States, Population: 278357000, Life Expectancy: 77.10
+Code: VGB, Name: Virgin Islands; British, Population: 21000, Life Expectancy: 75.40
+Code: VIR, Name: Virgin Islands; U.S., Population: 93000, Life Expectancy: 78.10
+Code: ASM, Name: American Samoa, Population: 68000, Life Expectancy: 75.10
+Code: AUS, Name: Australia, Population: 18886000, Life Expectancy: 79.80
+Code: CXR, Name: Christmas Island, Population: 2500, Life Expectancy: 0.00
+Code: CCK, Name: Cocos (Keeling) Islands, Population: 600, Life Expectancy: 0.00
+Code: COK, Name: Cook Islands, Population: 20000, Life Expectancy: 71.10
+Code: FJI, Name: Fiji Islands, Population: 817000, Life Expectancy: 67.90
+Code: PYF, Name: French Polynesia, Population: 235000, Life Expectancy: 74.80
+Code: GUM, Name: Guam, Population: 168000, Life Expectancy: 77.80
+Code: KIR, Name: Kiribati, Population: 83000, Life Expectancy: 59.80
+Code: MHL, Name: Marshall Islands, Population: 64000, Life Expectancy: 65.50
+Code: FSM, Name: Micronesia; Federated States of, Population: 119000, Life Expectancy: 68.60
+Code: NRU, Name: Nauru, Population: 12000, Life Expectancy: 60.80
+Code: NCL, Name: New Caledonia, Population: 214000, Life Expectancy: 72.80
+Code: NZL, Name: New Zealand, Population: 3862000, Life Expectancy: 77.80
+Code: NIU, Name: Niue, Population: 2000, Life Expectancy: 0.00
+Code: NFK, Name: Norfolk Island, Population: 2000, Life Expectancy: 0.00
+Code: MNP, Name: Northern Mariana Islands, Population: 78000, Life Expectancy: 75.50
+Code: PLW, Name: Palau, Population: 19000, Life Expectancy: 68.60
+Code: PNG, Name: Papua New Guinea, Population: 4807000, Life Expectancy: 63.10
+Code: PCN, Name: Pitcairn, Population: 50, Life Expectancy: 0.00
+Code: WSM, Name: Samoa, Population: 180000, Life Expectancy: 69.20
+Code: SLB, Name: Solomon Islands, Population: 444000, Life Expectancy: 71.30
+Code: TKL, Name: Tokelau, Population: 2000, Life Expectancy: 0.00
+Code: TON, Name: Tonga, Population: 99000, Life Expectancy: 67.90
+Code: TUV, Name: Tuvalu, Population: 12000, Life Expectancy: 66.30
+Code: UMI, Name: United States Minor Outlying Islands, Population: 0, Life Expectancy: 0.00
+Code: VUT, Name: Vanuatu, Population: 190000, Life Expectancy: 60.60
+Code: WLF, Name: Wallis and Futuna, Population: 15000, Life Expectancy: 0.00
+Code: ARG, Name: Argentina, Population: 37032000, Life Expectancy: 75.10
+Code: BOL, Name: Bolivia, Population: 8329000, Life Expectancy: 63.70
+Code: BRA, Name: Brazil, Population: 170115000, Life Expectancy: 62.90
+Code: CHL, Name: Chile, Population: 15211000, Life Expectancy: 75.70
+Code: COL, Name: Colombia, Population: 42321000, Life Expectancy: 70.30
+Code: ECU, Name: Ecuador, Population: 12646000, Life Expectancy: 71.10
+Code: FLK, Name: Falkland Islands, Population: 2000, Life Expectancy: 0.00
+Code: GUF, Name: French Guiana, Population: 181000, Life Expectancy: 76.10
+Code: GUY, Name: Guyana, Population: 861000, Life Expectancy: 64.00
+Code: PRY, Name: Paraguay, Population: 5496000, Life Expectancy: 73.70
+Code: PER, Name: Peru, Population: 25662000, Life Expectancy: 70.00
+Code: SUR, Name: Suriname, Population: 417000, Life Expectancy: 71.40
+Code: URY, Name: Uruguay, Population: 3337000, Life Expectancy: 75.20
+Code: VEN, Name: Venezuela, Population: 24170000, Life Expectancy: 73.10
+[1m[7m%[27m[1m[0m                                                                                    ]2;Alex@Alexs-MacBook-Pro: ~/ClassWork/2240/a1]1;..sWork/2240/a1[0m[27m[24m[J[01;32m➜ [01;32m [36ma1 [01;34m[01;34m [00m[K[?1h=lls[?1l>
+]2;ls -G]1;lsAllCountries.dat  a1.cworking       [1m[36mcountries.dSYM[39;49m[0m    readLine.cbackup
+AllCountries.dat2 [1m[36ma1.dSYM[39;49m[0m           error.c           readLine.cworking
+FileFragFix.c     apue.h            getRecords.c      typescript
+a1.c              [31mcountries[39;49m[0m         makefile
+[1m[7m%[27m[1m[0m                                                                                    ]2;Alex@Alexs-MacBook-Pro: ~/ClassWork/2240/a1]1;..sWork/2240/a1[0m[27m[24m[J[01;32m➜ [01;32m [36ma1 [01;34m[01;34m [00m[K[?1h=vvi typescript[?1l>
+]2;vi typescript]1;vi[?1000h[?1049h[?1h=[1;42r[?12;25h[?12l[?25h[27m[m[H[2J[?25l[42;1H"typescript" [noeol][converted] 500L, 40203C[>c[1;1H[38;5;130m  1 [mScript started on Wed Jan 20 18:05:25 2016
+[38;5;130m  2 [m[34m^[[m[1m[34m^[[m[7m%[34m^[[m[27m[34m^[[m[1m[34m^[[m[0m[52C  [3;1H[38;5;130m    [m[29C [34m^M[m [34m^M^[[m]2;Alex@Alexs-MacBook-Pro: ~/ClassWork/22400[4;1H[38;5;130m    [m/a1[34m^G^[[m]1;..sWork/2240/a1[34m^G^M^[[m[0m[34m^[[m[27m[34m^[[m[24m[34m^[[m[J[34m^[[m[01;32mâ[34m<9e><9c>[m [34m^[[m[01;32m [34m^^[m[5;1H[38;5;130m    [m[34m[[m[36ma1 [34m^[[m[01;34m[34m^[[m[01;34m [34m^[[m[00m[34m^[[m[K[34m^[[m[?1h[34m^[[m=script[34m^H^H^H^H^H^H[m./countries all[34m^^[m[6;1H[38;5;130m    [m[34m[[m[?1l[34m^[[m>[34m^M^M[m
+[38;5;130m  3 [m[34m^[[m]2;./countries all[34m^G^[[m]1;./countries[34m^G[mCode: DZA, Name: Algeria, Population: 311[8;1H[38;5;130m    [m471000, Life Expectancy: 69.70[34m^M[m
+[38;5;130m  4 [mCode: AGO, Name: Angola, Population: 12878000, Life Expectancy: 38.30[34m^M[m
+[38;5;130m  5 [mCode: BEN, Name: Benin, Population: 6097000, Life Expectancy: 50.20[34m^M[m
+[38;5;130m  6 [mCode: BWA, Name: Botswana, Population: 1622000, Life Expectancy: 39.30[34m^M[m
+[38;5;130m  7 [mCode: IOT, Name: British Indian Ocean Territory, Population: 0, Life Expectancy::[13;1H[38;5;130m    [m 0.00[34m^M[m
+[38;5;130m  8 [mCode: BFA, Name: Burkina Faso, Population: 11937000, Life Expectancy: 46.70[34m^M[m
+[38;5;130m  9 [mCode: BDI, Name: Burundi, Population: 6695000, Life Expectancy: 46.20[34m^M[m
+[38;5;130m 10 [mCode: CMR, Name: Cameroon, Population: 15085000, Life Expectancy: 54.80[34m^M[m
+[38;5;130m 11 [mCode: CPV, Name: Cape Verde, Population: 428000, Life Expectancy: 68.90[34m^M[m
+[38;5;130m 12 [mCode: CAF, Name: Central African Republic, Population: 3615000, Life Expectancy::[19;1H[38;5;130m    [m 44.00[34m^M[m
+[38;5;130m 13 [mCode: TCD, Name: Chad, Population: 7651000, Life Expectancy: 50.50[34m^M[m
+[38;5;130m 14 [mCode: COM, Name: Comoros, Population: 578000, Life Expectancy: 60.00[34m^M[m
+[38;5;130m 15 [mCode: COG, Name: Congo, Population: 2943000, Life Expectancy: 47.40[34m^M[m
+[38;5;130m 16 [mCode: COD, Name: Congo; The Democratic Republic of the, Population: 51654000, Lii[24;1H[38;5;130m    [mfe Expectancy: 48.80[34m^M[m
+[38;5;130m 17 [mCode: CIV, Name: Cote d[34m<92>[mIvoire, Population: 14786000, Life Expectancy: 45.20[34m^^[m[26;1H[38;5;130m    [m[34mM[m
+[38;5;130m 18 [mCode: DJI, Name: Djibouti, Population: 638000, Life Expectancy: 50.80[34m^M[m
+[38;5;130m 19 [mCode: EGY, Name: Egypt, Population: 68470000, Life Expectancy: 63.30[34m^M[m
+[38;5;130m 20 [mCode: GNQ, Name: Equatorial Guinea, Population: 453000, Life Expectancy: 53.60[34m^M[m[30;1H[38;5;130m 21 [mCode: ERI, Name: Eritrea, Population: 3850000, Life Expectancy: 55.80[34m^M[m
+[38;5;130m 22 [mCode: ETH, Name: Ethiopia, Population: 62565000, Life Expectancy: 45.20[34m^M[m
+[38;5;130m 23 [mCode: GAB, Name: Gabon, Population: 1226000, Life Expectancy: 50.10[34m^M[m
+[38;5;130m 24 [mCode: GMB, Name: Gambia, Population: 1305000, Life Expectancy: 53.20[34m^M[m
+[38;5;130m 25 [mCode: GHA, Name: Ghana, Population: 20212000, Life Expectancy: 57.40[34m^M[m
+[38;5;130m 26 [mCode: GIN, Name: Guinea, Population: 7430000, Life Expectancy: 45.60[34m^M[m
+[38;5;130m 27 [mCode: GNB, Name: Guinea-Bissau, Population: 1213000, Life Expectancy: 49.00[34m^M[m
+[38;5;130m 28 [mCode: KEN, Name: Kenya, Population: 30080000, Life Expectancy: 48.00[34m^M[m
+[38;5;130m 29 [mCode: LSO, Name: Lesotho, Population: 2153000, Life Expectancy: 50.80[34m^M[m
+[38;5;130m 30 [mCode: LBR, Name: Liberia, Population: 3154000, Life Expectancy: 51.00[34m^M[m
+[38;5;130m 31 [mCode: LBY, Name: Libyan Arab Jamahiriya, Population: 5605000, Life Expectancy: 77[41;1H[38;5;130m    [m5.50[34m^M[1;5H[?12l[?25h[?1000l[?1002h[?25l[1;41r[m[1;1H[8M[1;42r[34;1H[38;5;130m 32 [mCode: MDG, Name: Madagascar, Population: 15942000, Life Expectancy: 55.00[34m^M[m
+[38;5;130m 33 [mCode: MWI, Name: Malawi, Population: 10925000, Life Expectancy: 37.60[34m^M[m
+[38;5;130m 34 [mCode: MLI, Name: Mali, Population: 11234000, Life Expectancy: 46.70[34m^M[m
+[38;5;130m 35 [mCode: MRT, Name: Mauritania, Population: 2670000, Life Expectancy: 50.80[34m^M[m
+[38;5;130m 36 [mCode: MUS, Name: Mauritius, Population: 1158000, Life Expectancy: 71.00[34m^M[m
+[38;5;130m 37 [mCode: MYT, Name: Mayotte, Population: 149000, Life Expectancy: 59.50[34m^M[m
+[38;5;130m 38 [mCode: MAR, Name: Morocco, Population: 28351000, Life Expectancy: 69.10[34m^M[m
+[38;5;130m 39 [mCode: MOZ, Name: Mozambique, Population: 19680000, Life Expectancy: 37.50[34m^M[m[42;1H[K[1;5H[?12l[?25h[?25l[1;41r[1;1H[3M[1;42r[39;1H[38;5;130m 40 [mCode: NAM, Name: Namibia, Population: 1726000, Life Expectancy: 42.50[34m^M[m
+[38;5;130m 41 [mCode: NER, Name: Niger, Population: 10730000, Life Expectancy: 41.30[34m^M[m
+[38;5;130m 42 [mCode: NGA, Name: Nigeria, Population: 111506000, Life Expectancy: 51.60[34m^M[1;5H[?12l[?25h[?25l[1;41r[m[1;1H[4M[1;42r[38;1H[38;5;130m 43 [mCode: REU, Name: Réunion, Population: 699000, Life Expectancy: 72.70[34m^M[m
+[38;5;130m 44 [mCode: RWA, Name: Rwanda, Population: 7733000, Life Expectancy: 39.30[34m^M[m
+[38;5;130m 45 [mCode: SHN, Name: Saint Helena, Population: 6000, Life Expectancy: 76.80[34m^M[m
+[38;5;130m 46 [mCode: STP, Name: Sao Tome and Principe, Population: 147000, Life Expectancy: 65.[41;1H[94m@                                                                                   [1;5H[?12l[?25h[?25l[1;41r[m[1;1H[4M[1;42r[37;1H[38;5;130m 46 [mCode: STP, Name: Sao Tome and Principe, Population: 147000, Life Expectancy: 65..[38;1H[38;5;130m    [m30[34m^M[m
+[38;5;130m 47 [mCode: SEN, Name: Senegal, Population: 9481000, Life Expectancy: 62.20[34m^M[m
+[38;5;130m 48 [mCode: SYC, Name: Seychelles, Population: 77000, Life Expectancy: 70.40[34m^M[m
+[38;5;130m 49 [mCode: SLE, Name: Sierra Leone, Population: 4854000, Life Expectancy: 45.30[34m^M[1;5H[?12l[?25h[?25l[1;41r[m[1;1H[3M[1;42r[39;1H[38;5;130m 50 [mCode: SOM, Name: Somalia, Population: 10097000, Life Expectancy: 46.20[34m^M[m
+[38;5;130m 51 [mCode: ZAF, Name: South Africa, Population: 40377000, Life Expectancy: 51.10[34m^M[m
+[38;5;130m 52 [mCode: SDN, Name: Sudan, Population: 29490000, Life Expectancy: 56.60[34m^M[1;5H[?12l[?25h[?25l[1;41r[m[1;1H[5M[1;42r[37;1H[38;5;130m 53 [mCode: SWZ, Name: Swaziland, Population: 1008000, Life Expectancy: 40.40[34m^M[m
+[38;5;130m 54 [mCode: TZA, Name: Tanzania, Population: 33517000, Life Expectancy: 52.30[34m^M[m
+[38;5;130m 55 [mCode: TGO, Name: Togo, Population: 4629000, Life Expectancy: 54.70[34m^M[m
+[38;5;130m 56 [mCode: TUN, Name: Tunisia, Population: 9586000, Life Expectancy: 73.70[34m^M[m
+[38;5;130m 57 [mCode: UGA, Name: Uganda, Population: 21778000, Life Expectancy: 42.90[34m^M[1;5H[?12l[?25h[?25l[1;41r[m[1;1H[3M[1;42r[39;1H[38;5;130m 58 [mCode: ESH, Name: Western Sahara, Population: 293000, Life Expectancy: 49.80[34m^M[m
+[38;5;130m 59 [mCode: ZMB, Name: Zambia, Population: 9169000, Life Expectancy: 37.20[34m^M[m
+[38;5;130m 60 [mCode: ZWE, Name: Zimbabwe, Population: 11669000, Life Expectancy: 37.80[34m^M[1;5H[?12l[?25h[?25l[1;41r[m[1;1H[3M[1;42r[39;1H[38;5;130m 61 [mCode: ATA, Name: Antarctica, Population: 0, Life Expectancy: 0.00[34m^M[m
+[38;5;130m 62 [mCode: BVT, Name: Bouvet Island, Population: 0, Life Expectancy: 0.00[34m^M[m
+[38;5;130m 63 [mCode: ATF, Name: French Southern territories, Population: 0, Life Expectancy: 0.[41;1H[94m@                                                                                   [1;5H[?12l[?25h[?25l[1;41r[m[1;1H[3M[1;42r[38;1H[38;5;130m 63 [mCode: ATF, Name: French Southern territories, Population: 0, Life Expectancy: 0..[39;1H[38;5;130m    [m00[34m^M[m
+[38;5;130m 64 [mCode: HMD, Name: Heard Island and McDonald Islands, Population: 0, Life Expectann[41;1H[38;5;130m    [mcy: 0.00[34m^M[1;5H[?12l[?25h[?25l[1;41r[m[1;1H[3M[1;42r[39;1H[38;5;130m 65 [mCode: SGS, Name: South Georgia and the South Sandwich Islands, Population: 0, Lii[40;1H[38;5;130m    [mfe Expectancy: 0.00[34m^M[m
+[38;5;130m 66 [mCode: AFG, Name: Afghanistan, Population: 22720000, Life Expectancy: 45.90[34m^M[1;5H[?12l[?25h[?25l[1;41r[m[1;1H[4M[1;42r[38;1H[38;5;130m 67 [mCode: ARM, Name: Armenia, Population: 3520000, Life Expectancy: 66.40[34m^M[m
+[38;5;130m 68 [mCode: AZE, Name: Azerbaijan, Population: 7734000, Life Expectancy: 62.90[34m^M[m
+[38;5;130m 69 [mCode: BHR, Name: Bahrain, Population: 617000, Life Expectancy: 73.00[34m^M[m
+[38;5;130m 70 [mCode: BGD, Name: Bangladesh, Population: 129155000, Life Expectancy: 60.20[34m^M[1;5H[?12l[?25h[?25l[1;41r[m[1;1H[3M[1;42r[39;1H[38;5;130m 71 [mCode: BTN, Name: Bhutan, Population: 2124000, Life Expectancy: 52.40[34m^M[m
+[38;5;130m 72 [mCode: BRN, Name: Brunei, Population: 328000, Life Expectancy: 73.60[34m^M[m
+[38;5;130m 73 [mCode: KHM, Name: Cambodia, Population: 11168000, Life Expectancy: 56.50[34m^M[1;5H[?12l[?25h[?25l[1;41r[m[1;1H[3M[1;42r[39;1H[38;5;130m 74 [mCode: CHN, Name: China, Population: 1277558000, Life Expectancy: 71.40[34m^M[m
+[38;5;130m 75 [mCode: CYP, Name: Cyprus, Population: 754700, Life Expectancy: 76.70[34m^M[m
+[38;5;130m 76 [mCode: TMP, Name: East Timor, Population: 885000, Life Expectancy: 46.00[34m^M[1;5H[?12l[?25h[?25l[1;41r[m[1;1H[3M[1;42r[39;1H[38;5;130m 77 [mCode: GEO, Name: Georgia, Population: 4968000, Life Expectancy: 64.50[34m^M[m
+[38;5;130m 78 [mCode: HKG, Name: Hong Kong, Population: 6782000, Life Expectancy: 79.50[34m^M[m
+[38;5;130m 79 [mCode: IND, Name: India, Population: 1013662000, Life Expectancy: 62.50[34m^M[1;5H[?12l[?25h[?25l[1;41r[m[1;1H[3M[1;42r[39;1H[38;5;130m 80 [mCode: IDN, Name: Indonesia, Population: 212107000, Life Expectancy: 68.00[34m^M[m
+[38;5;130m 81 [mCode: IRN, Name: Iran, Population: 67702000, Life Expectancy: 69.70[34m^M[m
+[38;5;130m 82 [mCode: IRQ, Name: Iraq, Population: 23115000, Life Expectancy: 66.50[34m^M[1;5H[?12l[?25h[?25l[1;41r[m[1;1H[4M[1;42r[38;1H[38;5;130m 83 [mCode: ISR, Name: Israel, Population: 6217000, Life Expectancy: 78.60[34m^M[m
+[38;5;130m 84 [mCode: JPN, Name: Japan, Population: 126714000, Life Expectancy: 80.70[34m^M[m
+[38;5;130m 85 [mCode: JOR, Name: Jordan, Population: 5083000, Life Expectancy: 77.40[34m^M[m
+[38;5;130m 86 [mCode: KAZ, Name: Kazakstan, Population: 16223000, Life Expectancy: 63.20[34m^M[1;5H[?12l[?25h[?25l[1;41r[m[1;1H[3M[1;42r[39;1H[38;5;130m 87 [mCode: KWT, Name: Kuwait, Population: 1972000, Life Expectancy: 76.10[34m^M[m
+[38;5;130m 88 [mCode: KGZ, Name: Kyrgyzstan, Population: 4699000, Life Expectancy: 63.40[34m^M[m
+[38;5;130m 89 [mCode: LAO, Name: Laos, Population: 5433000, Life Expectancy: 53.10[34m^M[1;5H[?12l[?25h[?25l[1;41r[m[1;1H[3M[1;42r[39;1H[38;5;130m 90 [mCode: LBN, Name: Lebanon, Population: 3282000, Life Expectancy: 71.30[34m^M[m
+[38;5;130m 91 [mCode: MAC, Name: Macao, Population: 473000, Life Expectancy: 81.60[34m^M[m
+[38;5;130m 92 [mCode: MYS, Name: Malaysia, Population: 22244000, Life Expectancy: 70.80[34m^M[1;5H[?12l[?25h[?25l[1;41r[m[1;1H[3M[1;42r[39;1H[38;5;130m 93 [mCode: MDV, Name: Maldives, Population: 286000, Life Expectancy: 62.20[34m^M[m
+[38;5;130m 94 [mCode: MNG, Name: Mongolia, Population: 2662000, Life Expectancy: 67.30[34m^M[m
+[38;5;130m 95 [mCode: MMR, Name: Myanmar, Population: 45611000, Life Expectancy: 54.90[34m^M[1;5H[?12l[?25h[?25l[1;41r[m[1;1H[3M[1;42r[39;1H[38;5;130m 96 [mCode: NPL, Name: Nepal, Population: 23930000, Life Expectancy: 57.80[34m^M[m
+[38;5;130m 97 [mCode: PRK, Name: North Korea, Population: 24039000, Life Expectancy: 70.70[34m^M[m
+[38;5;130m 98 [mCode: OMN, Name: Oman, Population: 2542000, Life Expectancy: 71.80[34m^M[1;5H[?12l[?25h[?25l[1;41r[m[1;1H[4M[1;42r[38;1H[38;5;130m 99 [mCode: PAK, Name: Pakistan, Population: 156483000, Life Expectancy: 61.10[34m^M[m
+[38;5;130m100 [mCode: PSE, Name: Palestine, Population: 3101000, Life Expectancy: 71.40[34m^M[m
+[38;5;130m101 [mCode: PHL, Name: Philippines, Population: 75967000, Life Expectancy: 67.50[34m^M[m
+[38;5;130m102 [mCode: QAT, Name: Qatar, Population: 599000, Life Expectancy: 72.40[34m^M[1;5H[?12l[?25h[?25l[1;41r[m[1;1H[5M[1;42r[37;1H[38;5;130m103 [mCode: SAU, Name: Saudi Arabia, Population: 21607000, Life Expectancy: 67.80[34m^M[m
+[38;5;130m104 [mCode: SGP, Name: Singapore, Population: 3567000, Life Expectancy: 80.10[34m^M[m
+[38;5;130m105 [mCode: KOR, Name: South Korea, Population: 46844000, Life Expectancy: 74.40[34m^M[m
+[38;5;130m106 [mCode: LKA, Name: Sri Lanka, Population: 18827000, Life Expectancy: 71.80[34m^M[m
+[38;5;130m107 [mCode: SYR, Name: Syria, Population: 16125000, Life Expectancy: 68.50[34m^M[1;5H[?12l[?25h[?25l[1;41r[m[1;1H[3M[1;42r[39;1H[38;5;130m108 [mCode: TWN, Name: Taiwan, Population: 22256000, Life Expectancy: 76.40[34m^M[m
+[38;5;130m109 [mCode: TJK, Name: Tajikistan, Population: 6188000, Life Expectancy: 64.10[34m^M[m
+[38;5;130m110 [mCode: THA, Name: Thailand, Population: 61399000, Life Expectancy: 68.60[34m^M[1;5H[?12l[?25h[?25l[1;41r[m[1;1H[3M[1;42r[39;1H[38;5;130m111 [mCode: TUR, Name: Turkey, Population: 66591000, Life Expectancy: 71.00[34m^M[m
+[38;5;130m112 [mCode: TKM, Name: Turkmenistan, Population: 4459000, Life Expectancy: 60.90[34m^M[m
+[38;5;130m113 [mCode: ARE, Name: United Arab Emirates, Population: 2441000, Life Expectancy: 74.[41;1H[94m@                                                                                   [1;5H[?12l[?25h[?25l[1;41r[m[1;1H[3M[1;42r[38;1H[38;5;130m113 [mCode: ARE, Name: United Arab Emirates, Population: 2441000, Life Expectancy: 74..[39;1H[38;5;130m    [m10[34m^M[m
+[38;5;130m114 [mCode: UZB, Name: Uzbekistan, Population: 24318000, Life Expectancy: 63.70[34m^M[m
+[38;5;130m115 [mCode: VNM, Name: Vietnam, Population: 79832000, Life Expectancy: 69.30[34m^M[1;5H[?12l[?25h[?25l[1;41r[m[1;1H[3M[1;42r[39;1H[38;5;130m116 [mCode: YEM, Name: Yemen, Population: 18112000, Life Expectancy: 59.80[34m^M[m
+[38;5;130m117 [mCode: ALB, Name: Albania, Population: 3401200, Life Expectancy: 71.60[34m^M[m
+[38;5;130m118 [mCode: AND, Name: Andorra, Population: 78000, Life Expectancy: 83.50[34m^M[1;5H[?12l[?25h[?25l[1;41r[m[1;1H[3M[1;42r[39;1H[38;5;130m119 [mCode: AUT, Name: Austria, Population: 8091800, Life Expectancy: 77.70[34m^M[m
+[38;5;130m120 [mCode: BLR, Name: Belarus, Population: 10236000, Life Expectancy: 68.00[34m^M[m
+[38;5;130m121 [mCode: BEL, Name: Belgium, Population: 10239000, Life Expectancy: 77.80[34m^M[1;5H[?12l[?25h[?25l[1;41r[m[1;1H[3M[1;42r[39;1H[38;5;130m122 [mCode: BIH, Name: Bosnia and Herzegovina, Population: 3972000, Life Expectancy: 77[40;1H[38;5;130m    [m1.50[34m^M[m
+[38;5;130m123 [mCode: BGR, Name: Bulgaria, Population: 8190900, Life Expectancy: 70.90[34m^M[1;5H[?12l[?25h[?25l[1;41r[m[1;1H[3M[1;42r[39;1H[38;5;130m124 [mCode: HRV, Name: Croatia, Population: 4473000, Life Expectancy: 73.70[34m^M[m
+[38;5;130m125 [mCode: CZE, Name: Czech Republic, Population: 10278100, Life Expectancy: 74.50[34m^M[m
+[38;5;130m126 [mCode: DNK, Name: Denmark, Population: 5330000, Life Expectancy: 76.50[34m^M[1;5H[?12l[?25h[?25l[1;41r[m[1;1H[3M[1;42r[39;1H[38;5;130m127 [mCode: EST, Name: Estonia, Population: 1439200, Life Expectancy: 69.50[34m^M[m
+[38;5;130m128 [mCode: FRO, Name: Faroe Islands, Population: 43000, Life Expectancy: 78.40[34m^M[m
+[38;5;130m129 [mCode: FIN, Name: Finland, Population: 5171300, Life Expectancy: 77.40[34m^M[1;5H[?12l[?25h[?25l[1;41r[m[1;1H[3M[1;42r[39;1H[38;5;130m130 [mCode: FRA, Name: France, Population: 59225700, Life Expectancy: 78.80[34m^M[m
+[38;5;130m131 [mCode: DEU, Name: Germany, Population: 82164700, Life Expectancy: 77.40[34m^M[m
+[38;5;130m132 [mCode: GIB, Name: Gibraltar, Population: 25000, Life Expectancy: 79.00[34m^M[1;5H[?12l[?25h[?25l[1;41r[m[1;1H[3M[1;42r[39;1H[38;5;130m133 [mCode: GRC, Name: Greece, Population: 10545700, Life Expectancy: 78.40[34m^M[m
+[38;5;130m134 [mCode: VAT, Name: Holy See (Vatican City State), Population: 1000, Life Expectancc[41;1H[38;5;130m    [my: 0.00[34m^M[1;5H[?12l[?25h[?25l[1;41r[m[1;1H[3M[1;42r[39;1H[38;5;130m135 [mCode: HUN, Name: Hungary, Population: 10043200, Life Expectancy: 71.40[34m^M[m
+[38;5;130m136 [mCode: ISL, Name: Iceland, Population: 279000, Life Expectancy: 79.40[34m^M[m
+[38;5;130m137 [mCode: IRL, Name: Ireland, Population: 3775100, Life Expectancy: 76.80[34m^M[1;5H[?12l[?25h[?25l[1;41r[m[1;1H[3M[1;42r[39;1H[38;5;130m138 [mCode: ITA, Name: Italy, Population: 57680000, Life Expectancy: 79.00[34m^M[m
+[38;5;130m139 [mCode: LVA, Name: Latvia, Population: 2424200, Life Expectancy: 68.40[34m^M[m
+[38;5;130m140 [mCode: LIE, Name: Liechtenstein, Population: 32300, Life Expectancy: 78.80[34m^M[1;5H[?12l[?25h[?25l[1;41r[m[1;1H[3M[1;42r[39;1H[38;5;130m141 [mCode: LTU, Name: Lithuania, Population: 3698500, Life Expectancy: 69.10[34m^M[m
+[38;5;130m142 [mCode: LUX, Name: Luxembourg, Population: 435700, Life Expectancy: 77.10[34m^M[m
+[38;5;130m143 [mCode: MKD, Name: Macedonia, Population: 2024000, Life Expectancy: 73.80[34m^M[1;5H[?12l[?25h[?25l[1;41r[m[1;1H[3M[1;42r[39;1H[38;5;130m144 [mCode: MLT, Name: Malta, Population: 380200, Life Expectancy: 77.90[34m^M[m
+[38;5;130m145 [mCode: MDA, Name: Moldova, Population: 4380000, Life Expectancy: 64.50[34m^M[m
+[38;5;130m146 [mCode: MCO, Name: Monaco, Population: 34000, Life Expectancy: 78.80[34m^M[1;5H[?12l[?25h[?25l[1;41r[m[1;1H[3M[1;42r[39;1H[38;5;130m147 [mCode: NLD, Name: Netherlands, Population: 15864000, Life Expectancy: 78.30[34m^M[m
+[38;5;130m148 [mCode: NOR, Name: Norway, Population: 4478500, Life Expectancy: 78.70[34m^M[m
+[38;5;130m149 [mCode: POL, Name: Poland, Population: 38653600, Life Expectancy: 73.20[34m^M[1;5H[?12l[?25h[?25l[1;41r[m[1;1H[4M[1;42r[38;1H[38;5;130m150 [mCode: PRT, Name: Portugal, Population: 9997600, Life Expectancy: 75.80[34m^M[m
+[38;5;130m151 [mCode: ROM, Name: Romania, Population: 22455500, Life Expectancy: 69.90[34m^M[m
+[38;5;130m152 [mCode: RUS, Name: Russian Federation, Population: 146934000, Life Expectancy: 67..[41;1H[38;5;130m    [m20[34m^M[1;5H[?12l[?25h[?25l[1;41r[m[1;1H[3M[1;42r[39;1H[38;5;130m153 [mCode: SMR, Name: San Marino, Population: 27000, Life Expectancy: 81.10[34m^M[m
+[38;5;130m154 [mCode: SVK, Name: Slovakia, Population: 5398700, Life Expectancy: 73.70[34m^M[m
+[38;5;130m155 [mCode: SVN, Name: Slovenia, Population: 1987800, Life Expectancy: 74.90[34m^M[1;5H[?12l[?25h[?25l[1;41r[m[1;1H[3M[1;42r[39;1H[38;5;130m156 [mCode: ESP, Name: Spain, Population: 39441700, Life Expectancy: 78.80[34m^M[m
+[38;5;130m157 [mCode: SJM, Name: Svalbard and Jan Mayen, Population: 3200, Life Expectancy: 0.000[41;1H[38;5;130m    [m[34m^M[1;5H[?12l[?25h[?25l[1;41r[m[1;1H[4M[1;42r[38;1H[38;5;130m158 [mCode: SWE, Name: Sweden, Population: 8861400, Life Expectancy: 79.60[34m^M[m
+[38;5;130m159 [mCode: CHE, Name: Switzerland, Population: 7160400, Life Expectancy: 79.60[34m^M[m
+[38;5;130m160 [mCode: UKR, Name: Ukraine, Population: 50456000, Life Expectancy: 66.00[34m^M[m
+[38;5;130m161 [mCode: GBR, Name: United Kingdom, Population: 59623400, Life Expectancy: 77.70[34m^M[1;5H[?12l[?25h[?25l[1;41r[m[1;1H[4L[1;42r[1;1H[38;5;130m121 [mCode: BEL, Name: Belgium, Population: 10239000, Life Expectancy: 77.80[34m^M[m
+[38;5;130m122 [mCode: BIH, Name: Bosnia and Herzegovina, Population: 3972000, Life Expectancy: 77[3;1H[38;5;130m    [m1.50[34m^M[m
+[38;5;130m123 [mCode: BGR, Name: Bulgaria, Population: 8190900, Life Expectancy: 70.90[34m^M[5;5H[?12l[?25h[?25l[1;41r[m[1;1H[3L[1;42r[1;1H[38;5;130m118 [mCode: AND, Name: Andorra, Population: 78000, Life Expectancy: 83.50[34m^M[m
+[38;5;130m119 [mCode: AUT, Name: Austria, Population: 8091800, Life Expectancy: 77.70[34m^M[m
+[38;5;130m120 [mCode: BLR, Name: Belarus, Population: 10236000, Life Expectancy: 68.00[34m^M[8;5H[?12l[?25h[?25l[1;41r[m[1;1H[3L[1;42r[1;1H[38;5;130m115 [mCode: VNM, Name: Vietnam, Population: 79832000, Life Expectancy: 69.30[34m^M[m
+[38;5;130m116 [mCode: YEM, Name: Yemen, Population: 18112000, Life Expectancy: 59.80[34m^M[m
+[38;5;130m117 [mCode: ALB, Name: Albania, Population: 3401200, Life Expectancy: 71.60[34m^M[11;5H[?12l[?25h[?25l[1;41r[m[1;1H[4L[1;42r[1;1H[38;5;130m112 [mCode: TKM, Name: Turkmenistan, Population: 4459000, Life Expectancy: 60.90[34m^M[m
+[38;5;130m113 [mCode: ARE, Name: United Arab Emirates, Population: 2441000, Life Expectancy: 74..[3;1H[38;5;130m    [m10[34m^M[m
+[38;5;130m114 [mCode: UZB, Name: Uzbekistan, Population: 24318000, Life Expectancy: 63.70[34m^M[15;5H[?12l[?25h[?25l[1;41r[m[1;1H[3L[1;42r[1;1H[38;5;130m109 [mCode: TJK, Name: Tajikistan, Population: 6188000, Life Expectancy: 64.10[34m^M[m
+[38;5;130m110 [mCode: THA, Name: Thailand, Population: 61399000, Life Expectancy: 68.60[34m^M[m
+[38;5;130m111 [mCode: TUR, Name: Turkey, Population: 66591000, Life Expectancy: 71.00[34m^M[18;5H[?12l[?25h[?25l[1;41r[m[1;1H[3L[1;42r[1;1H[38;5;130m106 [mCode: LKA, Name: Sri Lanka, Population: 18827000, Life Expectancy: 71.80[34m^M[m
+[38;5;130m107 [mCode: SYR, Name: Syria, Population: 16125000, Life Expectancy: 68.50[34m^M[m
+[38;5;130m108 [mCode: TWN, Name: Taiwan, Population: 22256000, Life Expectancy: 76.40[34m^M[21;5H[?12l[?25h[?25l[1;41r[m[1;1H[3L[1;42r[1;1H[38;5;130m103 [mCode: SAU, Name: Saudi Arabia, Population: 21607000, Life Expectancy: 67.80[34m^M[m
+[38;5;130m104 [mCode: SGP, Name: Singapore, Population: 3567000, Life Expectancy: 80.10[34m^M[m
+[38;5;130m105 [mCode: KOR, Name: South Korea, Population: 46844000, Life Expectancy: 74.40[34m^M[24;5H[?12l[?25h[?25l[1;41r[m[1;1H[3L[1;42r[1;1H[38;5;130m100 [mCode: PSE, Name: Palestine, Population: 3101000, Life Expectancy: 71.40[34m^M[m
+[38;5;130m101 [mCode: PHL, Name: Philippines, Population: 75967000, Life Expectancy: 67.50[34m^M[m
+[38;5;130m102 [mCode: QAT, Name: Qatar, Population: 599000, Life Expectancy: 72.40[34m^M[27;5H[?12l[?25h[?25l[1;41r[m[1;1H[3L[1;42r[1;1H[38;5;130m 97 [mCode: PRK, Name: North Korea, Population: 24039000, Life Expectancy: 70.70[34m^M[m
+[38;5;130m 98 [mCode: OMN, Name: Oman, Population: 2542000, Life Expectancy: 71.80[34m^M[m
+[38;5;130m 99 [mCode: PAK, Name: Pakistan, Population: 156483000, Life Expectancy: 61.10[34m^M[30;5H[?12l[?25h[?25l[1;41r[m[1;1H[3L[1;42r[1;1H[38;5;130m 94 [mCode: MNG, Name: Mongolia, Population: 2662000, Life Expectancy: 67.30[34m^M[m
+[38;5;130m 95 [mCode: MMR, Name: Myanmar, Population: 45611000, Life Expectancy: 54.90[34m^M[m
+[38;5;130m 96 [mCode: NPL, Name: Nepal, Population: 23930000, Life Expectancy: 57.80[34m^M[33;5H[?12l[?25h[?25l[1;41r[m[1;1H[3L[1;42r[1;1H[38;5;130m 91 [mCode: MAC, Name: Macao, Population: 473000, Life Expectancy: 81.60[34m^M[m
+[38;5;130m 92 [mCode: MYS, Name: Malaysia, Population: 22244000, Life Expectancy: 70.80[34m^M[m
+[38;5;130m 93 [mCode: MDV, Name: Maldives, Population: 286000, Life Expectancy: 62.20[34m^M[36;5H[?12l[?25h[?25l[1;41r[m[1;1H[3L[1;42r[1;1H[38;5;130m 88 [mCode: KGZ, Name: Kyrgyzstan, Population: 4699000, Life Expectancy: 63.40[34m^M[m
+[38;5;130m 89 [mCode: LAO, Name: Laos, Population: 5433000, Life Expectancy: 53.10[34m^M[m
+[38;5;130m 90 [mCode: LBN, Name: Lebanon, Population: 3282000, Life Expectancy: 71.30[34m^M[39;5H[?12l[?25h[?25l[1;41r[m[1;1H[3L[1;42r[1;1H[38;5;130m 85 [mCode: JOR, Name: Jordan, Population: 5083000, Life Expectancy: 77.40[34m^M[m
+[38;5;130m 86 [mCode: KAZ, Name: Kazakstan, Population: 16223000, Life Expectancy: 63.20[34m^M[m
+[38;5;130m 87 [mCode: KWT, Name: Kuwait, Population: 1972000, Life Expectancy: 76.10[34m^M[41;5H[?12l[?25h[?25l[1;41r[m[1;1H[3L[1;42r[1;1H[38;5;130m 82 [mCode: IRQ, Name: Iraq, Population: 23115000, Life Expectancy: 66.50[34m^M[m
+[38;5;130m 83 [mCode: ISR, Name: Israel, Population: 6217000, Life Expectancy: 78.60[34m^M[m
+[38;5;130m 84 [mCode: JPN, Name: Japan, Population: 126714000, Life Expectancy: 80.70[34m^M[41;5H[?12l[?25h[?25l[1;41r[m[1;1H[3L[1;42r[1;1H[38;5;130m 79 [mCode: IND, Name: India, Population: 1013662000, Life Expectancy: 62.50[34m^M[m
+[38;5;130m 80 [mCode: IDN, Name: Indonesia, Population: 212107000, Life Expectancy: 68.00[34m^M[m
+[38;5;130m 81 [mCode: IRN, Name: Iran, Population: 67702000, Life Expectancy: 69.70[34m^M[41;5H[?12l[?25h[?25l[1;41r[m[1;1H[3L[1;42r[1;1H[38;5;130m 76 [mCode: TMP, Name: East Timor, Population: 885000, Life Expectancy: 46.00[34m^M[m
+[38;5;130m 77 [mCode: GEO, Name: Georgia, Population: 4968000, Life Expectancy: 64.50[34m^M[m
+[38;5;130m 78 [mCode: HKG, Name: Hong Kong, Population: 6782000, Life Expectancy: 79.50[34m^M[41;5H[?12l[?25h[?25l[1;41r[m[1;1H[3L[1;42r[1;1H[38;5;130m 73 [mCode: KHM, Name: Cambodia, Population: 11168000, Life Expectancy: 56.50[34m^M[m
+[38;5;130m 74 [mCode: CHN, Name: China, Population: 1277558000, Life Expectancy: 71.40[34m^M[m
+[38;5;130m 75 [mCode: CYP, Name: Cyprus, Population: 754700, Life Expectancy: 76.70[34m^M[m[41;1H[94m@                                                                                   [40;5H[?12l[?25h[?25l[1;41r[m[1;1H[3L[1;42r[1;1H[38;5;130m 70 [mCode: BGD, Name: Bangladesh, Population: 129155000, Life Expectancy: 60.20[34m^M[m
+[38;5;130m 71 [mCode: BTN, Name: Bhutan, Population: 2124000, Life Expectancy: 52.40[34m^M[m
+[38;5;130m 72 [mCode: BRN, Name: Brunei, Population: 328000, Life Expectancy: 73.60[34m^M[41;5H[?12l[?25h[?25l[1;41r[m[1;1H[3L[1;42r[1;1H[38;5;130m 67 [mCode: ARM, Name: Armenia, Population: 3520000, Life Expectancy: 66.40[34m^M[m
+[38;5;130m 68 [mCode: AZE, Name: Azerbaijan, Population: 7734000, Life Expectancy: 62.90[34m^M[m
+[38;5;130m 69 [mCode: BHR, Name: Bahrain, Population: 617000, Life Expectancy: 73.00[34m^M[41;5H[?12l[?25h[?25l[1;41r[m[1;1H[5L[1;42r[1;1H[38;5;130m 64 [mCode: HMD, Name: Heard Island and McDonald Islands, Population: 0, Life Expectann[2;1H[38;5;130m    [mcy: 0.00[34m^M[m
+[38;5;130m 65 [mCode: SGS, Name: South Georgia and the South Sandwich Islands, Population: 0, Lii[4;1H[38;5;130m    [mfe Expectancy: 0.00[34m^M[m
+[38;5;130m 66 [mCode: AFG, Name: Afghanistan, Population: 22720000, Life Expectancy: 45.90[34m^M[41;5H[?12l[?25h[?25l[1;41r[m[1;1H[4L[1;42r[1;1H[38;5;130m 61 [mCode: ATA, Name: Antarctica, Population: 0, Life Expectancy: 0.00[34m^M[m
+[38;5;130m 62 [mCode: BVT, Name: Bouvet Island, Population: 0, Life Expectancy: 0.00[34m^M[m
+[38;5;130m 63 [mCode: ATF, Name: French Southern territories, Population: 0, Life Expectancy: 0..[4;1H[38;5;130m    [m00[34m^M[41;5H[?12l[?25h[?25l[1;41r[m[1;1H[3L[1;42r[1;1H[38;5;130m 58 [mCode: ESH, Name: Western Sahara, Population: 293000, Life Expectancy: 49.80[34m^M[m
+[38;5;130m 59 [mCode: ZMB, Name: Zambia, Population: 9169000, Life Expectancy: 37.20[34m^M[m
+[38;5;130m 60 [mCode: ZWE, Name: Zimbabwe, Population: 11669000, Life Expectancy: 37.80[34m^M[41;5H[?12l[?25h[?25l[1;41r[m[1;1H[3L[1;42r[1;1H[38;5;130m 55 [mCode: TGO, Name: Togo, Population: 4629000, Life Expectancy: 54.70[34m^M[m
+[38;5;130m 56 [mCode: TUN, Name: Tunisia, Population: 9586000, Life Expectancy: 73.70[34m^M[m
+[38;5;130m 57 [mCode: UGA, Name: Uganda, Population: 21778000, Life Expectancy: 42.90[34m^M[41;5H[?12l[?25h[?25l[1;41r[m[1;1H[3L[1;42r[1;1H[38;5;130m 52 [mCode: SDN, Name: Sudan, Population: 29490000, Life Expectancy: 56.60[34m^M[m
+[38;5;130m 53 [mCode: SWZ, Name: Swaziland, Population: 1008000, Life Expectancy: 40.40[34m^M[m
+[38;5;130m 54 [mCode: TZA, Name: Tanzania, Population: 33517000, Life Expectancy: 52.30[34m^M[41;5H[?12l[?25h[?25l[1;41r[m[1;1H[3L[1;42r[1;1H[38;5;130m 49 [mCode: SLE, Name: Sierra Leone, Population: 4854000, Life Expectancy: 45.30[34m^M[m
+[38;5;130m 50 [mCode: SOM, Name: Somalia, Population: 10097000, Life Expectancy: 46.20[34m^M[m
+[38;5;130m 51 [mCode: ZAF, Name: South Africa, Population: 40377000, Life Expectancy: 51.10[34m^M[41;5H[?12l[?25h[?25l[1;41r[m[1;1H[4L[1;42r[1;1H[38;5;130m 46 [mCode: STP, Name: Sao Tome and Principe, Population: 147000, Life Expectancy: 65..[2;1H[38;5;130m    [m30[34m^M[m
+[38;5;130m 47 [mCode: SEN, Name: Senegal, Population: 9481000, Life Expectancy: 62.20[34m^M[m
+[38;5;130m 48 [mCode: SYC, Name: Seychelles, Population: 77000, Life Expectancy: 70.40[34m^M[41;5H[?12l[?25h[?25l[1;41r[m[1;1H[3L[1;42r[1;1H[38;5;130m 43 [mCode: REU, Name: Réunion, Population: 699000, Life Expectancy: 72.70[34m^M[m
+[38;5;130m 44 [mCode: RWA, Name: Rwanda, Population: 7733000, Life Expectancy: 39.30[34m^M[m
+[38;5;130m 45 [mCode: SHN, Name: Saint Helena, Population: 6000, Life Expectancy: 76.80[34m^M[41;5H[?12l[?25h[?25l[1;41r[m[1;1H[3L[1;42r[1;1H[38;5;130m 40 [mCode: NAM, Name: Namibia, Population: 1726000, Life Expectancy: 42.50[34m^M[m
+[38;5;130m 41 [mCode: NER, Name: Niger, Population: 10730000, Life Expectancy: 41.30[34m^M[m
+[38;5;130m 42 [mCode: NGA, Name: Nigeria, Population: 111506000, Life Expectancy: 51.60[34m^M[41;5H[?12l[?25h[?25l[1;41r[m[1;1H[3L[1;42r[1;1H[38;5;130m 37 [mCode: MYT, Name: Mayotte, Population: 149000, Life Expectancy: 59.50[34m^M[m
+[38;5;130m 38 [mCode: MAR, Name: Morocco, Population: 28351000, Life Expectancy: 69.10[34m^M[m
+[38;5;130m 39 [mCode: MOZ, Name: Mozambique, Population: 19680000, Life Expectancy: 37.50[34m^M[41;5H[?12l[?25h[?25l[1;41r[m[1;1H[3L[1;42r[1;1H[38;5;130m 34 [mCode: MLI, Name: Mali, Population: 11234000, Life Expectancy: 46.70[34m^M[m
+[38;5;130m 35 [mCode: MRT, Name: Mauritania, Population: 2670000, Life Expectancy: 50.80[34m^M[m
+[38;5;130m 36 [mCode: MUS, Name: Mauritius, Population: 1158000, Life Expectancy: 71.00[34m^M[41;5H[?12l[?25h[?25l[1;41r[m[1;1H[4L[1;42r[1;1H[38;5;130m 31 [mCode: LBY, Name: Libyan Arab Jamahiriya, Population: 5605000, Life Expectancy: 77[2;1H[38;5;130m    [m5.50[34m^M[m
+[38;5;130m 32 [mCode: MDG, Name: Madagascar, Population: 15942000, Life Expectancy: 55.00[34m^M[m
+[38;5;130m 33 [mCode: MWI, Name: Malawi, Population: 10925000, Life Expectancy: 37.60[34m^M[41;5H[?12l[?25h[?25l[1;41r[m[1;1H[3L[1;42r[1;1H[38;5;130m 28 [mCode: KEN, Name: Kenya, Population: 30080000, Life Expectancy: 48.00[34m^M[m
+[38;5;130m 29 [mCode: LSO, Name: Lesotho, Population: 2153000, Life Expectancy: 50.80[34m^M[m
+[38;5;130m 30 [mCode: LBR, Name: Liberia, Population: 3154000, Life Expectancy: 51.00[34m^M[40;5H[?12l[?25h[?25l[1;41r[m[1;1H[3L[1;42r[1;1H[38;5;130m 25 [mCode: GHA, Name: Ghana, Population: 20212000, Life Expectancy: 57.40[34m^M[m
+[38;5;130m 26 [mCode: GIN, Name: Guinea, Population: 7430000, Life Expectancy: 45.60[34m^M[m
+[38;5;130m 27 [mCode: GNB, Name: Guinea-Bissau, Population: 1213000, Life Expectancy: 49.00[34m^M[m[41;1H[94m@                                                                                   [40;5H[?12l[?25h[?25l[1;41r[m[1;1H[3L[1;42r[1;1H[38;5;130m 22 [mCode: ETH, Name: Ethiopia, Population: 62565000, Life Expectancy: 45.20[34m^M[m
+[38;5;130m 23 [mCode: GAB, Name: Gabon, Population: 1226000, Life Expectancy: 50.10[34m^M[m
+[38;5;130m 24 [mCode: GMB, Name: Gambia, Population: 1305000, Life Expectancy: 53.20[34m^M[41;5H[?12l[?25h[?25l[1;41r[m[1;1H[3L[1;42r[1;1H[38;5;130m 19 [mCode: EGY, Name: Egypt, Population: 68470000, Life Expectancy: 63.30[34m^M[m
+[38;5;130m 20 [mCode: GNQ, Name: Equatorial Guinea, Population: 453000, Life Expectancy: 53.60[34m^M[m[3;1H[38;5;130m 21 [mCode: ERI, Name: Eritrea, Population: 3850000, Life Expectancy: 55.80[34m^M[41;5H[?12l[?25h[?25l[1;41r[m[1;1H[5L[1;42r[1;1H[38;5;130m 16 [mCode: COD, Name: Congo; The Democratic Republic of the, Population: 51654000, Lii[2;1H[38;5;130m    [mfe Expectancy: 48.80[34m^M[m
+[38;5;130m 17 [mCode: CIV, Name: Cote d[34m<92>[mIvoire, Population: 14786000, Life Expectancy: 45.20[34m^^[m[4;1H[38;5;130m    [m[34mM[m
+[38;5;130m 18 [mCode: DJI, Name: Djibouti, Population: 638000, Life Expectancy: 50.80[34m^M[41;5H[?12l[?25h[?25l[1;41r[m[1;1H[3L[1;42r[1;1H[38;5;130m 13 [mCode: TCD, Name: Chad, Population: 7651000, Life Expectancy: 50.50[34m^M[m
+[38;5;130m 14 [mCode: COM, Name: Comoros, Population: 578000, Life Expectancy: 60.00[34m^M[m
+[38;5;130m 15 [mCode: COG, Name: Congo, Population: 2943000, Life Expectancy: 47.40[34m^M[41;5H[?12l[?25h[?25l[1;41r[m[1;1H[4L[1;42r[1;1H[38;5;130m 10 [mCode: CMR, Name: Cameroon, Population: 15085000, Life Expectancy: 54.80[34m^M[m
+[38;5;130m 11 [mCode: CPV, Name: Cape Verde, Population: 428000, Life Expectancy: 68.90[34m^M[m
+[38;5;130m 12 [mCode: CAF, Name: Central African Republic, Population: 3615000, Life Expectancy::[4;1H[38;5;130m    [m 44.00[34m^M[m[41;1H[94m@                                                                                   [40;5H[?12l[?25h[?25l[1;41r[m[1;1H[4L[1;42r[1;1H[38;5;130m  7 [mCode: IOT, Name: British Indian Ocean Territory, Population: 0, Life Expectancy::[2;1H[38;5;130m    [m 0.00[34m^M[m
+[38;5;130m  8 [mCode: BFA, Name: Burkina Faso, Population: 11937000, Life Expectancy: 46.70[34m^M[m
+[38;5;130m  9 [mCode: BDI, Name: Burundi, Population: 6695000, Life Expectancy: 46.20[34m^M[41;5H[?12l[?25h[?25l[1;41r[m[1;1H[3L[1;42r[1;1H[38;5;130m  4 [mCode: AGO, Name: Angola, Population: 12878000, Life Expectancy: 38.30[34m^M[m
+[38;5;130m  5 [mCode: BEN, Name: Benin, Population: 6097000, Life Expectancy: 50.20[34m^M[m
+[38;5;130m  6 [mCode: BWA, Name: Botswana, Population: 1622000, Life Expectancy: 39.30[34m^M[41;5H[?12l[?25h[?25l[1;41r[m[1;1H[8L[1;42r[1;1H[38;5;130m  1 [mScript started on Wed Jan 20 18:05:25 2016
+[38;5;130m  2 [m[34m^[[m[1m[34m^[[m[7m%[34m^[[m[27m[34m^[[m[1m[34m^[[m[0m[52C  [3;1H[38;5;130m    [m[29C [34m^M[m [34m^M^[[m]2;Alex@Alexs-MacBook-Pro: ~/ClassWork/22400[4;1H[38;5;130m    [m/a1[34m^G^[[m]1;..sWork/2240/a1[34m^G^M^[[m[0m[34m^[[m[27m[34m^[[m[24m[34m^[[m[J[34m^[[m[01;32mâ[34m<9e><9c>[m [34m^[[m[01;32m [34m^^[m[5;1H[38;5;130m    [m[34m[[m[36ma1 [34m^[[m[01;34m[34m^[[m[01;34m [34m^[[m[00m[34m^[[m[K[34m^[[m[?1h[34m^[[m=script[34m^H^H^H^H^H^H[m./countries all[34m^^[m[6;1H[38;5;130m    [m[34m[[m[?1l[34m^[[m>[34m^M^M[m
+[38;5;130m  3 [m[34m^[[m]2;./countries all[34m^G^[[m]1;./countries[34m^G[mCode: DZA, Name: Algeria, Population: 311[8;1H[38;5;130m    [m471000, Life Expectancy: 69.70[34m^M[40;5H[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l
+
+[m:[?12l[?25hq[?25l[?1002l[42;1H[K[42;1H[?1l>[?12l[?25h[?1049l[1m[7m%[27m[1m[0m                                                                                    ]2;Alex@Alexs-MacBook-Pro: ~/ClassWork/2240/a1]1;..sWork/2240/a1[0m[27m[24m[J[01;32m➜ [01;32m [36ma1 [01;34m[01;34m [00m[K[?1h=mmore typescript[?1l>
+]2;more typescript]1;more[?1h=Script started on Wed Jan 20 18:05:25 2016
+[7mESC[27m[1m[7mESC[27m[7m%[7mESC[27m[27m[7mESC[27m[1m[7mESC[27m[0m                                                                                    [7m^M[27m [7m^MESC[27m]2;Alex@Alexs-MacBook-Pro: ~/ClassWork/2240/a 1[7m^GESC[27m]1;..sWork/2240/a1[7m^G^MESC[27m[0m[7mESC[27m[27m[7mESC[27m[24m[7mESC[27m[J[7mESC[27m[01;32m➜ [7mESC[27m[01;32m [7mESC[27m[36ma 1 [7mESC[27m[01;34m[7mESC[27m[01;34m [7mESC[27m[00m[7mESC[27m[K[7mESC[27m[?1h[7mESC[27m=./countries all[7mESC[27m[?1l[7mESC[27m>[7m^M[27m
+[7mESC[27m]2;./countries all[7m^GESC[27m]1;./countries[7m^G[27mCode: DZA, Name: Algeria, Population: 3147 1000, Life Expectancy: 69.70
+Code: AGO, Name: Angola, Population: 12878000, Life Expectancy: 38.30
+Code: BEN, Name: Benin, Population: 6097000, Life Expectancy: 50.20
+Code: BWA, Name: Botswana, Population: 1622000, Life Expectancy: 39.30
+Code: IOT, Name: British Indian Ocean Territory, Population: 0, Life Expectancy: 0.0 0
+Code: BFA, Name: Burkina Faso, Population: 11937000, Life Expectancy: 46.70
+Code: BDI, Name: Burundi, Population: 6695000, Life Expectancy: 46.20
+Code: CMR, Name: Cameroon, Population: 15085000, Life Expectancy: 54.80
+Code: CPV, Name: Cape Verde, Population: 428000, Life Expectancy: 68.90
+Code: CAF, Name: Central African Republic, Population: 3615000, Life Expectancy: 44. 00
+Code: TCD, Name: Chad, Population: 7651000, Life Expectancy: 50.50
+Code: COM, Name: Comoros, Population: 578000, Life Expectancy: 60.00
+Code: COG, Name: Congo, Population: 2943000, Life Expectancy: 47.40
+Code: COD, Name: Congo; The Democratic Republic of the, Population: 51654000, Life E xpectancy: 48.80
+Code: CIV, Name: Cote d[7m<92>[27mIvoire, Population: 14786000, Life Expectancy: 45.20
+Code: DJI, Name: Djibouti, Population: 638000, Life Expectancy: 50.80
+Code: EGY, Name: Egypt, Population: 68470000, Life Expectancy: 63.30
+Code: GNQ, Name: Equatorial Guinea, Population: 453000, Life Expectancy: 53.60
+Code: ERI, Name: Eritrea, Population: 3850000, Life Expectancy: 55.80
+Code: ETH, Name: Ethiopia, Population: 62565000, Life Expectancy: 45.20
+Code: GAB, Name: Gabon, Population: 1226000, Life Expectancy: 50.10
+Code: GMB, Name: Gambia, Population: 1305000, Life Expectancy: 53.20
+Code: GHA, Name: Ghana, Population: 20212000, Life Expectancy: 57.40
+Code: GIN, Name: Guinea, Population: 7430000, Life Expectancy: 45.60
+Code: GNB, Name: Guinea-Bissau, Population: 1213000, Life Expectancy: 49.00
+Code: KEN, Name: Kenya, Population: 30080000, Life Expectancy: 48.00
+Code: LSO, Name: Lesotho, Population: 2153000, Life Expectancy: 50.80
+Code: LBR, Name: Liberia, Population: 3154000, Life Expectancy: 51.00
+Code: LBY, Name: Libyan Arab Jamahiriya, Population: 5605000, Life Expectancy: 75.50
+Code: MDG, Name: Madagascar, Population: 15942000, Life Expectancy: 55.00
+Code: MWI, Name: Malawi, Population: 10925000, Life Expectancy: 37.60
+Code: MLI, Name: Mali, Population: 11234000, Life Expectancy: 46.70
+[7mtypescript[27m[K[K [KESCESC[KOO[KBB[KCode: MRT, Name: Mauritania, Population: 2670000, Life Expectancy: 50.80
+:[K[K [KESCESC[KOO[KBB[KCode: MUS, Name: Mauritius, Population: 1158000, Life Expectancy: 71.00
+:[K[K [KESCESC[KOO[KBB[KCode: MYT, Name: Mayotte, Population: 149000, Life Expectancy: 59.50
+:[K[K [KESCESC[KOO[KBB[KCode: MAR, Name: Morocco, Population: 28351000, Life Expectancy: 69.10
+:[K[K [KESCESC[KOO[KBB[KCode: MOZ, Name: Mozambique, Population: 19680000, Life Expectancy: 37.50
+:[K[K [KESCESC[KOO[KBB[KCode: NAM, Name: Namibia, Population: 1726000, Life Expectancy: 42.50
+:[K[K [KESCESC[KOO[KBB[KCode: NER, Name: Niger, Population: 10730000, Life Expectancy: 41.30
+:[K[K [KESCESC[KOO[KBB[KCode: NGA, Name: Nigeria, Population: 111506000, Life Expectancy: 51.60
+:[K[K [KESCESC[KOO[KBB[KCode: REU, Name: R[7m<E9>[27munion, Population: 699000, Life Expectancy: 72.70
+:[K[K [KESCESC[KOO[KBB[KCode: RWA, Name: Rwanda, Population: 7733000, Life Expectancy: 39.30
+:[K[K [KESCESC[KOO[KBB[KCode: SHN, Name: Saint Helena, Population: 6000, Life Expectancy: 76.80
+:[K[K [KESCESC[KOO[KBB[KCode: STP, Name: Sao Tome and Principe, Population: 147000, Life Expectancy: 65.30
+:[K[K [KESCESC[KOO[KBB[KCode: SEN, Name: Senegal, Population: 9481000, Life Expectancy: 62.20
+:[K[K [KESCESC[KOO[KBB[KCode: SYC, Name: Seychelles, Population: 77000, Life Expectancy: 70.40
+:[K[K [KESCESC[KOO[KBB[KCode: SLE, Name: Sierra Leone, Population: 4854000, Life Expectancy: 45.30
+:[K[K [KESCESC[KOO[KBB[KCode: SOM, Name: Somalia, Population: 10097000, Life Expectancy: 46.20
+:[K[K [KESCESC[KOO[KBB[KCode: ZAF, Name: South Africa, Population: 40377000, Life Expectancy: 51.10
+:[K[K [KESCESC[KOO[KBB[KCode: SDN, Name: Sudan, Population: 29490000, Life Expectancy: 56.60
+:[K[K [KESCESC[KOO[KBB[KCode: SWZ, Name: Swaziland, Population: 1008000, Life Expectancy: 40.40
+:[K[K [KESCESC[KOO[KBB[KCode: TZA, Name: Tanzania, Population: 33517000, Life Expectancy: 52.30
+:[K[K [KESCESC[KOO[KBB[KCode: TGO, Name: Togo, Population: 4629000, Life Expectancy: 54.70
+:[K[K [KESCESC[KOO[KBB[KCode: TUN, Name: Tunisia, Population: 9586000, Life Expectancy: 73.70
+:[K[K [KESCESC[KOO[KBB[KCode: UGA, Name: Uganda, Population: 21778000, Life Expectancy: 42.90
+:[K[K [KESCESC[KOO[KBB[KCode: ESH, Name: Western Sahara, Population: 293000, Life Expectancy: 49.80
+:[K[K [KESCESC[KOO[KBB[KCode: ZMB, Name: Zambia, Population: 9169000, Life Expectancy: 37.20
+:[K[K [KESCESC[KOO[KBB[KCode: ZWE, Name: Zimbabwe, Population: 11669000, Life Expectancy: 37.80
+:[K[K [KESCESC[KOO[KBB[KCode: ATA, Name: Antarctica, Population: 0, Life Expectancy: 0.00
+:[K[K [KESCESC[KOO[KBB[KCode: BVT, Name: Bouvet Island, Population: 0, Life Expectancy: 0.00
+:[K[K [KESCESC[KOO[KBB[KCode: ATF, Name: French Southern territories, Population: 0, Life Expectancy: 0.00
+:[K[K [KESCESC[KOO[KBB[KCode: HMD, Name: Heard Island and McDonald Islands, Population: 0, Life Expectancy:  :[K[K [KESCESC[KOO[KBB[K0.00
+:[K[K [KESCESC[KOO[KBB[KCode: SGS, Name: South Georgia and the South Sandwich Islands, Population: 0, Life E :[K[K [KESCESC[KOO[KBB[Kxpectancy: 0.00
+:[K[K [KESCESC[KOO[KBB[KCode: AFG, Name: Afghanistan, Population: 22720000, Life Expectancy: 45.90
+:[K[K [KESCESC[KOO[KBB[KCode: ARM, Name: Armenia, Population: 3520000, Life Expectancy: 66.40
+:[K[K [KESCESC[KOO[KBB[KCode: AZE, Name: Azerbaijan, Population: 7734000, Life Expectancy: 62.90
+:[K[K [KESCESC[KOO[KBB[KCode: BHR, Name: Bahrain, Population: 617000, Life Expectancy: 73.00
+:[K[K [KESCESC[KOO[KBB[KCode: BGD, Name: Bangladesh, Population: 129155000, Life Expectancy: 60.20
+:[K[K [KESCESC[KOO[KBB[KCode: BTN, Name: Bhutan, Population: 2124000, Life Expectancy: 52.40
+:[K[K [KESCESC[KOO[KBB[KCode: BRN, Name: Brunei, Population: 328000, Life Expectancy: 73.60
+:[K[K [K::[Kqq[K[?1l>[1m[7m%[27m[1m[0m                                                                                    ]2;Alex@Alexs-MacBook-Pro: ~/ClassWork/2240/a1]1;..sWork/2240/a1[0m[27m[24m[J[01;32m➜ [01;32m [36ma1 [01;34m[01;34m [00m[K[?1h=[?1l>
+[1m[7m%[27m[1m[0m                                                                                    ]2;Alex@Alexs-MacBook-Pro: ~/ClassWork/2240/a1]1;..sWork/2240/a1[0m[27m[24m[J[01;32m➜ [01;32m [36ma1 [01;34m[01;34m [00m[K[?1h=m iiv i  vvi typescrit pt[?1l>
+]2;vi typescript]1;vi[?1000h[?1049h[?1h=[1;42r[?12;25h[?12l[?25h[27m[m[H[2J[?25l[42;1H"typescript" [noeol][converted] 663L, 84458C[>c[1;1H[38;5;130m  1 [mScript started on Wed Jan 20 18:05:25 2016
+[38;5;130m  2 [m[34m^[[m[1m[34m^[[m[7m%[34m^[[m[27m[34m^[[m[1m[34m^[[m[0m[52C  [3;1H[38;5;130m    [m[29C [34m^M[m [34m^M^[[m]2;Alex@Alexs-MacBook-Pro: ~/ClassWork/22400[4;1H[38;5;130m    [m/a1[34m^G^[[m]1;..sWork/2240/a1[34m^G^M^[[m[0m[34m^[[m[27m[34m^[[m[24m[34m^[[m[J[34m^[[m[01;32mâ[34m<9e><9c>[m [34m^[[m[01;32m [34m^^[m[5;1H[38;5;130m    [m[34m[[m[36ma1 [34m^[[m[01;34m[34m^[[m[01;34m [34m^[[m[00m[34m^[[m[K[34m^[[m[?1h[34m^[[m=script[34m^H^H^H^H^H^H[m./countries all[34m^^[m[6;1H[38;5;130m    [m[34m[[m[?1l[34m^[[m>[34m^M^M[m
+[38;5;130m  3 [m[34m^[[m]2;./countries all[34m^G^[[m]1;./countries[34m^G[mCode: DZA, Name: Algeria, Population: 311[8;1H[38;5;130m    [m471000, Life Expectancy: 69.70[34m^M[m
+[38;5;130m  4 [mCode: AGO, Name: Angola, Population: 12878000, Life Expectancy: 38.30[34m^M[m
+[38;5;130m  5 [mCode: BEN, Name: Benin, Population: 6097000, Life Expectancy: 50.20[34m^M[m
+[38;5;130m  6 [mCode: BWA, Name: Botswana, Population: 1622000, Life Expectancy: 39.30[34m^M[m
+[38;5;130m  7 [mCode: IOT, Name: British Indian Ocean Territory, Population: 0, Life Expectancy::[13;1H[38;5;130m    [m 0.00[34m^M[m
+[38;5;130m  8 [mCode: BFA, Name: Burkina Faso, Population: 11937000, Life Expectancy: 46.70[34m^M[m
+[38;5;130m  9 [mCode: BDI, Name: Burundi, Population: 6695000, Life Expectancy: 46.20[34m^M[m
+[38;5;130m 10 [mCode: CMR, Name: Cameroon, Population: 15085000, Life Expectancy: 54.80[34m^M[m
+[38;5;130m 11 [mCode: CPV, Name: Cape Verde, Population: 428000, Life Expectancy: 68.90[34m^M[m
+[38;5;130m 12 [mCode: CAF, Name: Central African Republic, Population: 3615000, Life Expectancy::[19;1H[38;5;130m    [m 44.00[34m^M[m
+[38;5;130m 13 [mCode: TCD, Name: Chad, Population: 7651000, Life Expectancy: 50.50[34m^M[m
+[38;5;130m 14 [mCode: COM, Name: Comoros, Population: 578000, Life Expectancy: 60.00[34m^M[m
+[38;5;130m 15 [mCode: COG, Name: Congo, Population: 2943000, Life Expectancy: 47.40[34m^M[m
+[38;5;130m 16 [mCode: COD, Name: Congo; The Democratic Republic of the, Population: 51654000, Lii[24;1H[38;5;130m    [mfe Expectancy: 48.80[34m^M[m
+[38;5;130m 17 [mCode: CIV, Name: Cote d[34m<92>[mIvoire, Population: 14786000, Life Expectancy: 45.20[34m^^[m[26;1H[38;5;130m    [m[34mM[m
+[38;5;130m 18 [mCode: DJI, Name: Djibouti, Population: 638000, Life Expectancy: 50.80[34m^M[m
+[38;5;130m 19 [mCode: EGY, Name: Egypt, Population: 68470000, Life Expectancy: 63.30[34m^M[m
+[38;5;130m 20 [mCode: GNQ, Name: Equatorial Guinea, Population: 453000, Life Expectancy: 53.60[34m^M[m[30;1H[38;5;130m 21 [mCode: ERI, Name: Eritrea, Population: 3850000, Life Expectancy: 55.80[34m^M[m
+[38;5;130m 22 [mCode: ETH, Name: Ethiopia, Population: 62565000, Life Expectancy: 45.20[34m^M[m
+[38;5;130m 23 [mCode: GAB, Name: Gabon, Population: 1226000, Life Expectancy: 50.10[34m^M[m
+[38;5;130m 24 [mCode: GMB, Name: Gambia, Population: 1305000, Life Expectancy: 53.20[34m^M[m
+[38;5;130m 25 [mCode: GHA, Name: Ghana, Population: 20212000, Life Expectancy: 57.40[34m^M[m
+[38;5;130m 26 [mCode: GIN, Name: Guinea, Population: 7430000, Life Expectancy: 45.60[34m^M[m
+[38;5;130m 27 [mCode: GNB, Name: Guinea-Bissau, Population: 1213000, Life Expectancy: 49.00[34m^M[m
+[38;5;130m 28 [mCode: KEN, Name: Kenya, Population: 30080000, Life Expectancy: 48.00[34m^M[m
+[38;5;130m 29 [mCode: LSO, Name: Lesotho, Population: 2153000, Life Expectancy: 50.80[34m^M[m
+[38;5;130m 30 [mCode: LBR, Name: Liberia, Population: 3154000, Life Expectancy: 51.00[34m^M[m
+[38;5;130m 31 [mCode: LBY, Name: Libyan Arab Jamahiriya, Population: 5605000, Life Expectancy: 77[41;1H[38;5;130m    [m5.50[34m^M[1;5H[?12l[?25h[?1000l[?1002h[7;55H[20;54H[?25l[1;41r[m[1;1H[8M[1;42r[34;1H[38;5;130m 32 [mCode: MDG, Name: Madagascar, Population: 15942000, Life Expectancy: 55.00[34m^M[m
+[38;5;130m 33 [mCode: MWI, Name: Malawi, Population: 10925000, Life Expectancy: 37.60[34m^M[m
+[38;5;130m 34 [mCode: MLI, Name: Mali, Population: 11234000, Life Expectancy: 46.70[34m^M[m
+[38;5;130m 35 [mCode: MRT, Name: Mauritania, Population: 2670000, Life Expectancy: 50.80[34m^M[m
+[38;5;130m 36 [mCode: MUS, Name: Mauritius, Population: 1158000, Life Expectancy: 71.00[34m^M[m
+[38;5;130m 37 [mCode: MYT, Name: Mayotte, Population: 149000, Life Expectancy: 59.50[34m^M[m
+[38;5;130m 38 [mCode: MAR, Name: Morocco, Population: 28351000, Life Expectancy: 69.10[34m^M[m
+[38;5;130m 39 [mCode: MOZ, Name: Mozambique, Population: 19680000, Life Expectancy: 37.50[34m^M[m[42;1H[K[12;54H[?12l[?25h[?25l[1;41r[1;1H[3M[1;42r[39;1H[38;5;130m 40 [mCode: NAM, Name: Namibia, Population: 1726000, Life Expectancy: 42.50[34m^M[m
+[38;5;130m 41 [mCode: NER, Name: Niger, Population: 10730000, Life Expectancy: 41.30[34m^M[m
+[38;5;130m 42 [mCode: NGA, Name: Nigeria, Population: 111506000, Life Expectancy: 51.60[34m^M[9;54H[?12l[?25h[?25l[1;41r[m[1;1H[4M[1;42r[38;1H[38;5;130m 43 [mCode: REU, Name: Réunion, Population: 699000, Life Expectancy: 72.70[34m^M[m
+[38;5;130m 44 [mCode: RWA, Name: Rwanda, Population: 7733000, Life Expectancy: 39.30[34m^M[m
+[38;5;130m 45 [mCode: SHN, Name: Saint Helena, Population: 6000, Life Expectancy: 76.80[34m^M[m
+[38;5;130m 46 [mCode: STP, Name: Sao Tome and Principe, Population: 147000, Life Expectancy: 65.[41;1H[94m@                                                                                   [5;54H[?12l[?25h[?25l[1;41r[m[1;1H[4M[1;42r[37;1H[38;5;130m 46 [mCode: STP, Name: Sao Tome and Principe, Population: 147000, Life Expectancy: 65..[38;1H[38;5;130m    [m30[34m^M[m
+[38;5;130m 47 [mCode: SEN, Name: Senegal, Population: 9481000, Life Expectancy: 62.20[34m^M[m
+[38;5;130m 48 [mCode: SYC, Name: Seychelles, Population: 77000, Life Expectancy: 70.40[34m^M[m
+[38;5;130m 49 [mCode: SLE, Name: Sierra Leone, Population: 4854000, Life Expectancy: 45.30[34m^M[1;54H[?12l[?25h[?25l[1;41r[m[1;1H[3M[1;42r[39;1H[38;5;130m 50 [mCode: SOM, Name: Somalia, Population: 10097000, Life Expectancy: 46.20[34m^M[m
+[38;5;130m 51 [mCode: ZAF, Name: South Africa, Population: 40377000, Life Expectancy: 51.10[34m^M[m
+[38;5;130m 52 [mCode: SDN, Name: Sudan, Population: 29490000, Life Expectancy: 56.60[34m^M[1;54H[?12l[?25h[?25l[1;41r[m[1;1H[5M[1;42r[37;1H[38;5;130m 53 [mCode: SWZ, Name: Swaziland, Population: 1008000, Life Expectancy: 40.40[34m^M[m
+[38;5;130m 54 [mCode: TZA, Name: Tanzania, Population: 33517000, Life Expectancy: 52.30[34m^M[m
+[38;5;130m 55 [mCode: TGO, Name: Togo, Population: 4629000, Life Expectancy: 54.70[34m^M[m
+[38;5;130m 56 [mCode: TUN, Name: Tunisia, Population: 9586000, Life Expectancy: 73.70[34m^M[m
+[38;5;130m 57 [mCode: UGA, Name: Uganda, Population: 21778000, Life Expectancy: 42.90[34m^M[1;54H[?12l[?25h[?25l[1;41r[m[1;1H[3M[1;42r[39;1H[38;5;130m 58 [mCode: ESH, Name: Western Sahara, Population: 293000, Life Expectancy: 49.80[34m^M[m
+[38;5;130m 59 [mCode: ZMB, Name: Zambia, Population: 9169000, Life Expectancy: 37.20[34m^M[m
+[38;5;130m 60 [mCode: ZWE, Name: Zimbabwe, Population: 11669000, Life Expectancy: 37.80[34m^M[1;54H[?12l[?25h[?25l[1;41r[m[1;1H[3M[1;42r[39;1H[38;5;130m 61 [mCode: ATA, Name: Antarctica, Population: 0, Life Expectancy: 0.00[34m^M[m
+[38;5;130m 62 [mCode: BVT, Name: Bouvet Island, Population: 0, Life Expectancy: 0.00[34m^M[m
+[38;5;130m 63 [mCode: ATF, Name: French Southern territories, Population: 0, Life Expectancy: 0.[41;1H[94m@                                                                                   [1;54H[?12l[?25h[?25l[1;41r[m[1;1H[3M[1;42r[38;1H[38;5;130m 63 [mCode: ATF, Name: French Southern territories, Population: 0, Life Expectancy: 0..[39;1H[38;5;130m    [m00[34m^M[m
+[38;5;130m 64 [mCode: HMD, Name: Heard Island and McDonald Islands, Population: 0, Life Expectann[41;1H[38;5;130m    [mcy: 0.00[34m^M[1;54H[?12l[?25h[?25l[1;41r[m[1;1H[3M[1;42r[39;1H[38;5;130m 65 [mCode: SGS, Name: South Georgia and the South Sandwich Islands, Population: 0, Lii[40;1H[38;5;130m    [mfe Expectancy: 0.00[34m^M[m
+[38;5;130m 66 [mCode: AFG, Name: Afghanistan, Population: 22720000, Life Expectancy: 45.90[34m^M[1;54H[?12l[?25h[?25l[1;41r[m[1;1H[4M[1;42r[38;1H[38;5;130m 67 [mCode: ARM, Name: Armenia, Population: 3520000, Life Expectancy: 66.40[34m^M[m
+[38;5;130m 68 [mCode: AZE, Name: Azerbaijan, Population: 7734000, Life Expectancy: 62.90[34m^M[m
+[38;5;130m 69 [mCode: BHR, Name: Bahrain, Population: 617000, Life Expectancy: 73.00[34m^M[m
+[38;5;130m 70 [mCode: BGD, Name: Bangladesh, Population: 129155000, Life Expectancy: 60.20[34m^M[1;54H[?12l[?25h[?25l[1;41r[m[1;1H[3M[1;42r[39;1H[38;5;130m 71 [mCode: BTN, Name: Bhutan, Population: 2124000, Life Expectancy: 52.40[34m^M[m
+[38;5;130m 72 [mCode: BRN, Name: Brunei, Population: 328000, Life Expectancy: 73.60[34m^M[m
+[38;5;130m 73 [mCode: KHM, Name: Cambodia, Population: 11168000, Life Expectancy: 56.50[34m^M[1;54H[?12l[?25h[?25l[1;41r[m[1;1H[3M[1;42r[39;1H[38;5;130m 74 [mCode: CHN, Name: China, Population: 1277558000, Life Expectancy: 71.40[34m^M[m
+[38;5;130m 75 [mCode: CYP, Name: Cyprus, Population: 754700, Life Expectancy: 76.70[34m^M[m
+[38;5;130m 76 [mCode: TMP, Name: East Timor, Population: 885000, Life Expectancy: 46.00[34m^M[1;54H[?12l[?25h[?25l[42;1H[m:[?12l[?25hq[?25l[?1002l[42;1H[K[42;1H[?1l>[?12l[?25h[?1049l[1m[7m%[27m[1m[0m                                                                                    ]2;Alex@Alexs-MacBook-Pro: ~/ClassWork/2240/a1]1;..sWork/2240/a1[0m[27m[24m[J[01;32m➜ [01;32m [36ma1 [01;34m[01;34m [00m[K[?1h=vi typescript[13Dmore typescript[15Dvi[P[P[11C  [13Dls           [11D./countries all[15Dscript         [9D./countries allDEUFRABELVENUSAa  test    [11Dscript     ./countries[?1l>
+]2;./countries]1;./countriesUsage: ./countries [country code OR all]
+[1m[7m%[27m[1m[0m                                                                                    ]2;Alex@Alexs-MacBook-Pro: ~/ClassWork/2240/a1]1;..sWork/2240/a1[0m[27m[24m[J[01;32m➜ [01;32m [36ma1 [01;34m[01;34m [00m[K[?1h=./countries[11Dvi typescript[13Dmore typescript[15Dvi[P[P[11C  [13Dls           [11D./countries all[15Dscript         [9D./countries allDEUFRABELVENUSAa  test     test[?1l>
+]2;./countries test]1;./countriesCountry code must be 3 characters long.
+[1m[7m%[27m[1m[0m                                                                                    ]2;Alex@Alexs-MacBook-Pro: ~/ClassWork/2240/a1]1;..sWork/2240/a1[0m[27m[24m[J[01;32m➜ [01;32m [36ma1 [01;34m[01;34m [00m[K[?1h=./countries test    [11Dvi typescript[13Dmore typescript[15Dvi[P[P[11C  [13Dls           [11D./countries all[15Dscript         [9D./countries allDEUFRABELVENUSAa  [?1l>
+]2;./countries a]1;./countriesCountry code must be 3 characters long.
+[1m[7m%[27m[1m[0m                                                                                    ]2;Alex@Alexs-MacBook-Pro: ~/ClassWork/2240/a1]1;..sWork/2240/a1[0m[27m[24m[J[01;32m➜ [01;32m [36ma1 [01;34m[01;34m [00m[K[?1h=../countries USA[?1l>
+]2;./countries USA]1;./countriesCode: USA, Name: United States, Population: 278357000, Life Expectancy: 77.10
+[1m[7m%[27m[1m[0m                                                                                    ]2;Alex@Alexs-MacBook-Pro: ~/ClassWork/2240/a1]1;..sWork/2240/a1[0m[27m[24m[J[01;32m➜ [01;32m [36ma1 [01;34m[01;34m [00m[K[?1h=./countries USA   VEN[?1l>
+]2;./countries VEN]1;./countriesCode: VEN, Name: Venezuela, Population: 24170000, Life Expectancy: 73.10
+[1m[7m%[27m[1m[0m                                                                                    ]2;Alex@Alexs-MacBook-Pro: ~/ClassWork/2240/a1]1;..sWork/2240/a1[0m[27m[24m[J[01;32m➜ [01;32m [36ma1 [01;34m[01;34m [00m[K[?1h=./countries VEN   FRA[?1l>
+]2;./countries FRA]1;./countriesCode: FRA, Name: France, Population: 59225700, Life Expectancy: 78.80
+[1m[7m%[27m[1m[0m                                                                                    ]2;Alex@Alexs-MacBook-Pro: ~/ClassWork/2240/a1]1;..sWork/2240/a1[0m[27m[24m[J[01;32m➜ [01;32m [36ma1 [01;34m[01;34m [00m[K[?1h=./countries FRA   BEL[?1l>
+]2;./countries BEL]1;./countriesCode: BEL, Name: Belgium, Population: 10239000, Life Expectancy: 77.80
+[1m[7m%[27m[1m[0m                                                                                    ]2;Alex@Alexs-MacBook-Pro: ~/ClassWork/2240/a1]1;..sWork/2240/a1[0m[27m[24m[J[01;32m➜ [01;32m [36ma1 [01;34m[01;34m [00m[K[?1h=./countries BEL   DEU[?1l>
+]2;./countries DEU]1;./countriesCode: DEU, Name: Germany, Population: 82164700, Life Expectancy: 77.40
+[1m[7m%[27m[1m[0m                                                                                    ]2;Alex@Alexs-MacBook-Pro: ~/ClassWork/2240/a1]1;..sWork/2240/a1[0m[27m[24m[J[01;32m➜ [01;32m [36ma1 [01;34m[01;34m [00m[K[?1h=./countries DEU   ESP[?1l>
+]2;./countries ESP]1;./countriesCode: ESP, Name: Spain, Population: 39441700, Life Expectancy: 78.80
+[1m[7m%[27m[1m[0m                                                                                    ]2;Alex@Alexs-MacBook-Pro: ~/ClassWork/2240/a1]1;..sWork/2240/a1[0m[27m[24m[J[01;32m➜ [01;32m [36ma1 [01;34m[01;34m [00m[K[?1h=[?1l>
+[1m[7m%[27m[1m[0m                                                                                    ]2;Alex@Alexs-MacBook-Pro: ~/ClassWork/2240/a1]1;..sWork/2240/a1[0m[27m[24m[J[01;32m➜ [01;32m [36ma1 [01;34m[01;34m [00m[K[?1h=../countries all[?1l>
+]2;./countries all]1;./countriesCode: DZA, Name: Algeria, Population: 31471000, Life Expectancy: 69.70
+Code: AGO, Name: Angola, Population: 12878000, Life Expectancy: 38.30
+Code: BEN, Name: Benin, Population: 6097000, Life Expectancy: 50.20
+Code: BWA, Name: Botswana, Population: 1622000, Life Expectancy: 39.30
+Code: IOT, Name: British Indian Ocean Territory, Population: 0, Life Expectancy: 0.00
+Code: BFA, Name: Burkina Faso, Population: 11937000, Life Expectancy: 46.70
+Code: BDI, Name: Burundi, Population: 6695000, Life Expectancy: 46.20
+Code: CMR, Name: Cameroon, Population: 15085000, Life Expectancy: 54.80
+Code: CPV, Name: Cape Verde, Population: 428000, Life Expectancy: 68.90
+Code: CAF, Name: Central African Republic, Population: 3615000, Life Expectancy: 44.00
+Code: TCD, Name: Chad, Population: 7651000, Life Expectancy: 50.50
+Code: COM, Name: Comoros, Population: 578000, Life Expectancy: 60.00
+Code: COG, Name: Congo, Population: 2943000, Life Expectancy: 47.40
+Code: COD, Name: Congo; The Democratic Republic of the, Population: 51654000, Life Expectancy: 48.80
+Code: CIV, Name: Cote d�Ivoire, Population: 14786000, Life Expectancy: 45.20
+Code: DJI, Name: Djibouti, Population: 638000, Life Expectancy: 50.80
+Code: EGY, Name: Egypt, Population: 68470000, Life Expectancy: 63.30
+Code: GNQ, Name: Equatorial Guinea, Population: 453000, Life Expectancy: 53.60
+Code: ERI, Name: Eritrea, Population: 3850000, Life Expectancy: 55.80
+Code: ETH, Name: Ethiopia, Population: 62565000, Life Expectancy: 45.20
+Code: GAB, Name: Gabon, Population: 1226000, Life Expectancy: 50.10
+Code: GMB, Name: Gambia, Population: 1305000, Life Expectancy: 53.20
+Code: GHA, Name: Ghana, Population: 20212000, Life Expectancy: 57.40
+Code: GIN, Name: Guinea, Population: 7430000, Life Expectancy: 45.60
+Code: GNB, Name: Guinea-Bissau, Population: 1213000, Life Expectancy: 49.00
+Code: KEN, Name: Kenya, Population: 30080000, Life Expectancy: 48.00
+Code: LSO, Name: Lesotho, Population: 2153000, Life Expectancy: 50.80
+Code: LBR, Name: Liberia, Population: 3154000, Life Expectancy: 51.00
+Code: LBY, Name: Libyan Arab Jamahiriya, Population: 5605000, Life Expectancy: 75.50
+Code: MDG, Name: Madagascar, Population: 15942000, Life Expectancy: 55.00
+Code: MWI, Name: Malawi, Population: 10925000, Life Expectancy: 37.60
+Code: MLI, Name: Mali, Population: 11234000, Life Expectancy: 46.70
+Code: MRT, Name: Mauritania, Population: 2670000, Life Expectancy: 50.80
+Code: MUS, Name: Mauritius, Population: 1158000, Life Expectancy: 71.00
+Code: MYT, Name: Mayotte, Population: 149000, Life Expectancy: 59.50
+Code: MAR, Name: Morocco, Population: 28351000, Life Expectancy: 69.10
+Code: MOZ, Name: Mozambique, Population: 19680000, Life Expectancy: 37.50
+Code: NAM, Name: Namibia, Population: 1726000, Life Expectancy: 42.50
+Code: NER, Name: Niger, Population: 10730000, Life Expectancy: 41.30
+Code: NGA, Name: Nigeria, Population: 111506000, Life Expectancy: 51.60
+Code: REU, Name: R�union, Population: 699000, Life Expectancy: 72.70
+Code: RWA, Name: Rwanda, Population: 7733000, Life Expectancy: 39.30
+Code: SHN, Name: Saint Helena, Population: 6000, Life Expectancy: 76.80
+Code: STP, Name: Sao Tome and Principe, Population: 147000, Life Expectancy: 65.30
+Code: SEN, Name: Senegal, Population: 9481000, Life Expectancy: 62.20
+Code: SYC, Name: Seychelles, Population: 77000, Life Expectancy: 70.40
+Code: SLE, Name: Sierra Leone, Population: 4854000, Life Expectancy: 45.30
+Code: SOM, Name: Somalia, Population: 10097000, Life Expectancy: 46.20
+Code: ZAF, Name: South Africa, Population: 40377000, Life Expectancy: 51.10
+Code: SDN, Name: Sudan, Population: 29490000, Life Expectancy: 56.60
+Code: SWZ, Name: Swaziland, Population: 1008000, Life Expectancy: 40.40
+Code: TZA, Name: Tanzania, Population: 33517000, Life Expectancy: 52.30
+Code: TGO, Name: Togo, Population: 4629000, Life Expectancy: 54.70
+Code: TUN, Name: Tunisia, Population: 9586000, Life Expectancy: 73.70
+Code: UGA, Name: Uganda, Population: 21778000, Life Expectancy: 42.90
+Code: ESH, Name: Western Sahara, Population: 293000, Life Expectancy: 49.80
+Code: ZMB, Name: Zambia, Population: 9169000, Life Expectancy: 37.20
+Code: ZWE, Name: Zimbabwe, Population: 11669000, Life Expectancy: 37.80
+Code: ATA, Name: Antarctica, Population: 0, Life Expectancy: 0.00
+Code: BVT, Name: Bouvet Island, Population: 0, Life Expectancy: 0.00
+Code: ATF, Name: French Southern territories, Population: 0, Life Expectancy: 0.00
+Code: HMD, Name: Heard Island and McDonald Islands, Population: 0, Life Expectancy: 0.00
+Code: SGS, Name: South Georgia and the South Sandwich Islands, Population: 0, Life Expectancy: 0.00
+Code: AFG, Name: Afghanistan, Population: 22720000, Life Expectancy: 45.90
+Code: ARM, Name: Armenia, Population: 3520000, Life Expectancy: 66.40
+Code: AZE, Name: Azerbaijan, Population: 7734000, Life Expectancy: 62.90
+Code: BHR, Name: Bahrain, Population: 617000, Life Expectancy: 73.00
+Code: BGD, Name: Bangladesh, Population: 129155000, Life Expectancy: 60.20
+Code: BTN, Name: Bhutan, Population: 2124000, Life Expectancy: 52.40
+Code: BRN, Name: Brunei, Population: 328000, Life Expectancy: 73.60
+Code: KHM, Name: Cambodia, Population: 11168000, Life Expectancy: 56.50
+Code: CHN, Name: China, Population: 1277558000, Life Expectancy: 71.40
+Code: CYP, Name: Cyprus, Population: 754700, Life Expectancy: 76.70
+Code: TMP, Name: East Timor, Population: 885000, Life Expectancy: 46.00
+Code: GEO, Name: Georgia, Population: 4968000, Life Expectancy: 64.50
+Code: HKG, Name: Hong Kong, Population: 6782000, Life Expectancy: 79.50
+Code: IND, Name: India, Population: 1013662000, Life Expectancy: 62.50
+Code: IDN, Name: Indonesia, Population: 212107000, Life Expectancy: 68.00
+Code: IRN, Name: Iran, Population: 67702000, Life Expectancy: 69.70
+Code: IRQ, Name: Iraq, Population: 23115000, Life Expectancy: 66.50
+Code: ISR, Name: Israel, Population: 6217000, Life Expectancy: 78.60
+Code: JPN, Name: Japan, Population: 126714000, Life Expectancy: 80.70
+Code: JOR, Name: Jordan, Population: 5083000, Life Expectancy: 77.40
+Code: KAZ, Name: Kazakstan, Population: 16223000, Life Expectancy: 63.20
+Code: KWT, Name: Kuwait, Population: 1972000, Life Expectancy: 76.10
+Code: KGZ, Name: Kyrgyzstan, Population: 4699000, Life Expectancy: 63.40
+Code: LAO, Name: Laos, Population: 5433000, Life Expectancy: 53.10
+Code: LBN, Name: Lebanon, Population: 3282000, Life Expectancy: 71.30
+Code: MAC, Name: Macao, Population: 473000, Life Expectancy: 81.60
+Code: MYS, Name: Malaysia, Population: 22244000, Life Expectancy: 70.80
+Code: MDV, Name: Maldives, Population: 286000, Life Expectancy: 62.20
+Code: MNG, Name: Mongolia, Population: 2662000, Life Expectancy: 67.30
+Code: MMR, Name: Myanmar, Population: 45611000, Life Expectancy: 54.90
+Code: NPL, Name: Nepal, Population: 23930000, Life Expectancy: 57.80
+Code: PRK, Name: North Korea, Population: 24039000, Life Expectancy: 70.70
+Code: OMN, Name: Oman, Population: 2542000, Life Expectancy: 71.80
+Code: PAK, Name: Pakistan, Population: 156483000, Life Expectancy: 61.10
+Code: PSE, Name: Palestine, Population: 3101000, Life Expectancy: 71.40
+Code: PHL, Name: Philippines, Population: 75967000, Life Expectancy: 67.50
+Code: QAT, Name: Qatar, Population: 599000, Life Expectancy: 72.40
+Code: SAU, Name: Saudi Arabia, Population: 21607000, Life Expectancy: 67.80
+Code: SGP, Name: Singapore, Population: 3567000, Life Expectancy: 80.10
+Code: KOR, Name: South Korea, Population: 46844000, Life Expectancy: 74.40
+Code: LKA, Name: Sri Lanka, Population: 18827000, Life Expectancy: 71.80
+Code: SYR, Name: Syria, Population: 16125000, Life Expectancy: 68.50
+Code: TWN, Name: Taiwan, Population: 22256000, Life Expectancy: 76.40
+Code: TJK, Name: Tajikistan, Population: 6188000, Life Expectancy: 64.10
+Code: THA, Name: Thailand, Population: 61399000, Life Expectancy: 68.60
+Code: TUR, Name: Turkey, Population: 66591000, Life Expectancy: 71.00
+Code: TKM, Name: Turkmenistan, Population: 4459000, Life Expectancy: 60.90
+Code: ARE, Name: United Arab Emirates, Population: 2441000, Life Expectancy: 74.10
+Code: UZB, Name: Uzbekistan, Population: 24318000, Life Expectancy: 63.70
+Code: VNM, Name: Vietnam, Population: 79832000, Life Expectancy: 69.30
+Code: YEM, Name: Yemen, Population: 18112000, Life Expectancy: 59.80
+Code: ALB, Name: Albania, Population: 3401200, Life Expectancy: 71.60
+Code: AND, Name: Andorra, Population: 78000, Life Expectancy: 83.50
+Code: AUT, Name: Austria, Population: 8091800, Life Expectancy: 77.70
+Code: BLR, Name: Belarus, Population: 10236000, Life Expectancy: 68.00
+Code: BEL, Name: Belgium, Population: 10239000, Life Expectancy: 77.80
+Code: BIH, Name: Bosnia and Herzegovina, Population: 3972000, Life Expectancy: 71.50
+Code: BGR, Name: Bulgaria, Population: 8190900, Life Expectancy: 70.90
+Code: HRV, Name: Croatia, Population: 4473000, Life Expectancy: 73.70
+Code: CZE, Name: Czech Republic, Population: 10278100, Life Expectancy: 74.50
+Code: DNK, Name: Denmark, Population: 5330000, Life Expectancy: 76.50
+Code: EST, Name: Estonia, Population: 1439200, Life Expectancy: 69.50
+Code: FRO, Name: Faroe Islands, Population: 43000, Life Expectancy: 78.40
+Code: FIN, Name: Finland, Population: 5171300, Life Expectancy: 77.40
+Code: FRA, Name: France, Population: 59225700, Life Expectancy: 78.80
+Code: DEU, Name: Germany, Population: 82164700, Life Expectancy: 77.40
+Code: GIB, Name: Gibraltar, Population: 25000, Life Expectancy: 79.00
+Code: GRC, Name: Greece, Population: 10545700, Life Expectancy: 78.40
+Code: VAT, Name: Holy See (Vatican City State), Population: 1000, Life Expectancy: 0.00
+Code: HUN, Name: Hungary, Population: 10043200, Life Expectancy: 71.40
+Code: ISL, Name: Iceland, Population: 279000, Life Expectancy: 79.40
+Code: IRL, Name: Ireland, Population: 3775100, Life Expectancy: 76.80
+Code: ITA, Name: Italy, Population: 57680000, Life Expectancy: 79.00
+Code: LVA, Name: Latvia, Population: 2424200, Life Expectancy: 68.40
+Code: LIE, Name: Liechtenstein, Population: 32300, Life Expectancy: 78.80
+Code: LTU, Name: Lithuania, Population: 3698500, Life Expectancy: 69.10
+Code: LUX, Name: Luxembourg, Population: 435700, Life Expectancy: 77.10
+Code: MKD, Name: Macedonia, Population: 2024000, Life Expectancy: 73.80
+Code: MLT, Name: Malta, Population: 380200, Life Expectancy: 77.90
+Code: MDA, Name: Moldova, Population: 4380000, Life Expectancy: 64.50
+Code: MCO, Name: Monaco, Population: 34000, Life Expectancy: 78.80
+Code: NLD, Name: Netherlands, Population: 15864000, Life Expectancy: 78.30
+Code: NOR, Name: Norway, Population: 4478500, Life Expectancy: 78.70
+Code: POL, Name: Poland, Population: 38653600, Life Expectancy: 73.20
+Code: PRT, Name: Portugal, Population: 9997600, Life Expectancy: 75.80
+Code: ROM, Name: Romania, Population: 22455500, Life Expectancy: 69.90
+Code: RUS, Name: Russian Federation, Population: 146934000, Life Expectancy: 67.20
+Code: SMR, Name: San Marino, Population: 27000, Life Expectancy: 81.10
+Code: SVK, Name: Slovakia, Population: 5398700, Life Expectancy: 73.70
+Code: SVN, Name: Slovenia, Population: 1987800, Life Expectancy: 74.90
+Code: ESP, Name: Spain, Population: 39441700, Life Expectancy: 78.80
+Code: SJM, Name: Svalbard and Jan Mayen, Population: 3200, Life Expectancy: 0.00
+Code: SWE, Name: Sweden, Population: 8861400, Life Expectancy: 79.60
+Code: CHE, Name: Switzerland, Population: 7160400, Life Expectancy: 79.60
+Code: UKR, Name: Ukraine, Population: 50456000, Life Expectancy: 66.00
+Code: GBR, Name: United Kingdom, Population: 59623400, Life Expectancy: 77.70
+Code: YUG, Name: Yugoslavia, Population: 10640000, Life Expectancy: 72.40
+Code: AIA, Name: Anguilla, Population: 8000, Life Expectancy: 76.10
+Code: ATG, Name: Antigua and Barbuda, Population: 68000, Life Expectancy: 70.50
+Code: ABW, Name: Aruba, Population: 103000, Life Expectancy: 78.40
+Code: BHS, Name: Bahamas, Population: 307000, Life Expectancy: 71.10
+Code: BRB, Name: Barbados, Population: 270000, Life Expectancy: 73.00
+Code: BLZ, Name: Belize, Population: 241000, Life Expectancy: 70.90
+Code: BMU, Name: Bermuda, Population: 65000, Life Expectancy: 76.90
+Code: CAN, Name: Canada, Population: 31147000, Life Expectancy: 79.40
+Code: CYM, Name: Cayman Islands, Population: 38000, Life Expectancy: 78.90
+Code: CRI, Name: Costa Rica, Population: 4023000, Life Expectancy: 75.80
+Code: CUB, Name: Cuba, Population: 11201000, Life Expectancy: 76.20
+Code: DMA, Name: Dominica, Population: 71000, Life Expectancy: 73.40
+Code: DOM, Name: Dominican Republic, Population: 8495000, Life Expectancy: 73.20
+Code: SLV, Name: El Salvador, Population: 6276000, Life Expectancy: 69.70
+Code: GRL, Name: Greenland, Population: 56000, Life Expectancy: 68.10
+Code: GRD, Name: Grenada, Population: 94000, Life Expectancy: 64.50
+Code: GLP, Name: Guadeloupe, Population: 456000, Life Expectancy: 77.00
+Code: GTM, Name: Guatemala, Population: 11385000, Life Expectancy: 66.20
+Code: HTI, Name: Haiti, Population: 8222000, Life Expectancy: 49.20
+Code: HND, Name: Honduras, Population: 6485000, Life Expectancy: 69.90
+Code: JAM, Name: Jamaica, Population: 2583000, Life Expectancy: 75.20
+Code: MTQ, Name: Martinique, Population: 395000, Life Expectancy: 78.30
+Code: MEX, Name: Mexico, Population: 98881000, Life Expectancy: 71.50
+Code: MSR, Name: Montserrat, Population: 11000, Life Expectancy: 78.00
+Code: ANT, Name: Netherlands Antilles, Population: 217000, Life Expectancy: 74.70
+Code: NIC, Name: Nicaragua, Population: 5074000, Life Expectancy: 68.70
+Code: PAN, Name: Panama, Population: 2856000, Life Expectancy: 75.50
+Code: PRI, Name: Puerto Rico, Population: 3869000, Life Expectancy: 75.60
+Code: KNA, Name: Saint Kitts and Nevis, Population: 38000, Life Expectancy: 70.70
+Code: LCA, Name: Saint Lucia, Population: 154000, Life Expectancy: 72.30
+Code: SPM, Name: Saint Pierre and Miquelon, Population: 7000, Life Expectancy: 77.60
+Code: VCT, Name: Saint Vincent and the Grenadines, Population: 114000, Life Expectancy: 72.30
+Code: TTO, Name: Trinidad and Tobago, Population: 1295000, Life Expectancy: 68.00
+Code: TCA, Name: Turks and Caicos Islands, Population: 17000, Life Expectancy: 73.30
+Code: USA, Name: United States, Population: 278357000, Life Expectancy: 77.10
+Code: VGB, Name: Virgin Islands; British, Population: 21000, Life Expectancy: 75.40
+Code: VIR, Name: Virgin Islands; U.S., Population: 93000, Life Expectancy: 78.10
+Code: ASM, Name: American Samoa, Population: 68000, Life Expectancy: 75.10
+Code: AUS, Name: Australia, Population: 18886000, Life Expectancy: 79.80
+Code: CXR, Name: Christmas Island, Population: 2500, Life Expectancy: 0.00
+Code: CCK, Name: Cocos (Keeling) Islands, Population: 600, Life Expectancy: 0.00
+Code: COK, Name: Cook Islands, Population: 20000, Life Expectancy: 71.10
+Code: FJI, Name: Fiji Islands, Population: 817000, Life Expectancy: 67.90
+Code: PYF, Name: French Polynesia, Population: 235000, Life Expectancy: 74.80
+Code: GUM, Name: Guam, Population: 168000, Life Expectancy: 77.80
+Code: KIR, Name: Kiribati, Population: 83000, Life Expectancy: 59.80
+Code: MHL, Name: Marshall Islands, Population: 64000, Life Expectancy: 65.50
+Code: FSM, Name: Micronesia; Federated States of, Population: 119000, Life Expectancy: 68.60
+Code: NRU, Name: Nauru, Population: 12000, Life Expectancy: 60.80
+Code: NCL, Name: New Caledonia, Population: 214000, Life Expectancy: 72.80
+Code: NZL, Name: New Zealand, Population: 3862000, Life Expectancy: 77.80
+Code: NIU, Name: Niue, Population: 2000, Life Expectancy: 0.00
+Code: NFK, Name: Norfolk Island, Population: 2000, Life Expectancy: 0.00
+Code: MNP, Name: Northern Mariana Islands, Population: 78000, Life Expectancy: 75.50
+Code: PLW, Name: Palau, Population: 19000, Life Expectancy: 68.60
+Code: PNG, Name: Papua New Guinea, Population: 4807000, Life Expectancy: 63.10
+Code: PCN, Name: Pitcairn, Population: 50, Life Expectancy: 0.00
+Code: WSM, Name: Samoa, Population: 180000, Life Expectancy: 69.20
+Code: SLB, Name: Solomon Islands, Population: 444000, Life Expectancy: 71.30
+Code: TKL, Name: Tokelau, Population: 2000, Life Expectancy: 0.00
+Code: TON, Name: Tonga, Population: 99000, Life Expectancy: 67.90
+Code: TUV, Name: Tuvalu, Population: 12000, Life Expectancy: 66.30
+Code: UMI, Name: United States Minor Outlying Islands, Population: 0, Life Expectancy: 0.00
+Code: VUT, Name: Vanuatu, Population: 190000, Life Expectancy: 60.60
+Code: WLF, Name: Wallis and Futuna, Population: 15000, Life Expectancy: 0.00
+Code: ARG, Name: Argentina, Population: 37032000, Life Expectancy: 75.10
+Code: BOL, Name: Bolivia, Population: 8329000, Life Expectancy: 63.70
+Code: BRA, Name: Brazil, Population: 170115000, Life Expectancy: 62.90
+Code: CHL, Name: Chile, Population: 15211000, Life Expectancy: 75.70
+Code: COL, Name: Colombia, Population: 42321000, Life Expectancy: 70.30
+Code: ECU, Name: Ecuador, Population: 12646000, Life Expectancy: 71.10
+Code: FLK, Name: Falkland Islands, Population: 2000, Life Expectancy: 0.00
+Code: GUF, Name: French Guiana, Population: 181000, Life Expectancy: 76.10
+Code: GUY, Name: Guyana, Population: 861000, Life Expectancy: 64.00
+Code: PRY, Name: Paraguay, Population: 5496000, Life Expectancy: 73.70
+Code: PER, Name: Peru, Population: 25662000, Life Expectancy: 70.00
+Code: SUR, Name: Suriname, Population: 417000, Life Expectancy: 71.40
+Code: URY, Name: Uruguay, Population: 3337000, Life Expectancy: 75.20
+Code: VEN, Name: Venezuela, Population: 24170000, Life Expectancy: 73.10
+[1m[7m%[27m[1m[0m                                                                                    ]2;Alex@Alexs-MacBook-Pro: ~/ClassWork/2240/a1]1;..sWork/2240/a1[0m[27m[24m[J[01;32m➜ [01;32m [36ma1 [01;34m[01;34m [00m[K[?1h=                                                             ]2;Alex@Alexs-MacBook-Pro: ~/ClassWork/2240/a1]1;..sWork/2240/a1[0m[27m[24m[J[01;32m➜ [01;32m [36ma1 [01;34m[01;34m [00m[K[?1h=./countries test    [11Dvi typescript[13Dmore typescript[15Dvi[P[P[11C  [13Dls           [11D./countries all[15Dscript         [9D./countries allDEUFRABELVENUSAa  [?1l>
+]2;./countries a]1;./countriesCountry code must be 3 characters long.
+[1m[7m%[27m[1m[0m                                                                                    ]2;Alex@Alexs-MacBook-Pro: ~/ClassWork/2240/a1]1;..sWork/2240/a1[0m[27m[24m[J[01;32m➜ [01;32m [36ma1 [01;34m[01;34m [00m[K[?1h=../countries USA[?1l>
+]2;./countries USA]1;./countriesCode: USA, Name: United States, Population: 278357000, Life Expectancy: 77.10
+[1m[7m%[27m[1m[0m                                                                                    ]2;Alex@Alexs-MacBook-Pro: ~/ClassWork/2240/a1]1;..sWork/2240/a1[0m[27m[24m[J[01;32m➜ [01;32m [36ma1 [01;34m[01;34m [00m[K[?1h=./countries USA   VEN[?1l>
+]2;./countries VEN]1;./countriesCode: VEN, Name: Venezuela, Population: 24170000, Life Expectancy: 73.10
+[1m[7m%[27m[1m[0m                                                                                    ]2;Alex@Alexs-MacBook-Pro: ~/ClassWork/2240/a1]1;..sWork/2240/a1[0m[27m[24m[J[01;32m➜ [01;32m [36ma1 [01;34m[01;34m [00m[K[?1h=./countries VEN   FRA[?1l>
+]2;./countries FRA]1;./countriesCode: FRA, Name: France, Population: 59225700, Life Expectancy: 78.80
+[1m[7m%[27m[1m[0m                                                                                    ]2;Alex@Alexs-MacBook-Pro: ~/ClassWork/2240/a1]1;..sWork/2240/a1[0m[27m[24m[J[01;32m➜ [01;32m [36ma1 [01;34m[01;34m [00m[K[?1h=./countries FRA   BEL[?1l>
+]2;./countries BEL]1;./countriesCode: BEL, Name: Belgium, Population: 10239000, Life Expectancy: 77.80
+[1m[7m%[27m[1m[0m                                                                                    ]2;Alex@Alexs-MacBook-Pro: ~/ClassWork/2240/a1]1;..sWork/2240/a1[0m[27m[24m[J[01;32m➜ [01;32m [36ma1 [01;34m[01;34m [00m[K[?1h=./countries BEL   DEU[?1l>
+]2;./countries DEU]1;./countriesCode: DEU, Name: Germany, Population: 82164700, Life Expectancy: 77.40
+[1m[7m%[27m[1m[0m                                                                                    ]2;Alex@Alexs-MacBook-Pro: ~/ClassWork/2240/a1]1;..sWork/2240/a1[0m[27m[24m[J[01;32m➜ [01;32m [36ma1 [01;34m[01;34m [00m[K[?1h=./countries DEU   ESP[?1l>
+]2;./countries ESP]1;./countriesCode: ESP, Name: Spain, Population: 39441700, Life Expectancy: 78.80
+[1m[7m%[27m[1m[0m                                                                                    ]2;Alex@Alexs-MacBook-Pro: ~/ClassWork/2240/a1]1;..sWork/2240/a1[0m[27m[24m[J[01;32m➜ [01;32m [36ma1 [01;34m[01;34m [00m[K[?1h=[?1l>
+[1m[7m%[27m[1m[0m                                                                                    ]2;Alex@Alexs-MacBook-Pro: ~/ClassWork/2240/a1]1;..sWork/2240/a1[0m[27m[24m[J[01;32m➜ [01;32m [36ma1 [01;34m[01;34m [00m[K[?1h=../countries all[?1l>
+]2;./countries all]1;./countriesCode: DZA, Name: Algeria, Population: 31471000, Life Expectancy: 69.70
+Code: AGO, Name: Angola, Population: 12878000, Life Expectancy: 38.30
+Code: BEN, Name: Benin, Population: 6097000, Life Expectancy: 50.20
+Code: BWA, Name: Botswana, Population: 1622000, Life Expectancy: 39.30
+Code: IOT, Name: British Indian Ocean Territory, Population: 0, Life Expectancy: 0.00
+Code: BFA, Name: Burkina Faso, Population: 11937000, Life Expectancy: 46.70
+Code: BDI, Name: Burundi, Population: 6695000, Life Expectancy: 46.20
+Code: CMR, Name: Cameroon, Population: 15085000, Life Expectancy: 54.80
+Code: CPV, Name: Cape Verde, Population: 428000, Life Expectancy: 68.90
+Code: CAF, Name: Central African Republic, Population: 3615000, Life Expectancy: 44.00
+Code: TCD, Name: Chad, Population: 7651000, Life Expectancy: 50.50
+Code: COM, Name: Comoros, Population: 578000, Life Expectancy: 60.00
+Code: COG, Name: Congo, Population: 2943000, Life Expectancy: 47.40
+Code: COD, Name: Congo; The Democratic Republic of the, Population: 51654000, Life Expectancy: 48.80
+Code: CIV, Name: Cote d�Ivoire, Population: 14786000, Life Expectancy: 45.20
+Code: DJI, Name: Djibouti, Population: 638000, Life Expectancy: 50.80
+Code: EGY, Name: Egypt, Population: 68470000, Life Expectancy: 63.30
+Code: GNQ, Name: Equatorial Guinea, Population: 453000, Life Expectancy: 53.60
+Code: ERI, Name: Eritrea, Population: 3850000, Life Expectancy: 55.80
+Code: ETH, Name: Ethiopia, Population: 62565000, Life Expectancy: 45.20
+Code: GAB, Name: Gabon, Population: 1226000, Life Expectancy: 50.10
+Code: GMB, Name: Gambia, Population: 1305000, Life Expectancy: 53.20
+Code: GHA, Name: Ghana, Population: 20212000, Life Expectancy: 57.40
+Code: GIN, Name: Guinea, Population: 7430000, Life Expectancy: 45.60
+Code: GNB, Name: Guinea-Bissau, Population: 1213000, Life Expectancy: 49.00
+Code: KEN, Name: Kenya, Population: 30080000, Life Expectancy: 48.00
+Code: LSO, Name: Lesotho, Population: 2153000, Life Expectancy: 50.80
+Code: LBR, Name: Liberia, Population: 3154000, Life Expectancy: 51.00
+Code: LBY, Name: Libyan Arab Jamahiriya, Population: 5605000, Life Expectancy: 75.50
+Code: MDG, Name: Madagascar, Population: 15942000, Life Expectancy: 55.00
+Code: MWI, Name: Malawi, Population: 10925000, Life Expectancy: 37.60
+Code: MLI, Name: Mali, Population: 11234000, Life Expectancy: 46.70
+Code: MRT, Name: Mauritania, Population: 2670000, Life Expectancy: 50.80
+Code: MUS, Name: Mauritius, Population: 1158000, Life Expectancy: 71.00
+Code: MYT, Name: Mayotte, Population: 149000, Life Expectancy: 59.50
+Code: MAR, Name: Morocco, Population: 28351000, Life Expectancy: 69.10
+Code: MOZ, Name: Mozambique, Population: 19680000, Life Expectancy: 37.50
+Code: NAM, Name: Namibia, Population: 1726000, Life Expectancy: 42.50
+Code: NER, Name: Niger, Population: 10730000, Life Expectancy: 41.30
+Code: NGA, Name: Nigeria, Population: 111506000, Life Expectancy: 51.60
+Code: REU, Name: R�union, Population: 699000, Life Expectancy: 72.70
+Code: RWA, Name: Rwanda, Population: 7733000, Life Expectancy: 39.30
+Code: SHN, Name: Saint Helena, Population: 6000, Life Expectancy: 76.80
+Code: STP, Name: Sao Tome and Principe, Population: 147000, Life Expectancy: 65.30
+Code: SEN, Name: Senegal, Population: 9481000, Life Expectancy: 62.20
+Code: SYC, Name: Seychelles, Population: 77000, Life Expectancy: 70.40
+Code: SLE, Name: Sierra Leone, Population: 4854000, Life Expectancy: 45.30
+Code: SOM, Name: Somalia, Population: 10097000, Life Expectancy: 46.20
+Code: ZAF, Name: South Africa, Population: 40377000, Life Expectancy: 51.10
+Code: SDN, Name: Sudan, Population: 29490000, Life Expectancy: 56.60
+Code: SWZ, Name: Swaziland, Population: 1008000, Life Expectancy: 40.40
+Code: TZA, Name: Tanzania, Population: 33517000, Life Expectancy: 52.30
+Code: TGO, Name: Togo, Population: 4629000, Life Expectancy: 54.70
+Code: TUN, Name: Tunisia, Population: 9586000, Life Expectancy: 73.70
+Code: UGA, Name: Uganda, Population: 21778000, Life Expectancy: 42.90
+Code: ESH, Name: Western Sahara, Population: 293000, Life Expectancy: 49.80
+Code: ZMB, Name: Zambia, Population: 9169000, Life Expectancy: 37.20
+Code: ZWE, Name: Zimbabwe, Population: 11669000, Life Expectancy: 37.80
+Code: ATA, Name: Antarctica, Population: 0, Life Expectancy: 0.00
+Code: BVT, Name: Bouvet Island, Population: 0, Life Expectancy: 0.00
+Code: ATF, Name: French Southern territories, Population: 0, Life Expectancy: 0.00
+Code: HMD, Name: Heard Island and McDonald Islands, Population: 0, Life Expectancy: 0.00
+Code: SGS, Name: South Georgia and the South Sandwich Islands, Population: 0, Life Expectancy: 0.00
+Code: AFG, Name: Afghanistan, Population: 22720000, Life Expectancy: 45.90
+Code: ARM, Name: Armenia, Population: 3520000, Life Expectancy: 66.40
+Code: AZE, Name: Azerbaijan, Population: 7734000, Life Expectancy: 62.90
+Code: BHR, Name: Bahrain, Population: 617000, Life Expectancy: 73.00
+Code: BGD, Name: Bangladesh, Population: 129155000, Life Expectancy: 60.20
+Code: BTN, Name: Bhutan, Population: 2124000, Life Expectancy: 52.40
+Code: BRN, Name: Brunei, Population: 328000, Life Expectancy: 73.60
+Code: KHM, Name: Cambodia, Population: 11168000, Life Expectancy: 56.50
+Code: CHN, Name: China, Population: 1277558000, Life Expectancy: 71.40
+Code: CYP, Name: Cyprus, Population: 754700, Life Expectancy: 76.70
+Code: TMP, Name: East Timor, Population: 885000, Life Expectancy: 46.00
+Code: GEO, Name: Georgia, Population: 4968000, Life Expectancy: 64.50
+Code: HKG, Name: Hong Kong, Population: 6782000, Life Expectancy: 79.50
+Code: IND, Name: India, Population: 1013662000, Life Expectancy: 62.50
+Code: IDN, Name: Indonesia, Population: 212107000, Life Expectancy: 68.00
+Code: IRN, Name: Iran, Population: 67702000, Life Expectancy: 69.70
+Code: IRQ, Name: Iraq, Population: 23115000, Life Expectancy: 66.50
+Code: ISR, Name: Israel, Population: 6217000, Life Expectancy: 78.60
+Code: JPN, Name: Japan, Population: 126714000, Life Expectancy: 80.70
+Code: JOR, Name: Jordan, Population: 5083000, Life Expectancy: 77.40
+Code: KAZ, Name: Kazakstan, Population: 16223000, Life Expectancy: 63.20
+Code: KWT, Name: Kuwait, Population: 1972000, Life Expectancy: 76.10
+Code: KGZ, Name: Kyrgyzstan, Population: 4699000, Life Expectancy: 63.40
+Code: LAO, Name: Laos, Population: 5433000, Life Expectancy: 53.10
+Code: LBN, Name: Lebanon, Population: 3282000, Life Expectancy: 71.30
+Code: MAC, Name: Macao, Population: 473000, Life Expectancy: 81.60
+Code: MYS, Name: Malaysia, Population: 22244000, Life Expectancy: 70.80
+Code: MDV, Name: Maldives, Population: 286000, Life Expectancy: 62.20
+Code: MNG, Name: Mongolia, Population: 2662000, Life Expectancy: 67.30
+Code: MMR, Name: Myanmar, Population: 45611000, Life Expectancy: 54.90
+Code: NPL, Name: Nepal, Population: 23930000, Life Expectancy: 57.80
+Code: PRK, Name: North Korea, Population: 24039000, Life Expectancy: 70.70
+Code: OMN, Name: Oman, Population: 2542000, Life Expectancy: 71.80
+Code: PAK, Name: Pakistan, Population: 156483000, Life Expectancy: 61.10
+Code: PSE, Name: Palestine, Population: 3101000, Life Expectancy: 71.40
+Code: PHL, Name: Philippines, Population: 75967000, Life Expectancy: 67.50
+Code: QAT, Name: Qatar, Population: 599000, Life Expectancy: 72.40
+Code: SAU, Name: Saudi Arabia, Population: 21607000, Life Expectancy: 67.80
+Code: SGP, Name: Singapore, Population: 3567000, Life Expectancy: 80.10
+Code: KOR, Name: South Korea, Population: 46844000, Life Expectancy: 74.40
+Code: LKA, Name: Sri Lanka, Population: 18827000, Life Expectancy: 71.80
+Code: SYR, Name: Syria, Population: 16125000, Life Expectancy: 68.50
+Code: TWN, Name: Taiwan, Population: 22256000, Life Expectancy: 76.40
+Code: TJK, Name: Tajikistan, Population: 6188000, Life Expectancy: 64.10
+Code: THA, Name: Thailand, Population: 61399000, Life Expectancy: 68.60
+Code: TUR, Name: Turkey, Population: 66591000, Life Expectancy: 71.00
+Code: TKM, Name: Turkmenistan, Population: 4459000, Life Expectancy: 60.90
+Code: ARE, Name: United Arab Emirates, Population: 2441000, Life Expectancy: 74.10
+Code: UZB, Name: Uzbekistan, Population: 24318000, Life Expectancy: 63.70
+Code: VNM, Name: Vietnam, Population: 79832000, Life Expectancy: 69.30
+Code: YEM, Name: Yemen, Population: 18112000, Life Expectancy: 59.80
+Code: ALB, Name: Albania, Population: 3401200, Life Expectancy: 71.60
+Code: AND, Name: Andorra, Population: 78000, Life Expectancy: 83.50
+Code: AUT, Name: Austria, Population: 8091800, Life Expectancy: 77.70
+Code: BLR, Name: Belarus, Population: 10236000, Life Expectancy: 68.00
+Code: BEL, Name: Belgium, Population: 10239000, Life Expectancy: 77.80
+Code: BIH, Name: Bosnia and Herzegovina, Population: 3972000, Life Expectancy: 71.50
+Code: BGR, Name: Bulgaria, Population: 8190900, Life Expectancy: 70.90
+Code: HRV, Name: Croatia, Population: 4473000, Life Expectancy: 73.70
+Code: CZE, Name: Czech Republic, Population: 10278100, Life Expectancy: 74.50
+Code: DNK, Name: Denmark, Population: 5330000, Life Expectancy: 76.50
+Code: EST, Name: Estonia, Population: 1439200, Life Expectancy: 69.50
+Code: FRO, Name: Faroe Islands, Population: 43000, Life Expectancy: 78.40
+Code: FIN, Name: Finland, Population: 5171300, Life Expectancy: 77.40
+Code: FRA, Name: France, Population: 59225700, Life Expectancy: 78.80
+Code: DEU, Name: Germany, Population: 82164700, Life Expectancy: 77.40
+Code: GIB, Name: Gibraltar, Population: 25000, Life Expectancy: 79.00
+Code: GRC, Name: Greece, Population: 10545700, Life Expectancy: 78.40
+Code: VAT, Name: Holy See (Vatican City State), Population: 1000, Life Expectancy: 0.00
+Code: HUN, Name: Hungary, Population: 10043200, Life Expectancy: 71.40
+Code: ISL, Name: Iceland, Population: 279000, Life Expectancy: 79.40
+Code: IRL, Name: Ireland, Population: 3775100, Life Expectancy: 76.80
+Code: ITA, Name: Italy, Population: 57680000, Life Expectancy: 79.00
+Code: LVA, Name: Latvia, Population: 2424200, Life Expectancy: 68.40
+Code: LIE, Name: Liechtenstein, Population: 32300, Life Expectancy: 78.80
+Code: LTU, Name: Lithuania, Population: 3698500, Life Expectancy: 69.10
+Code: LUX, Name: Luxembourg, Population: 435700, Life Expectancy: 77.10
+Code: MKD, Name: Macedonia, Population: 2024000, Life Expectancy: 73.80
+Code: MLT, Name: Malta, Population: 380200, Life Expectancy: 77.90
+Code: MDA, Name: Moldova, Population: 4380000, Life Expectancy: 64.50
+Code: MCO, Name: Monaco, Population: 34000, Life Expectancy: 78.80
+Code: NLD, Name: Netherlands, Population: 15864000, Life Expectancy: 78.30
+Code: NOR, Name: Norway, Population: 4478500, Life Expectancy: 78.70
+Code: POL, Name: Poland, Population: 38653600, Life Expectancy: 73.20
+Code: PRT, Name: Portugal, Population: 9997600, Life Expectancy: 75.80
+Code: ROM, Name: Romania, Population: 22455500, Life Expectancy: 69.90
+Code: RUS, Name: Russian Federation, Population: 146934000, Life Expectancy: 67.20
+Code: SMR, Name: San Marino, Population: 27000, Life Expectancy: 81.10
+Code: SVK, Name: Slovakia, Population: 5398700, Life Expectancy: 73.70
+Code: SVN, Name: Slovenia, Population: 1987800, Life Expectancy: 74.90
+Code: ESP, Name: Spain, Population: 39441700, Life Expectancy: 78.80
+Code: SJM, Name: Svalbard and Jan Mayen, Population: 3200, Life Expectancy: 0.00
+Code: SWE, Name: Sweden, Population: 8861400, Life Expectancy: 79.60
+Code: CHE, Name: Switzerland, Population: 7160400, Life Expectancy: 79.60
+Code: UKR, Name: Ukraine, Population: 50456000, Life Expectancy: 66.00
+Code: GBR, Name: United Kingdom, Population: 59623400, Life Expectancy: 77.70
+Code: YUG, Name: Yugoslavia, Population: 10640000, Life Expectancy: 72.40
+Code: AIA, Name: Anguilla, Population: 8000, Life Expectancy: 76.10
+Code: ATG, Name: Antigua and Barbuda, Population: 68000, Life Expectancy: 70.50
+Code: ABW, Name: Aruba, Population: 103000, Life Expectancy: 78.40
+Code: BHS, Name: Bahamas, Population: 307000, Life Expectancy: 71.10
+Code: BRB, Name: Barbados, Population: 270000, Life Expectancy: 73.00
+Code: BLZ, Name: Belize, Population: 241000, Life Expectancy: 70.90
+Code: BMU, Name: Bermuda, Population: 65000, Life Expectancy: 76.90
+Code: CAN, Name: Canada, Population: 31147000, Life Expectancy: 79.40
+Code: CYM, Name: Cayman Islands, Population: 38000, Life Expectancy: 78.90
+Code: CRI, Name: Costa Rica, Population: 4023000, Life Expectancy: 75.80
+Code: CUB, Name: Cuba, Population: 11201000, Life Expectancy: 76.20
+Code: DMA, Name: Dominica, Population: 71000, Life Expectancy: 73.40
+Code: DOM, Name: Dominican Republic, Population: 8495000, Life Expectancy: 73.20
+Code: SLV, Name: El Salvador, Population: 6276000, Life Expectancy: 69.70
+Code: GRL, Name: Greenland, Population: 56000, Life Expectancy: 68.10
+Code: GRD, Name: Grenada, Population: 94000, Life Expectancy: 64.50
+Code: GLP, Name: Guadeloupe, Population: 456000, Life Expectancy: 77.00
+Code: GTM, Name: Guatemala, Population: 11385000, Life Expectancy: 66.20
+Code: HTI, Name: Haiti, Population: 8222000, Life Expectancy: 49.20
+Code: HND, Name: Honduras, Population: 6485000, Life Expectancy: 69.90
+Code: JAM, Name: Jamaica, Population: 2583000, Life Expectancy: 75.20
+Code: MTQ, Name: Martinique, Population: 395000, Life Expectancy: 78.30
+Code: MEX, Name: Mexico, Population: 98881000, Life Expectancy: 71.50
+Code: MSR, Name: Montserrat, Population: 11000, Life Expectancy: 78.00
+Code: ANT, Name: Netherlands Antilles, Population: 217000, Life Expectancy: 74.70
+Code: NIC, Name: Nicaragua, Population: 5074000, Life Expectancy: 68.70
+Code: PAN, Name: Panama, Population: 2856000, Life Expectancy: 75.50
+Code: PRI, Name: Puerto Rico, Population: 3869000, Life Expectancy: 75.60
+Code: KNA, Name: Saint Kitts and Nevis, Population: 38000, Life Expectancy: 70.70
+Code: LCA, Name: Saint Lucia, Population: 154000, Life Expectancy: 72.30
+Code: SPM, Name: Saint Pierre and Miquelon, Population: 7000, Life Expectancy: 77.60
+Code: VCT, Name: Saint Vincent and the Grenadines, Population: 114000, Life Expectancy: 72.30
+Code: TTO, Name: Trinidad and Tobago, Population: 1295000, Life Expectancy: 68.00
+Code: TCA, Name: Turks and Caicos Islands, Population: 17000, Life Expectancy: 73.30
+Code: USA, Name: United States, Population: 278357000, Life Expectancy: 77.10
+Code: VGB, Name: Virgin Islands; British, Population: 21000, Life Expectancy: 75.40
+Code: VIR, Name: Virgin Islands; U.S., Population: 93000, Life Expectancy: 78.10
+Code: ASM, Name: American Samoa, Population: 68000, Life Expectancy: 75.10
+Code: AUS, Name: Australia, Population: 18886000, Life Expectancy: 79.80
+Code: CXR, Name: Christmas Island, Population: 2500, Life Expectancy: 0.00
+Code: CCK, Name: Cocos (Keeling) Islands, Population: 600, Life Expectancy: 0.00
+Code: COK, Name: Cook Islands, Population: 20000, Life Expectancy: 71.10
+Code: FJI, Name: Fiji Islands, Population: 817000, Life Expectancy: 67.90
+Code: PYF, Name: French Polynesia, Population: 235000, Life Expectancy: 74.80
+Code: GUM, Name: Guam, Population: 168000, Life Expectancy: 77.80
+Code: KIR, Name: Kiribati, Population: 83000, Life Expectancy: 59.80
+Code: MHL, Name: Marshall Islands, Population: 64000, Life Expectancy: 65.50
+Code: FSM, Name: Micronesia; Federated States of, Population: 119000, Life Expectancy: 68.60
+Code: NRU, Name: Nauru, Population: 12000, Life Expectancy: 60.80
+Code: NCL, Name: New Caledonia, Population: 214000, Life Expectancy: 72.80
+Code: NZL, Name: New Zealand, Population: 3862000, Life Expectancy: 77.80
+Code: NIU, Name: Niue, Population: 2000, Life Expectancy: 0.00
+Code: NFK, Name: Norfolk Island, Population: 2000, Life Expectancy: 0.00
+Code: MNP, Name: Northern Mariana Islands, Population: 78000, Life Expectancy: 75.50
+Code: PLW, Name: Palau, Population: 19000, Life Expectancy: 68.60
+Code: PNG, Name: Papua New Guinea, Population: 4807000, Life Expectancy: 63.10
+Code: PCN, Name: Pitcairn, Population: 50, Life Expectancy: 0.00
+Code: WSM, Name: Samoa, Population: 180000, Life Expectancy: 69.20
+Code: SLB, Name: Solomon Islands, Population: 444000, Life Expectancy: 71.30
+Code: TKL, Name: Tokelau, Population: 2000, Life Expectancy: 0.00
+Code: TON, Name: Tonga, Population: 99000, Life Expectancy: 67.90
+Code: TUV, Name: Tuvalu, Population: 12000, Life Expectancy: 66.30
+Code: UMI, Name: United States Minor Outlying Islands, Population: 0, Life Expectancy: 0.00
+Code: VUT, Name: Vanuatu, Population: 190000, Life Expectancy: 60.60
+Code: WLF, Name: Wallis and Futuna, Population: 15000, Life Expectancy: 0.00
+Code: ARG, Name: Argentina, Population: 37032000, Life Expectancy: 75.10
+Code: BOL, Name: Bolivia, Population: 8329000, Life Expectancy: 63.70
+Code: BRA, Name: Brazil, Population: 170115000, Life Expectancy: 62.90
+Code: CHL, Name: Chile, Population: 15211000, Life Expectancy: 75.70
+Code: COL, Name: Colombia, Population: 42321000, Life Expectancy: 70.30
+Code: ECU, Name: Ecuador, Population: 12646000, Life Expectancy: 71.10
+Code: FLK, Name: Falkland Islands, Population: 2000, Life Expectancy: 0.00
+Code: GUF, Name: French Guiana, Population: 181000, Life Expectancy: 76.10
+Code: GUY, Name: Guyana, Population: 861000, Life Expectancy: 64.00
+Code: PRY, Name: Paraguay, Population: 5496000, Life Expectancy: 73.70
+Code: PER, Name: Peru, Population: 25662000, Life Expectancy: 70.00
+Code: SUR, Name: Suriname, Population: 417000, Life Expectancy: 71.40
+Code: URY, Name: Uruguay, Population: 3337000, Life Expectancy: 75.20
+Code: VEN, Name: Venezuela, Population: 24170000, Life Expectancy: 73.10
+[1m[7m%[27m[1m[0m                                                                                    ]2;Alex@Alexs-MacBook-Pro: ~/ClassWork/2240/a1]1;..sWork/2240/a1[0m[27m[24m[J[01;32m➜ [01;32m [36ma1 [01;34m[01;34m [00m[K[?1h=

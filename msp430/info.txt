@@ -1,0 +1,34 @@
+MSP430 is a RISC processor.
+
+Register       |What it is
+---------------+-------------------------
+R0 		PC (Program Calculator)
+R1 		Stack Pointer
+R2		Status / CG
+R3		CG ()
+R4		Frame Pointer
+---------------+-------------------------
+
+ADD #1, R7
++---+--------+
+|ADD|00000001|
++---+--------+
+
+-28 instructions
+-Words must be accessed with an even address.
+
+Stack:
+
++----------+
+|text	   |
++----------+
+|data	   |
++----------+
+|...	   |
++----------+
+|heap	   |
+|""	   |
+|""	   |
++----------+
+|stack	   |
++----------+

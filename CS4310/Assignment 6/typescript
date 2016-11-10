@@ -1,0 +1,8 @@
+Script started on Mon Oct 24 16:29:16 2016
+[1m[7m%[27m[1m[0m                                                                                          ]2;Alex@Alexs-MacBook-Pro: ~/Documents/CS4310/Assignment 6]1;../Assignment 6[0m[27m[24m[J[01;32m➜  [36mAssignment 6[00m [K[?1h=scriptpython tester.py[?1l>
+]2;python tester.py]1;pythonTest array: [99, 14, 17, 2, 8, 19, 52, 36, 100]
+Mergesort: [2, 8, 14, 17, 19, 36, 52, 99, 100]
+Quicksort: [2, 8, 14, 17, 19, 36, 52, 99, 100]
+[1m[7m%[27m[1m[0m                                                                                          ]2;Alex@Alexs-MacBook-Pro: ~/Documents/CS4310/Assignment 6]1;../Assignment 6[0m[27m[24m[J[01;32m➜  [36mAssignment 6[00m [K[?1h=eexit[?1l>
+]2;exit]1;exit
+Script done on Mon Oct 24 16:29:19 2016

@@ -1,0 +1,44 @@
+% TransData2a.txt file for Asgn 2 - just test A and S transactions
+%
+%
+% For showAll (A) requests, note that the data in the file ARE in
+%    physical order by id - so use SEQUENTIAL ACCESS rather than
+%    RANDOM ACCESS.  However, you'll need a single seek at the
+%    start of showAll method since a prior transaction moved the
+%    file position ptr to somewhere other than byte 0
+%
+%
+A
+% SUCCESSFUL:  first & last records in RawData file
+S 39
+S 12
+% SUCCESSFUL:  first & last records in DataStorage file (includes 39 above)
+S 03
+% SUCCESSFUL:  middle records: 31 between 2 good recs, 17 between 2 empty's
+S 31
+S 17
+% UNSUCCESSFUL:  within good record range
+S 5
+S 38
+S 11
+% UNSUCCESSFUL:  edge cases
+S 1
+S 40
+% ***** CORRECTION 10/8/15 - changed the 2 too-big-for-a-short id's below
+% UNSUCCESSFUL:  odd cases
+S 31123
+S 0
+S 20123
+% SUCCESSFUL:  duplicate id ones - do you get the FIRST one, NOT the SECOND
+S 37
+S 22
+S 009
+% SUCCESSFUL:  after UNSUCCESSFUL searches, do successful ones work?
+S 19
+S 20
+S 20
+S 6
+% SUCCESSFUL:  move file position pointer to near the END
+S 36
+% See what printout of whole file looks like AFTER doing a SEARCH
+A

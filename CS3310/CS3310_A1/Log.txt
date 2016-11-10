@@ -1,0 +1,275 @@
+OPENED Log file
+SETUP started
+OPENED DataStorage file
+ERROR: DUPLICATE ID 22 when inserting Spain, Venezuela has id 22
+ERROR: DUPLICATE ID 9 when inserting South Africa, Japan has id 9
+ERROR: DUPLICATE ID 37 when inserting Colombia, Turks and Caicos I has id 37
+SETUP finished inserted 25 countries into DataStorage.
+USERAPP started
+OPENED TransData file.
+A
+CDE ID- NAME-------------- CONTINENT---- ------AREA ---POPULATION LIFE
+CHN 3   China              Asia           9,572,900 1,277,558,000 71.4
+IND 4   India              Asia           3,287,263 1,013,662,000 62.5
+USA 6   United States      North America  9,363,520   278,357,000 77.1
+RUS 8   Russian Federation Europe        17,075,400   146,934,000 67.2
+JPN 9   Japan              Asia             377,829   126,714,000 80.7
+MEX 12  Mexico             North America  1,958,201    98,881,000 71.5
+DEU 13  Germany            Europe           357,022    82,164,700 77.4
+EGY 15  Egypt              Africa         1,001,449    68,470,000 63.3
+GBR 17  United Kingdom     Europe           242,900    59,623,400 77.7
+FRA 19  France             Europe           551,500    59,225,700 78.8
+POL 20  Poland             Europe           323,250    38,653,600 73.2
+KEN 21  Kenya              Africa           580,367    30,080,000 48.0
+VEN 22  Venezuela          South America    912,050    24,170,000 73.1
+YEM 24  Yemen              Asia             527,968    18,112,000 59.8
+ZWE 25  Zimbabwe           Africa           390,757    11,669,000 37.8
+BEL 27  Belgium            Europe            30,518    10,239,000 77.8
+SOM 28  Somalia            Africa           637,657    10,097,000 46.2
+HTI 30  Haiti              North America     27,750     8,222,000 49.2
+NIC 31  Nicaragua          North America    130,000     5,074,000 68.7
+LBN 32  Lebanon            Asia              10,400     3,282,000 71.3
+OMN 33  Oman               Asia             309,500     2,542,000 71.8
+QAT 35  Qatar              Asia              11,000       599,000 72.4
+WSM 36  Samoa              Oceania            2,831       180,000 69.2
+TCA 37  Turks and Caicos I North America        430        17,000 73.3
+ATA 39  Antarctica         Antarctica    13,120,000             0 0.0 
+===========================
+S 39 >>
+CDE ID- NAME-------------- CONTINENT---- ------AREA ---POPULATION LIFE
+ATA 39  Antarctica         Antarctica    13,120,000             0 0.0 
+S 12 >>
+CDE ID- NAME-------------- CONTINENT---- ------AREA ---POPULATION LIFE
+MEX 12  Mexico             North America  1,958,201    98,881,000 71.5
+S 3 >>
+CDE ID- NAME-------------- CONTINENT---- ------AREA ---POPULATION LIFE
+CHN 3   China              Asia           9,572,900 1,277,558,000 71.4
+S 31 >>
+CDE ID- NAME-------------- CONTINENT---- ------AREA ---POPULATION LIFE
+NIC 31  Nicaragua          North America    130,000     5,074,000 68.7
+S 17 >>
+CDE ID- NAME-------------- CONTINENT---- ------AREA ---POPULATION LIFE
+GBR 17  United Kingdom     Europe           242,900    59,623,400 77.7
+S 5 >> invalid country id
+S 38 >> invalid country id
+S 11 >> invalid country id
+S 1 >> invalid country id
+S 40 >> invalid country id
+S 31123 >> invalid country id
+S 0 >> invalid country id
+S 20123 >> invalid country id
+S 37 >>
+CDE ID- NAME-------------- CONTINENT---- ------AREA ---POPULATION LIFE
+TCA 37  Turks and Caicos I North America        430        17,000 73.3
+S 22 >>
+CDE ID- NAME-------------- CONTINENT---- ------AREA ---POPULATION LIFE
+VEN 22  Venezuela          South America    912,050    24,170,000 73.1
+S 9 >>
+CDE ID- NAME-------------- CONTINENT---- ------AREA ---POPULATION LIFE
+JPN 9   Japan              Asia             377,829   126,714,000 80.7
+S 19 >>
+CDE ID- NAME-------------- CONTINENT---- ------AREA ---POPULATION LIFE
+FRA 19  France             Europe           551,500    59,225,700 78.8
+S 20 >>
+CDE ID- NAME-------------- CONTINENT---- ------AREA ---POPULATION LIFE
+POL 20  Poland             Europe           323,250    38,653,600 73.2
+S 20 >>
+CDE ID- NAME-------------- CONTINENT---- ------AREA ---POPULATION LIFE
+POL 20  Poland             Europe           323,250    38,653,600 73.2
+S 6 >>
+CDE ID- NAME-------------- CONTINENT---- ------AREA ---POPULATION LIFE
+USA 6   United States      North America  9,363,520   278,357,000 77.1
+S 36 >>
+CDE ID- NAME-------------- CONTINENT---- ------AREA ---POPULATION LIFE
+WSM 36  Samoa              Oceania            2,831       180,000 69.2
+A
+CDE ID- NAME-------------- CONTINENT---- ------AREA ---POPULATION LIFE
+CHN 3   China              Asia           9,572,900 1,277,558,000 71.4
+IND 4   India              Asia           3,287,263 1,013,662,000 62.5
+USA 6   United States      North America  9,363,520   278,357,000 77.1
+RUS 8   Russian Federation Europe        17,075,400   146,934,000 67.2
+JPN 9   Japan              Asia             377,829   126,714,000 80.7
+MEX 12  Mexico             North America  1,958,201    98,881,000 71.5
+DEU 13  Germany            Europe           357,022    82,164,700 77.4
+EGY 15  Egypt              Africa         1,001,449    68,470,000 63.3
+GBR 17  United Kingdom     Europe           242,900    59,623,400 77.7
+FRA 19  France             Europe           551,500    59,225,700 78.8
+POL 20  Poland             Europe           323,250    38,653,600 73.2
+KEN 21  Kenya              Africa           580,367    30,080,000 48.0
+VEN 22  Venezuela          South America    912,050    24,170,000 73.1
+YEM 24  Yemen              Asia             527,968    18,112,000 59.8
+ZWE 25  Zimbabwe           Africa           390,757    11,669,000 37.8
+BEL 27  Belgium            Europe            30,518    10,239,000 77.8
+SOM 28  Somalia            Africa           637,657    10,097,000 46.2
+HTI 30  Haiti              North America     27,750     8,222,000 49.2
+NIC 31  Nicaragua          North America    130,000     5,074,000 68.7
+LBN 32  Lebanon            Asia              10,400     3,282,000 71.3
+OMN 33  Oman               Asia             309,500     2,542,000 71.8
+QAT 35  Qatar              Asia              11,000       599,000 72.4
+WSM 36  Samoa              Oceania            2,831       180,000 69.2
+TCA 37  Turks and Caicos I North America        430        17,000 73.3
+ATA 39  Antarctica         Antarctica    13,120,000             0 0.0 
+===========================
+CLOSED TransData file.
+USERAPP finished
+USERAPP started
+OPENED TransData file.
+D 20 >> OK, Poland deleted
+D 39 >> OK, Antarctica deleted
+D 3 >> OK, China deleted
+D 5 >> invalid country id
+D 11 >> invalid country id
+D 0 >> invalid country id
+D 32767 >> invalid country id
+D 40 >> invalid country id
+A
+CDE ID- NAME-------------- CONTINENT---- ------AREA ---POPULATION LIFE
+IND 4   India              Asia           3,287,263 1,013,662,000 62.5
+USA 6   United States      North America  9,363,520   278,357,000 77.1
+RUS 8   Russian Federation Europe        17,075,400   146,934,000 67.2
+JPN 9   Japan              Asia             377,829   126,714,000 80.7
+MEX 12  Mexico             North America  1,958,201    98,881,000 71.5
+DEU 13  Germany            Europe           357,022    82,164,700 77.4
+EGY 15  Egypt              Africa         1,001,449    68,470,000 63.3
+GBR 17  United Kingdom     Europe           242,900    59,623,400 77.7
+FRA 19  France             Europe           551,500    59,225,700 78.8
+KEN 21  Kenya              Africa           580,367    30,080,000 48.0
+VEN 22  Venezuela          South America    912,050    24,170,000 73.1
+YEM 24  Yemen              Asia             527,968    18,112,000 59.8
+ZWE 25  Zimbabwe           Africa           390,757    11,669,000 37.8
+BEL 27  Belgium            Europe            30,518    10,239,000 77.8
+SOM 28  Somalia            Africa           637,657    10,097,000 46.2
+HTI 30  Haiti              North America     27,750     8,222,000 49.2
+NIC 31  Nicaragua          North America    130,000     5,074,000 68.7
+LBN 32  Lebanon            Asia              10,400     3,282,000 71.3
+OMN 33  Oman               Asia             309,500     2,542,000 71.8
+QAT 35  Qatar              Asia              11,000       599,000 72.4
+WSM 36  Samoa              Oceania            2,831       180,000 69.2
+TCA 37  Turks and Caicos I North America        430        17,000 73.3
+===========================
+I 41 ARG,41,ARGENTINA,South America,2780400,37032000,75.1
+>> OK, ARGENTINA inserted
+I 1 JAM,1,JAMAICA AND SOME MORE TO MAKE IT LONG,North America I guess,10990,2583000,75.2
+>> OK, JAMAICA AND SOME M inserted
+I 43 CUB,43,CUBA WITH A REALLY LONG NAME,North America or somewhere,110861,11201000,76.2
+>> OK, CUBA WITH A REALLY inserted
+I 5 KAZ,5,KAZAKSTAN,Asia,2724900,16223000,63.2
+>> OK, KAZAKSTAN inserted
+S 41 >>
+CDE ID- NAME-------------- CONTINENT---- ------AREA ---POPULATION LIFE
+ARG 41  ARGENTINA          South America  2,780,400    37,032,000 75.1
+S 1 >>
+CDE ID- NAME-------------- CONTINENT---- ------AREA ---POPULATION LIFE
+JAM 1   JAMAICA AND SOME M North America     10,990     2,583,000 75.2
+S 43 >>
+CDE ID- NAME-------------- CONTINENT---- ------AREA ---POPULATION LIFE
+CUB 43  CUBA WITH A REALLY North America    110,861    11,201,000 76.2
+S 5 >>
+CDE ID- NAME-------------- CONTINENT---- ------AREA ---POPULATION LIFE
+KAZ 5   KAZAKSTAN          Asia           2,724,900    16,223,000 63.2
+I 20 AUT,20,Austria,Europe,83859,8091800,77.7
+>> OK, Austria inserted
+I 39 BWA,39,Botswana,Africa,581730,1622000,39.3
+>> OK, Botswana inserted
+S 39 >>
+CDE ID- NAME-------------- CONTINENT---- ------AREA ---POPULATION LIFE
+BWA 39  Botswana           Africa           581,730     1,622,000 39.3
+S 20 >>
+CDE ID- NAME-------------- CONTINENT---- ------AREA ---POPULATION LIFE
+AUT 20  Austria            Europe            83,859     8,091,800 77.7
+I 8 XXX,8,Somewhere,Europe,1,2,33.3
+>> invalid (duplicate) country id
+I 6 YYY,6,SomewhereElse,Asia,4,5,66.6
+>> invalid (duplicate) country id
+I 0 WMU,0,Western,North America,10,1903,24987
+>> invalid (duplicate) country id
+I 32000 CSI,32000,Computer Science major in CEAS,North America,1,1978,250,90.2
+>> invalid (duplicate) country id
+I 61 AZO,61,Kalamazoo,North America ish,40,1848,85000,75.9
+>> invalid (duplicate) country id
+A
+CDE ID- NAME-------------- CONTINENT---- ------AREA ---POPULATION LIFE
+JAM 1   JAMAICA AND SOME M North America     10,990     2,583,000 75.2
+IND 4   India              Asia           3,287,263 1,013,662,000 62.5
+KAZ 5   KAZAKSTAN          Asia           2,724,900    16,223,000 63.2
+USA 6   United States      North America  9,363,520   278,357,000 77.1
+RUS 8   Russian Federation Europe        17,075,400   146,934,000 67.2
+JPN 9   Japan              Asia             377,829   126,714,000 80.7
+MEX 12  Mexico             North America  1,958,201    98,881,000 71.5
+DEU 13  Germany            Europe           357,022    82,164,700 77.4
+EGY 15  Egypt              Africa         1,001,449    68,470,000 63.3
+GBR 17  United Kingdom     Europe           242,900    59,623,400 77.7
+FRA 19  France             Europe           551,500    59,225,700 78.8
+AUT 20  Austria            Europe            83,859     8,091,800 77.7
+KEN 21  Kenya              Africa           580,367    30,080,000 48.0
+VEN 22  Venezuela          South America    912,050    24,170,000 73.1
+YEM 24  Yemen              Asia             527,968    18,112,000 59.8
+ZWE 25  Zimbabwe           Africa           390,757    11,669,000 37.8
+BEL 27  Belgium            Europe            30,518    10,239,000 77.8
+SOM 28  Somalia            Africa           637,657    10,097,000 46.2
+HTI 30  Haiti              North America     27,750     8,222,000 49.2
+NIC 31  Nicaragua          North America    130,000     5,074,000 68.7
+LBN 32  Lebanon            Asia              10,400     3,282,000 71.3
+OMN 33  Oman               Asia             309,500     2,542,000 71.8
+QAT 35  Qatar              Asia              11,000       599,000 72.4
+WSM 36  Samoa              Oceania            2,831       180,000 69.2
+TCA 37  Turks and Caicos I North America        430        17,000 73.3
+BWA 39  Botswana           Africa           581,730     1,622,000 39.3
+ARG 41  ARGENTINA          South America  2,780,400    37,032,000 75.1
+CUB 43  CUBA WITH A REALLY North America    110,861    11,201,000 76.2
+===========================
+CLOSED TransData file.
+USERAPP finished
+CLOSED DataStorage file
+CLOSED Log file
+
+====================
+PRETTYPRINT STARTED!
+N is 28 Max ID is 28
+
+Loc> CDE ID- NAME-------------- CONTINENT---- -------AREA ---POPULATION LIFE
+001> JAM 001 JAMAICA AND SOME M North America      10,990     2,583,000 75.2 
+002> EMPTY 
+003> EMPTY 
+004> IND 004 India              Asia            3,287,263 1,013,662,000 62.5 
+005> KAZ 005 KAZAKSTAN          Asia            2,724,900    16,223,000 63.2 
+006> USA 006 United States      North America   9,363,520   278,357,000 77.1 
+007> EMPTY 
+008> RUS 008 Russian Federation Europe         17,075,400   146,934,000 67.2 
+009> JPN 009 Japan              Asia              377,829   126,714,000 80.7 
+010> EMPTY 
+011> EMPTY 
+012> MEX 012 Mexico             North America   1,958,201    98,881,000 71.5 
+013> DEU 013 Germany            Europe            357,022    82,164,700 77.4 
+014> EMPTY 
+015> EGY 015 Egypt              Africa          1,001,449    68,470,000 63.3 
+016> EMPTY 
+017> GBR 017 United Kingdom     Europe            242,900    59,623,400 77.7 
+018> EMPTY 
+019> FRA 019 France             Europe            551,500    59,225,700 78.8 
+020> AUT 020 Austria            Europe             83,859     8,091,800 77.7 
+021> KEN 021 Kenya              Africa            580,367    30,080,000 48.0 
+022> VEN 022 Venezuela          South America     912,050    24,170,000 73.1 
+023> EMPTY 
+024> YEM 024 Yemen              Asia              527,968    18,112,000 59.8 
+025> ZWE 025 Zimbabwe           Africa            390,757    11,669,000 37.8 
+026> EMPTY 
+027> BEL 027 Belgium            Europe             30,518    10,239,000 77.8 
+028> SOM 028 Somalia            Africa            637,657    10,097,000 46.2 
+029> EMPTY 
+030> HTI 030 Haiti              North America      27,750     8,222,000 49.2 
+031> NIC 031 Nicaragua          North America     130,000     5,074,000 68.7 
+032> LBN 032 Lebanon            Asia               10,400     3,282,000 71.3 
+033> OMN 033 Oman               Asia              309,500     2,542,000 71.8 
+034> EMPTY 
+035> QAT 035 Qatar              Asia               11,000       599,000 72.4 
+036> WSM 036 Samoa              Oceania             2,831       180,000 69.2 
+037> TCA 037 Turks and Caicos I North America         430        17,000 73.3 
+038> EMPTY 
+039> BWA 039 Botswana           Africa            581,730     1,622,000 39.3 
+040> EMPTY 
+041> ARG 041 ARGENTINA          South America   2,780,400    37,032,000 75.1 
+042> EMPTY 
+043> CUB 043 CUBA WITH A REALLY North America     110,861    11,201,000 76.2 
+====================
+

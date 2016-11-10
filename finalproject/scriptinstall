@@ -1,0 +1,16 @@
+#!/bin/sh
+
+git clone https://github.com/wendlers/libemb.git
+cd libemb
+
+INSTDIR=/opt/energia/hardware/tools/msp430/msp430
+if [ -z `which lsb_release` ]; then
+    INSTDIR=/Applications/Energia.app/Contents/Resources/Java/hardware/tools/msp430/msp430
+    find . -name "Makefile" -exec sed -i '' 's/-D -d/-d/g' "{}" \;
+fi
+
+TARCH=MSP430
+export TARCH INSTDIR
+make install
+cd ..
+rm -rf libemb

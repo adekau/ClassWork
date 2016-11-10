@@ -1,0 +1,7 @@
+Algorithm (recursive) arbritrary number of commands
+Left most command, pipe on right side, right most command, pipe on left side, middle command, pipe on both sides.
+
+Have a parent create a child (RigihtMost) which creates a child (M) which creates a child (left), all piped, and ultimately implements the command:
+ls -l | Upper | Lower
+
+Each process will have a left and right pipe, fdl, fdr, but only M uses them both.

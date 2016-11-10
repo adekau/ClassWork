@@ -1,0 +1,52 @@
+Script started on Mon Sep 19 18:21:06 2016
+[1m[7m%[27m[1m[0m                                                                                                                                                                                   ]2;Alex@Alexs-MacBook-Pro: ~/Documents/CS4310/Assignment 2]1;../Assignment 2[0m[27m[24m[J[01;32m➜  [36mAssignment 2[00m [K[?1h=ppython tester.       Ts ester.py[1m [0m[0m [?1l>
+]2;python Tester.py]1;pythonTESTING: STACK
+----------
+pushing 5
+pushing 6
+pushing 7
+7
+6
+pushing 8
+8
+5
+
+TESTING: QUEUE
+----------
+queueing 0
+queueing 1
+queueing 2
+0
+queueing 3
+1
+2
+3
+
+TESTING: LIST
+----------
+Adding B to spot 0
+['B', None, None, None, None, None, None, None, None, None]
+Adding C to spot 1
+['B', 'C', None, None, None, None, None, None, None, None]
+Adding A to spot 0
+['A', 'B', 'C', None, None, None, None, None, None, None]
+Getting spot 1
+B
+Setting spot 0 to 0
+[0, 'B', 'C', None, None, None, None, None, None, None]
+Removing spot 1
+[0, 'C', 'C', None, None, None, None, None, None, None]
+Getting spot 1
+C
+Getting spot 2
+None
+Setting spot 2 to 'D'
+error
+[0, 'C', 'C', None, None, None, None, None, None, None]
+Adding D to spot 2
+[0, 'C', 'D', None, None, None, None, None, None, None]
+Setting spot 2 to 'C'
+[0, 'C', 'C', None, None, None, None, None, None, None]
+[1m[7m%[27m[1m[0m                                                                                                                                                                                   ]2;Alex@Alexs-MacBook-Pro: ~/Documents/CS4310/Assignment 2]1;../Assignment 2[0m[27m[24m[J[01;32m➜  [36mAssignment 2[00m [K[?1h=eexit[?1l>
+]2;exit]1;exit
+Script done on Mon Sep 19 18:21:15 2016

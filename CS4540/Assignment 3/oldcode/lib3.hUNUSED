@@ -1,0 +1,8 @@
+#ifndef __LIB3_H
+#define __LIB3_H
+
+void bounded_rand(int lb, int ub, int *num);
+int rdrand16_step(uint16_t *rand);
+void sort(_process *proc_arr, int len);
+
+#endif

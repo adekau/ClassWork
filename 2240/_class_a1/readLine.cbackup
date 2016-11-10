@@ -1,0 +1,12 @@
+#include <stdio.h>
+
+void readLine(FILE *fp, char ** line) {
+  if(fp == NULL) {
+    printf("%s\n", "Error reading file.");
+  }
+  if((fgets(*line, 1000, fp)) != NULL) {
+    // Read was successfull.
+  }else{
+    printf("%s\n", "End of file.");
+  }
+}
