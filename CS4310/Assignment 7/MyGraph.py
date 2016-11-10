@@ -23,9 +23,16 @@ class MyGraph:
         	vert = MyVertex(label, value)
 		self.V[vert.getUid()] = vert
 
-	# todo: Add vertex parameters.
 	def new_edge(self, uid1, uid2, directed=0, label=None, value=None):
 		edge = MyEdge(label, value, directed)
 		self.V[uid1].add_edge(edge)
 		self.V[uid2].add_edge(edge)
 		self.E[edge.getUid()] = edge
+
+	# the object still exists though..
+	def remove_vertex(self, uid):
+		del self.V[uid]
+	
+	# same as above.
+	def remove_edge(self, uid):
+		del self.E[uid]
