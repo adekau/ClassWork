@@ -18,4 +18,4 @@ class MyEdge:
 		return self.value
 
 	def is_directed(self):
-		return directed == 1
+		return self.directed == 1

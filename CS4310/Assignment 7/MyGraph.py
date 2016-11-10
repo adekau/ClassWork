@@ -26,6 +26,6 @@ class MyGraph:
 	# todo: Add vertex parameters.
 	def new_edge(self, uid1, uid2, directed=0, label=None, value=None):
 		edge = MyEdge(label, value, directed)
-		uid1.add_edge(edge)
-		uid2.add_edge(edge)
+		self.V[uid1].add_edge(edge)
+		self.V[uid2].add_edge(edge)
 		self.E[edge.getUid()] = edge
