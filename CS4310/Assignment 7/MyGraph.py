@@ -38,7 +38,7 @@ class MyGraph:
 			self.V[uid2].add_incoming_edge(edge)
 
 		# If its an edge looping to itself, dont increment twice.
-		if uid1 == uid2:
+		if uid1 is uid2:
 			self.V[uid1].add_incident_edge(edge)
 		else:
 			self.V[uid1].add_incident_edge(edge)
