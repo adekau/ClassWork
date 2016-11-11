@@ -1,13 +1,13 @@
 class MyEdge:
 	counter = 0 
 
-	def __init__(self, label=None, value=None, directed=0):
+	def __init__(self, label=None, value=None, directed=False):
 		self.label 	= label
 		self.value 	= value
 		self.directed	= directed
 		self.uid 	= MyEdge.counter 
-		self.vleft 	= None
-		self.vright 	= None
+		self.v1 	= None  		#edges always go v1 to v2
+		self.v2 	= None
 		MyEdge.counter 	= MyEdge.counter + 1
 
 	def getUid(self):
@@ -20,7 +20,7 @@ class MyEdge:
 		return self.value
 
 	def is_directed(self):
-		return self.directed == 1
+		return self.directed == True
 
 	def getLeftVertex(self):
 		return self.vleft
@@ -28,8 +28,8 @@ class MyEdge:
 	def getRightVertex(self):
 		return self.vright
 
-	def setLeftVertex(self, vtx):
-		self.vleft = vtx
+	def setVertex1(self, vtx):
+		self.v2 = vtx
 
-	def setRightVertex(self, vtx):
-		self.vright = vtx
+	def setVertex2(self, vtx):
+		self.v2 = vtx

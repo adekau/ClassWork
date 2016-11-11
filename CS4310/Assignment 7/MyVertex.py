@@ -5,10 +5,15 @@ class MyVertex:
 		self.label = label
 		self.value = value
 		self.uid = MyVertex.counter 
+		self.degree = 0
 		MyVertex.counter = MyVertex.counter + 1
 
 		# Edges that belong to this vertex.
-		self.E = {}
+		self.Ei = {} # Incoming
+		self.Eo = {} # Outgoing
+
+		# Incident edges list
+		self.iedges = []
 
 	def getUid(self):
 		return self.uid
@@ -19,8 +24,15 @@ class MyVertex:
 	def getValue(self):
 		return self.value
 
-	def add_edge(self, edge):
-		self.E[edge.getUid()] = edge
+	def add_incoming_edge(self, edge):
+		self.Ei[edge.getUid()] = edge
+
+	def add_outgoing_edge(self, edge):
+		self.Eo[edge.getUid()] = edge
 
 	def remove_edge(self, edge):
-		del self.E[edge.getUid()]
+		del self.Ei[edge.getUid()]
+		del self.Eo[edge.getUid()]
+
+	def add_incident_edge(self, edge):
+		self.iedges.append(edge)
