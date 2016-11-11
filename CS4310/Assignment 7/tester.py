@@ -1,19 +1,3 @@
-from MyVertex import MyVertex
-from MyEdge import MyEdge
-from MyGraph import MyGraph
+t = {}
 
-graph = MyGraph("Graph 1")
-
-
-graph.new_vertex()
-graph.new_vertex()
-
-graph.new_edge(0, 1)
-
-
-print graph.V[0].E[0].is_directed()
-print graph.V[0].E
-print graph.V[1].E
-
-graph.remove_vertex(0)
-print graph.V[1].E
+print t[24]

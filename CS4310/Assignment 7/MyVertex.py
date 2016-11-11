@@ -15,6 +15,9 @@ class MyVertex:
 		# Incident edges list
 		self.iedges = []
 
+		# Adjacent vertices
+		self.aV = {}
+
 	def getUid(self):
 		return self.uid
 
@@ -36,3 +39,12 @@ class MyVertex:
 
 	def add_incident_edge(self, edge):
 		self.iedges.append(edge)
+
+	def add_adjacent_vertex(self, vtx):
+		self.aV[vtx.getUid()] = vtx
+
+	def get_adjacent(self):
+		ret = []
+		for i, e in self.aV.iteritems():
+			ret.append(e)
+		return ret

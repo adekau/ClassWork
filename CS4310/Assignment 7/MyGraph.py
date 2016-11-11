@@ -28,6 +28,10 @@ class MyGraph:
 		edge.setVertex1(uid1)
 		edge.setVertex2(uid2)
 
+		if uid2 not in self.V[uid1].aV and uid1 is not uid2:
+			self.V[uid1].add_adjacent_vertex(self.V[uid2])
+			self.V[uid2].add_adjacent_vertex(self.V[uid1])
+
 		if directed is not True:
 			self.V[uid1].add_incoming_edge(edge)
 			self.V[uid1].add_outgoing_edge(edge)
@@ -90,6 +94,5 @@ class MyGraph:
 		return self.V[uid].iedges
 
 	def adjacent_edges(self, uid):
-		#UNFINISHED
-		return None
+		return self.V[uid].get_adjacent()
 	
