@@ -6,7 +6,7 @@ class MyEdge:
 		self.value 	= value
 		self.directed	= directed
 		self.uid 	= MyEdge.counter 
-		self.v1 	= None  		#edges always go v1 to v2
+		self.v1 	= None  		#edges always go v1 to v2 if directed
 		self.v2 	= None
 		MyEdge.counter 	= MyEdge.counter + 1
 
@@ -29,7 +29,7 @@ class MyEdge:
 		return self.vright
 
 	def setVertex1(self, vtx):
-		self.v2 = vtx
+		self.v1 = vtx
 
 	def setVertex2(self, vtx):
 		self.v2 = vtx

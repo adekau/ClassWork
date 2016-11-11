@@ -96,3 +96,8 @@ class MyGraph:
 	def adjacent_edges(self, uid):
 		return self.V[uid].get_adjacent()
 	
+	def end_vertices(self, uid):
+		return [self.E[uid].v1, self.E[uid].v2]
+
+	def are_adjacent(self, uid1, uid2):
+		return uid2 in self.V[uid1].aV
