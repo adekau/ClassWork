@@ -50,16 +50,39 @@ class MyGraph:
 		self.E[edge.getUid()] = edge
 
 	def remove_vertex(self, uid):
-		tmp = self.V[uid]
+		vtx = self.V[uid]
+		iedges = list(vtx.iedges)
+
+		for i, e in enumerate(iedges):
+			self.remove_edge(e.getUid())
+
 		del self.V[uid]
 
-		# It still exists despite being removed from the vector.
-		for key, val in tmp.E.iteritems():
-			del tmp.E[key].vleft
-			del tmp.E[key].vright
-			del tmp.E[key]
+	def remove_edge(self, uid):
+		edge = self.E[uid]
+		v1 = self.V[edge.v1]
+		v2 = self.V[edge.v2]
+		v1.remove_edge(edge)
+		v2.remove_edge(edge)
+		noDelete = False
 
-		#TODO: This needs to be refactored. Need to remove all references to this vertex. (From all edges that connect to it..)
+		for i, e in enumerate(v1.iedges):
+			if e.v1 is edge.v2 or e.v2 is edge.v2:
+				noDelete = True
+
+		if not noDelete:
+			del v1.aV[edge.v2]
+		else:
+			noDelete = False
+
+		for i, e in enumerate(v2.iedges):
+			if e.v1 is edge.v1 or e.v2 is edge.v1:
+				noDelete = True
+
+		if not noDelete:
+			del v2.aV[edge.v1]
+
+		del self.E[uid]
 
 	def num_vertices(self):
 		return len(self.V)

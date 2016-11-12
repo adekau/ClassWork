@@ -34,8 +34,14 @@ class MyVertex:
 		self.Eo[edge.getUid()] = edge
 
 	def remove_edge(self, edge):
-		del self.Ei[edge.getUid()]
-		del self.Eo[edge.getUid()]
+		euid = edge.getUid()
+
+		if euid in self.Ei:
+			del self.Ei[edge.getUid()]
+
+		if euid in self.Eo:
+			del self.Eo[edge.getUid()]
+		self.iedges.remove(edge)
 
 	def add_incident_edge(self, edge):
 		self.iedges.append(edge)
