@@ -1,3 +1,8 @@
+#Date: 11/11/2016
+#Class: CS4310
+#Assignment: Assignment 7
+#Author(s): Alex Dekau
+
 class MyEdge:
 	counter = 0 
 
@@ -33,3 +38,6 @@ class MyEdge:
 
 	def setVertex2(self, vtx):
 		self.v2 = vtx
+
+	def end_vertices(self):
+		return [self.v1, self.v2]

@@ -1,3 +1,8 @@
+#Date: 11/11/2016
+#Class: CS4310
+#Assignment: Assignment 7
+#Author(s): Alex Dekau
+
 from MyGraph import MyGraph
 
 graph = MyGraph()
@@ -29,11 +34,11 @@ print graph.vertex(2).aV
 print "\nDuplicate using function\n"
 
 print "A Adjacency"
-print graph.adjacent_edges(0)
+print graph.adjacent_vertices(0)
 print "B Adjacency"
-print graph.adjacent_edges(1)
+print graph.adjacent_vertices(1)
 print "C Adjacency"
-print graph.adjacent_edges(2)
+print graph.adjacent_vertices(2)
 
 # End vertices
 print "End vertices for 3"
@@ -77,11 +82,11 @@ print graph.vertex(2).aV
 print "\nDuplicate using function\n"
 
 print "A Adjacency"
-print graph.adjacent_edges(0)
+print graph.adjacent_vertices(0)
 print "B Adjacency"
-print graph.adjacent_edges(1)
+print graph.adjacent_vertices(1)
 print "C Adjacency"
-print graph.adjacent_edges(2)
+print graph.adjacent_vertices(2)
 
 # End vertices
 print "End vertices for 3"

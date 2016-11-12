@@ -1,3 +1,8 @@
+#Date: 11/11/2016
+#Class: CS4310
+#Assignment: Assignment 7
+#Author(s): Alex Dekau
+
 from MyVertex import MyVertex
 from MyEdge import MyEdge
 
@@ -22,6 +27,7 @@ class MyGraph:
         def new_vertex(self, label=None, value=None):
         	vert = MyVertex(label, value)
 		self.V[vert.getUid()] = vert
+		return vert.getUid()
 
 	def new_edge(self, uid1, uid2, directed=False, label=None, value=None):
 		edge = MyEdge(label, value, directed)
@@ -48,6 +54,7 @@ class MyGraph:
 			self.V[uid1].add_incident_edge(edge)
 			self.V[uid2].add_incident_edge(edge)
 		self.E[edge.getUid()] = edge
+		return edge.getUid()
 
 	def remove_vertex(self, uid):
 		vtx = self.V[uid]
@@ -108,7 +115,7 @@ class MyGraph:
 	def incident_edges(self, uid):
 		return self.V[uid].iedges
 
-	def adjacent_edges(self, uid):
+	def adjacent_vertices(self, uid):
 		return self.V[uid].get_adjacent()
 	
 	def end_vertices(self, uid):

@@ -1,3 +1,8 @@
+#Date: 11/11/2016
+#Class: CS4310
+#Assignment: Assignment 7
+#Author(s): Alex Dekau
+
 class MyVertex:
 	counter = 0 
 

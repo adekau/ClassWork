@@ -1,0 +1,214 @@
+Script started on Fri Nov 11 22:30:56 2016
+[1m[7m%[27m[1m[0m                                                                                                        ]2;Alex@Alexs-MacBook-Pro: ~/ClassWork/CS4310/Assignment 7]1;../Assignment 7[0m[27m[24m[J[01;32m➜  [36mAssignment 7[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=mmake tester[?1l>
+]2;make tester]1;makepython tester.py
+Num vertices (should be 8)
+8
+
+Num edges (should be 12)
+12
+
+Vertices:
+[<MyVertex.MyVertex instance at 0x109056f80>, <MyVertex.MyVertex instance at 0x109056fc8>, <MyVertex.MyVertex instance at 0x109076050>, <MyVertex.MyVertex instance at 0x109076098>, <MyVertex.MyVertex instance at 0x1090760e0>, <MyVertex.MyVertex instance at 0x109076128>, <MyVertex.MyVertex instance at 0x109076170>, <MyVertex.MyVertex instance at 0x1090761b8>]
+
+Edges:
+[<MyEdge.MyEdge instance at 0x109076200>, <MyEdge.MyEdge instance at 0x109076248>, <MyEdge.MyEdge instance at 0x109076290>, <MyEdge.MyEdge instance at 0x1090762d8>, <MyEdge.MyEdge instance at 0x109076320>, <MyEdge.MyEdge instance at 0x109076368>, <MyEdge.MyEdge instance at 0x1090763b0>, <MyEdge.MyEdge instance at 0x1090763f8>, <MyEdge.MyEdge instance at 0x109076440>, <MyEdge.MyEdge instance at 0x109076488>, <MyEdge.MyEdge instance at 0x1090764d0>, <MyEdge.MyEdge instance at 0x109076518>]
+
+Vertex test:
+HNL
+
+Degree vertices:
+Vertex HNL: 1
+Vertex LAX: 4
+Vertex SFO: 2
+Vertex ORD: 4
+Vertex DFW: 4
+Vertex LGA: 3
+Vertex PVD: 3
+Vertex MIA: 3
+
+Incident Edges:
+Vertex HNL: [2555]
+Vertex LAX: [2555, 337, 1233, 1743]
+Vertex SFO: [337, 1843]
+Vertex ORD: [1743, 1843, 849, 802]
+Vertex DFW: [1233, 802, 1387, 1120]
+Vertex LGA: [1387, 1099, 142]
+Vertex PVD: [849, 142, 1205]
+Vertex MIA: [1120, 1099, 1205]
+
+Adjacent Vertices:
+Vertex HNL: ['LAX']
+Vertex LAX: ['HNL', 'SFO', 'ORD', 'DFW']
+Vertex SFO: ['LAX', 'ORD']
+Vertex ORD: ['LAX', 'SFO', 'DFW', 'PVD']
+Vertex DFW: ['LAX', 'ORD', 'LGA', 'MIA']
+Vertex LGA: ['DFW', 'PVD', 'MIA']
+Vertex PVD: ['ORD', 'LGA', 'MIA']
+Vertex MIA: ['DFW', 'LGA', 'PVD']
+
+End Vertices:
+Edge 2555: ['HNL', 'LAX']
+Edge 337: ['LAX', 'SFO']
+Edge 1233: ['LAX', 'DFW']
+Edge 1743: ['LAX', 'ORD']
+Edge 1843: ['SFO', 'ORD']
+Edge 849: ['ORD', 'PVD']
+Edge 802: ['ORD', 'DFW']
+Edge 1387: ['DFW', 'LGA']
+Edge 1120: ['DFW', 'MIA']
+Edge 1099: ['LGA', 'MIA']
+Edge 142: ['PVD', 'LGA']
+Edge 1205: ['PVD', 'MIA']
+
+Are Adjacent?
+Vertices HNL, HNL: False
+Vertices HNL, LAX: True
+Vertices HNL, SFO: False
+Vertices HNL, ORD: False
+Vertices HNL, DFW: False
+Vertices HNL, LGA: False
+Vertices HNL, PVD: False
+Vertices HNL, MIA: False
+Vertices LAX, HNL: True
+Vertices LAX, LAX: False
+Vertices LAX, SFO: True
+Vertices LAX, ORD: True
+Vertices LAX, DFW: True
+Vertices LAX, LGA: False
+Vertices LAX, PVD: False
+Vertices LAX, MIA: False
+Vertices SFO, HNL: False
+Vertices SFO, LAX: True
+Vertices SFO, SFO: False
+Vertices SFO, ORD: True
+Vertices SFO, DFW: False
+Vertices SFO, LGA: False
+Vertices SFO, PVD: False
+Vertices SFO, MIA: False
+Vertices ORD, HNL: False
+Vertices ORD, LAX: True
+Vertices ORD, SFO: True
+Vertices ORD, ORD: False
+Vertices ORD, DFW: True
+Vertices ORD, LGA: False
+Vertices ORD, PVD: True
+Vertices ORD, MIA: False
+Vertices DFW, HNL: False
+Vertices DFW, LAX: True
+Vertices DFW, SFO: False
+Vertices DFW, ORD: True
+Vertices DFW, DFW: False
+Vertices DFW, LGA: True
+Vertices DFW, PVD: False
+Vertices DFW, MIA: True
+Vertices LGA, HNL: False
+Vertices LGA, LAX: False
+Vertices LGA, SFO: False
+Vertices LGA, ORD: False
+Vertices LGA, DFW: True
+Vertices LGA, LGA: False
+Vertices LGA, PVD: True
+Vertices LGA, MIA: True
+Vertices PVD, HNL: False
+Vertices PVD, LAX: False
+Vertices PVD, SFO: False
+Vertices PVD, ORD: True
+Vertices PVD, DFW: False
+Vertices PVD, LGA: True
+Vertices PVD, PVD: False
+Vertices PVD, MIA: True
+Vertices MIA, HNL: False
+Vertices MIA, LAX: False
+Vertices MIA, SFO: False
+Vertices MIA, ORD: False
+Vertices MIA, DFW: True
+Vertices MIA, LGA: True
+Vertices MIA, PVD: True
+Vertices MIA, MIA: False
+
+
+ DIRECTED GRAPH STUFF --------
+Directed?
+Edge 2555: False
+Edge 337: False
+Edge 1233: False
+Edge 1743: True
+Edge 1843: False
+Edge 849: False
+Edge 802: False
+Edge 1387: False
+Edge 1120: False
+Edge 1099: False
+Edge 142: True
+Edge 1205: False
+
+In degree:
+Vertex HNL: 1
+Vertex LAX: 3
+Vertex SFO: 2
+Vertex ORD: 4
+Vertex DFW: 4
+Vertex LGA: 3
+Vertex PVD: 2
+Vertex MIA: 3
+
+Incoming Edges:
+Vertex HNL: [2555]
+Vertex LAX: [2555, 337, 1233]
+Vertex SFO: [337, 1843]
+Vertex ORD: [1743, 1843, 849, 802]
+Vertex DFW: [1120, 1233, 802, 1387]
+Vertex LGA: [1099, 142, 1387]
+Vertex PVD: [1205, 849]
+Vertex MIA: [1120, 1099, 1205]
+
+Outgoing Edges:
+Vertex HNL: [2555]
+Vertex LAX: [2555, 337, 1233, 1743]
+Vertex SFO: [337, 1843]
+Vertex ORD: [1843, 849, 802]
+Vertex DFW: [1120, 1233, 802, 1387]
+Vertex LGA: [1099, 1387]
+Vertex PVD: [142, 1205, 849]
+Vertex MIA: [1120, 1099, 1205]
+
+Adjacent Incoming:
+Vertex HNL: ['LAX']
+Vertex LAX: ['HNL', 'SFO', 'DFW']
+Vertex SFO: ['LAX', 'ORD']
+Vertex ORD: ['LAX', 'SFO', 'DFW', 'PVD']
+Vertex DFW: ['LAX', 'ORD', 'LGA', 'MIA']
+Vertex LGA: ['DFW', 'PVD', 'MIA']
+Vertex PVD: ['ORD', 'MIA']
+Vertex MIA: ['DFW', 'LGA', 'PVD']
+
+Adjacent Outgoing:
+Vertex HNL: ['LAX']
+Vertex LAX: ['HNL', 'SFO', 'ORD', 'DFW']
+Vertex SFO: ['LAX', 'ORD']
+Vertex ORD: ['SFO', 'DFW', 'PVD']
+Vertex DFW: ['LAX', 'ORD', 'LGA', 'MIA']
+Vertex LGA: ['DFW', 'MIA']
+Vertex PVD: ['ORD', 'LGA', 'MIA']
+Vertex MIA: ['DFW', 'LGA', 'PVD']
+
+Removing an edge.
+Removed an edge.
+
+Num Edges:
+11
+
+Degree of LAX
+3
+
+Degree of HNL
+0
+
+Removing a vertex
+Removed a vertex
+
+List Vertices
+['LAX', 'SFO', 'ORD', 'DFW', 'LGA', 'PVD', 'MIA']
+[1m[7m%[27m[1m[0m                                                                                                        ]2;Alex@Alexs-MacBook-Pro: ~/ClassWork/CS4310/Assignment 7]1;../Assignment 7[0m[27m[24m[J[01;32m➜  [36mAssignment 7[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=eexit[?1l>
+]2;exit]1;exit
+Script done on Fri Nov 11 22:31:01 2016
