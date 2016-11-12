@@ -1,5 +1,8 @@
-all :
-	python tester.py
+dir :
+	python test_directed.py
+
+adj :
+	python test_adjacency.py
 
 clean :
 	rm *.pyc

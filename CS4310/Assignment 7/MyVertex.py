@@ -44,7 +44,10 @@ class MyVertex:
 		self.aV[vtx.getUid()] = vtx
 
 	def get_adjacent(self):
-		ret = []
-		for i, e in self.aV.iteritems():
-			ret.append(e)
-		return ret
+		return self.aV.values()
+
+	def get_incoming(self):
+		return self.Ei.values()
+
+	def get_outgoing(self):
+		return self.Eo.values()

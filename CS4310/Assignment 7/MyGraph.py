@@ -68,18 +68,10 @@ class MyGraph:
 		return len(self.E)
 
 	def list_vertices(self):
-		ret = []
-		for i, e in self.V.iteritems():
-			ret.append(e)
-
-		return ret
+		return self.V.values()
 	
 	def list_edges(self):
-		ret = []
-		for i, e in self.E.iteritems():
-			ret.append(e)
-
-		return ret
+		return self.E.values()
 
 	def vertex(self, uid):
 		return self.V[uid]
@@ -101,3 +93,48 @@ class MyGraph:
 
 	def are_adjacent(self, uid1, uid2):
 		return uid2 in self.V[uid1].aV
+
+	# TODO: test
+	def is_directed(self, uid):
+		return self.E[uid].is_directed()
+
+	# TODO: test
+	def in_degree(self, uid):
+		return len(self.V[uid].Ei)
+
+	# TODO: test
+	def out_degree(self, uid):
+		return len(self.V[uid].Eo)
+	
+	# TODO: test
+	def incoming_edges(self, uid):
+		return self.V[uid].get_incoming()
+
+	# TODO: test
+	def outgoing_edges(self, uid):
+		return self.V[uid].get_outgoing()
+
+	def adjacent_incoming(self, uid):
+		ret = {}
+		for i, e in enumerate(self.incoming_edges(uid)):
+			if uid is not e.v1:
+				ret[e.v1] = self.vertex(e.v1)
+
+			if uid is not e.v2:
+				ret[e.v2] = self.vertex(e.v2)
+
+		return ret.values()
+
+	# TODO: test
+	def adjacent_outgoing(self, uid):
+		ret = {}
+		for i, e in enumerate(self.outgoing_edges(uid)):
+			if uid is not e.v1:
+				ret[e.v1] = self.vertex(e.v1)
+
+			if uid is not e.v2:
+				ret[e.v2] = self.vertex(e.v2)
+
+		return ret.values()
+
+

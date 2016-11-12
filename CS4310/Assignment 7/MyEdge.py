@@ -22,11 +22,11 @@ class MyEdge:
 	def is_directed(self):
 		return self.directed == True
 
-	def getLeftVertex(self):
-		return self.vleft
+	def getVertex1(self):
+		return self.v1
 	
-	def getRightVertex(self):
-		return self.vright
+	def getVertex2(self):
+		return self.v2
 
 	def setVertex1(self, vtx):
 		self.v1 = vtx

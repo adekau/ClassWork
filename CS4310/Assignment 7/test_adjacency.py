@@ -15,6 +15,9 @@ graph.new_edge(1,2)	 #2
 graph.new_edge(2,1,True) #3
 graph.new_edge(2,2)	 #4
 
+print "Memory Addresses"
+print graph.list_vertices()
+
 print "A Adjacency"
 print graph.vertex(0).aV
 print "B Adjacency"
@@ -45,3 +48,15 @@ print graph.are_adjacent(1, 2)
 print "Are 0 and 2 adjacent? (should be false)"
 print graph.are_adjacent(0, 2)
 
+print "Adjacent incoming A"
+print map(lambda x: x.getUid(),graph.adjacent_incoming(0))
+print "Adjacent incoming B"
+print map(lambda x: x.getUid(),graph.adjacent_incoming(1))
+print "Adjacent incoming C"
+print map(lambda x: x.getUid(),graph.adjacent_incoming(2))
+print "Adjacent outgoing A"
+print map(lambda x: x.getUid(),graph.adjacent_outgoing(0))
+print "Adjacent outgoing B"
+print map(lambda x: x.getUid(),graph.adjacent_outgoing(1))
+print "Adjacent outgoing C"
+print map(lambda x: x.getUid(),graph.adjacent_outgoing(2))
